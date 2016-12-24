@@ -1,0 +1,46 @@
+{
+	"int" : ["funda_amount",
+		"funda_amount_increase",
+		"owned"
+	],
+	"float" : ["funda_coupon",
+		"funda_coupon_next",
+		"funda_current_price",
+		"funda_volume",
+		"funda_value",
+		"left_recalc_year"
+	],
+	"percent" : ["funda_amount_increase_rt",
+		"funda_base_est_dis_rt",
+		"funda_base_est_dis_rt_t1",
+		"funda_base_est_dis_rt_t2",
+		"funda_discount_rt",
+		"funda_increase_rt",
+		"funda_index_increase_rt",
+		"funda_lower_recalc_rt",
+		"funda_profit_rt",
+		"funda_profit_rt_next",
+		"fundb_upper_recalc_rt"
+	],
+	"plus_percent" :["coupon_descr",
+		"coupon_descr_s"
+	],
+	"text" : ["abrate",
+		"base_est_dis_rt_tip",
+		"calc_info",
+		"fund_descr",
+		"funda_base_fund_id",
+		"funda_id",
+		"funda_index_id",
+		"funda_index_name",
+		"funda_left_year",
+		"funda_name",
+		"funda_nav_dt",
+		"fundb_upper_recalc_rt_info",
+		"last_time",
+		"lower_recalc_profit_rt",
+		"next_recalc_dt",
+		"price_tips",
+		"status_cd"
+	]
+}
