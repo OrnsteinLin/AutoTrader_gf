@@ -1,0 +1,3 @@
+2016-12-24 18:39:46,102 [DEBUG] autotrader.py 37: Starting loginning
+2016-12-24 18:40:05,962 [DEBUG] autotrader.py 87: Running started
+2016-12-24 18:40:24,011 [DEBUG] autotrader.py 98: Running stoped
