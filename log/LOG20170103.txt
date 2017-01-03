@@ -1,0 +1,1249 @@
+2017-01-03 09:32:13,523 [DEBUG] autotrader.py 37: Starting loginning
+2017-01-03 09:32:24,501 [DEBUG] autotrader.py 87: Running started
+2017-01-03 09:32:45,352 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:32:45,361 [INFO] astrategy.py 504: Now macket status: -0.018378378378378378
+2017-01-03 09:32:45,361 [INFO] astrategy.py 416: TOP3:  ['150217', '150173', '150255', '502049', '150275']
+2017-01-03 09:32:45,362 [INFO] astrategy.py 417: NowPosition:  ['150217', '150173', '150255', '502049', '150177']
+2017-01-03 09:32:45,362 [INFO] astrategy.py 442: sell: id: 150177 amount: 4579.0 price: 1.026 nowprice: 1.026
+2017-01-03 09:32:45,566 [DEBUG] gftrader.py 108: raw response: {"total":1,"data":[{"error_no":"0","entrust_bs":"2","seat_no":"234800","entrust_type":"0","stock_code":"150177","order_id":"3855","orig_order_id":"3855","entrust_status":"1","entrust_amount":"4579.00","entrust_price":"1.026","entrust_no":"3855","init_date":"20170103","fund_account":"9237965","report_no":"3855","error_info":"","batch_no":"3855","entrust_time":"93245"}],"success":true}
+2017-01-03 09:33:04,317 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:33:04,325 [INFO] astrategy.py 504: Now macket status: -0.02108108108108108
+2017-01-03 09:33:04,325 [INFO] astrategy.py 416: TOP3:  ['150217', '150173', '150255', '502049', '150275']
+2017-01-03 09:33:04,325 [INFO] astrategy.py 417: NowPosition:  ['150217', '150173', '150255', '502049']
+2017-01-03 09:33:04,325 [INFO] astrategy.py 472: buy: 150275  value:  183403.675 price: 0.98 nowprice: 0.98
+2017-01-03 09:33:04,532 [DEBUG] gftrader.py 108: raw response: {"total":1,"data":[{"error_no":"0","entrust_bs":"1","seat_no":"234800","entrust_type":"0","stock_code":"150275","order_id":"3990","orig_order_id":"3990","entrust_status":"1","entrust_amount":"187100.00","entrust_price":"0.980","entrust_no":"3990","init_date":"20170103","fund_account":"9237965","report_no":"3990","error_info":"","batch_no":"3990","entrust_time":"93304"}],"success":true}
+2017-01-03 09:33:20,613 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:33:20,621 [INFO] astrategy.py 504: Now macket status: -0.018378378378378378
+2017-01-03 09:33:20,621 [INFO] astrategy.py 416: TOP3:  ['150217', '150173', '150255', '502049', '150275']
+2017-01-03 09:33:20,621 [INFO] astrategy.py 417: NowPosition:  ['150217', '150173', '150255', '502049']
+2017-01-03 09:33:39,004 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:33:39,012 [INFO] astrategy.py 504: Now macket status: -0.018378378378378378
+2017-01-03 09:33:39,013 [INFO] astrategy.py 416: TOP3:  ['150217', '150173', '150255', '502049', '150275']
+2017-01-03 09:33:39,013 [INFO] astrategy.py 417: NowPosition:  ['150217', '150173', '150255', '502049']
+2017-01-03 09:33:56,956 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:33:56,963 [INFO] astrategy.py 504: Now macket status: -0.018378378378378378
+2017-01-03 09:33:56,965 [INFO] astrategy.py 416: TOP3:  ['150217', '150173', '150255', '502049', '150275']
+2017-01-03 09:33:56,966 [INFO] astrategy.py 417: NowPosition:  ['150217', '150173', '150255', '502049']
+2017-01-03 09:34:15,497 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:34:15,505 [INFO] astrategy.py 504: Now macket status: -0.009999999999999998
+2017-01-03 09:34:15,507 [INFO] astrategy.py 416: TOP3:  ['150217', '150255', '502049', '150275', '150277']
+2017-01-03 09:34:15,508 [INFO] astrategy.py 417: NowPosition:  ['150217', '150255', '502049', '150173']
+2017-01-03 09:34:15,509 [INFO] astrategy.py 442: sell: id: 150173 amount: 54600.0 price: 0.982 nowprice: 0.982
+2017-01-03 09:34:15,510 [INFO] astrategy.py 472: buy: 150277  value:  91717.34 price: 0.993 nowprice: 0.993
+2017-01-03 09:34:15,715 [DEBUG] gftrader.py 108: raw response: {"total":1,"data":[{"error_no":"0","entrust_bs":"2","seat_no":"234800","entrust_type":"0","stock_code":"150173","order_id":"4496","orig_order_id":"4496","entrust_status":"1","entrust_amount":"54600.00","entrust_price":"0.982","entrust_no":"4496","init_date":"20170103","fund_account":"9237965","report_no":"4496","error_info":"","batch_no":"4496","entrust_time":"93415"}],"success":true}
+2017-01-03 09:34:15,923 [DEBUG] gftrader.py 108: raw response: {"total":1,"data":[{"error_no":"0","entrust_bs":"1","seat_no":"234800","entrust_type":"0","stock_code":"150277","order_id":"4498","orig_order_id":"4498","entrust_status":"1","entrust_amount":"92300.00","entrust_price":"0.993","entrust_no":"4498","init_date":"20170103","fund_account":"9237965","report_no":"4498","error_info":"","batch_no":"4498","entrust_time":"93415"}],"success":true}
+2017-01-03 09:34:32,697 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:34:32,705 [INFO] astrategy.py 504: Now macket status: -0.0072972972972972965
+2017-01-03 09:34:32,707 [INFO] astrategy.py 416: TOP3:  ['150217', '150255', '502049', '150277', '150203']
+2017-01-03 09:34:32,708 [INFO] astrategy.py 417: NowPosition:  ['150217', '150255', '502049', '150275', '150173']
+2017-01-03 09:34:51,097 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:34:51,106 [INFO] astrategy.py 504: Now macket status: -0.01027027027027027
+2017-01-03 09:34:51,108 [INFO] astrategy.py 416: TOP3:  ['150217', '150255', '502049', '150275', '150277']
+2017-01-03 09:34:51,108 [INFO] astrategy.py 417: NowPosition:  ['150217', '150255', '502049', '150275', '150173']
+2017-01-03 09:35:09,212 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:35:09,221 [INFO] astrategy.py 504: Now macket status: -0.01027027027027027
+2017-01-03 09:35:09,222 [INFO] astrategy.py 416: TOP3:  ['150217', '150255', '502049', '150275', '150277']
+2017-01-03 09:35:09,223 [INFO] astrategy.py 417: NowPosition:  ['150217', '150255', '502049', '150275', '150173']
+2017-01-03 09:35:26,684 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:35:26,693 [INFO] astrategy.py 504: Now macket status: -0.01027027027027027
+2017-01-03 09:35:26,694 [INFO] astrategy.py 416: TOP3:  ['150217', '150255', '502049', '150275', '150277']
+2017-01-03 09:35:26,695 [INFO] astrategy.py 417: NowPosition:  ['150217', '150255', '502049', '150275', '150173']
+2017-01-03 09:35:47,657 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:35:47,665 [INFO] astrategy.py 504: Now macket status: -0.025945945945945945
+2017-01-03 09:35:47,666 [INFO] astrategy.py 416: TOP3:  ['150217', '502049', '150275', '150255', '150277']
+2017-01-03 09:35:47,667 [INFO] astrategy.py 417: NowPosition:  ['150217', '502049', '150255', '150275', '150173']
+2017-01-03 09:36:03,456 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:36:03,464 [INFO] astrategy.py 504: Now macket status: -0.04243243243243243
+2017-01-03 09:36:03,466 [INFO] astrategy.py 416: TOP3:  ['150217', '502049', '150173', '150275', '150255']
+2017-01-03 09:36:03,467 [INFO] astrategy.py 417: NowPosition:  ['150217', '502049', '150173', '150255', '150275']
+2017-01-03 09:36:03,468 [INFO] astrategy.py 493: del: 150173  entrust_id: 4496
+2017-01-03 09:36:03,726 [DEBUG] gftrader.py 108: raw response: {"total":1,"data":[{"error_no":"0","entrust_bs":"2","entrust_no_old":"4496","money_type":"0","entrust_type":"2","exchange_type":"2","seat_no":"234800","stock_code":"150173","entrust_status_old":"3","business_amount":"0","order_id":"5269","orig_order_id":"4496","entrust_status":" ","entrust_amount":"54600.00","entrust_price":"0.982","entrust_no":"5269","fund_account":"9237965","report_no_old":"4496","report_no":"4496","stock_account":"0184731551","error_info":"","batch_no":"0","business_price":"0"}],"success":true}
+2017-01-03 09:36:20,958 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:36:20,966 [INFO] astrategy.py 504: Now macket status: -0.045135135135135125
+2017-01-03 09:36:20,967 [INFO] astrategy.py 416: TOP3:  ['150217', '502049', '150173', '150275', '150255']
+2017-01-03 09:36:20,968 [INFO] astrategy.py 417: NowPosition:  ['150217', '502049', '150173', '150255', '150275']
+2017-01-03 09:36:38,598 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:36:38,607 [INFO] astrategy.py 504: Now macket status: -0.045135135135135125
+2017-01-03 09:36:38,609 [INFO] astrategy.py 416: TOP3:  ['150217', '502049', '150173', '150275', '150255']
+2017-01-03 09:36:38,610 [INFO] astrategy.py 417: NowPosition:  ['150217', '502049', '150173', '150255', '150275']
+2017-01-03 09:36:57,590 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:36:57,599 [INFO] astrategy.py 504: Now macket status: -0.045135135135135125
+2017-01-03 09:36:57,600 [INFO] astrategy.py 416: TOP3:  ['150217', '502049', '150173', '150275', '150255']
+2017-01-03 09:36:57,601 [INFO] astrategy.py 417: NowPosition:  ['150217', '502049', '150173', '150255', '150275']
+2017-01-03 09:37:17,644 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:37:17,653 [INFO] astrategy.py 504: Now macket status: -0.045135135135135125
+2017-01-03 09:37:17,654 [INFO] astrategy.py 416: TOP3:  ['150217', '502049', '150173', '150275', '150255']
+2017-01-03 09:37:17,655 [INFO] astrategy.py 417: NowPosition:  ['150217', '502049', '150173', '150255', '150275']
+2017-01-03 09:37:33,751 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:37:33,760 [INFO] astrategy.py 504: Now macket status: -0.03459459459459459
+2017-01-03 09:37:33,760 [INFO] astrategy.py 416: TOP3:  ['150255', '502049', '150173', '150275', '150277']
+2017-01-03 09:37:33,762 [INFO] astrategy.py 417: NowPosition:  ['150255', '502049', '150173', '150275', '150217']
+2017-01-03 09:37:50,628 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:37:50,637 [INFO] astrategy.py 504: Now macket status: -0.03459459459459459
+2017-01-03 09:37:50,639 [INFO] astrategy.py 416: TOP3:  ['150255', '502049', '150173', '150275', '150277']
+2017-01-03 09:37:50,640 [INFO] astrategy.py 417: NowPosition:  ['150255', '502049', '150173', '150275', '150217']
+2017-01-03 09:38:08,891 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:38:08,899 [INFO] astrategy.py 504: Now macket status: -0.04540540540540541
+2017-01-03 09:38:08,900 [INFO] astrategy.py 416: TOP3:  ['150255', '502049', '150173', '150275', '150277']
+2017-01-03 09:38:08,902 [INFO] astrategy.py 417: NowPosition:  ['150255', '502049', '150173', '150275', '150217']
+2017-01-03 09:38:27,024 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:38:27,033 [INFO] astrategy.py 504: Now macket status: -0.04540540540540541
+2017-01-03 09:38:27,035 [INFO] astrategy.py 416: TOP3:  ['150255', '502049', '150173', '150275', '150277']
+2017-01-03 09:38:27,036 [INFO] astrategy.py 417: NowPosition:  ['150255', '502049', '150173', '150275', '150217']
+2017-01-03 09:38:44,999 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:38:45,008 [INFO] astrategy.py 504: Now macket status: -0.04837837837837838
+2017-01-03 09:38:45,010 [INFO] astrategy.py 416: TOP3:  ['150255', '502049', '150173', '150275', '150277']
+2017-01-03 09:38:45,025 [INFO] astrategy.py 417: NowPosition:  ['150255', '502049', '150173', '150275', '150217']
+2017-01-03 09:39:03,356 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:39:03,365 [INFO] astrategy.py 504: Now macket status: -0.04297297297297297
+2017-01-03 09:39:03,367 [INFO] astrategy.py 416: TOP3:  ['150255', '502049', '150173', '150275', '150277']
+2017-01-03 09:39:03,368 [INFO] astrategy.py 417: NowPosition:  ['150255', '502049', '150173', '150275', '150217']
+2017-01-03 09:39:20,942 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:39:20,951 [INFO] astrategy.py 504: Now macket status: -0.04837837837837838
+2017-01-03 09:39:20,952 [INFO] astrategy.py 416: TOP3:  ['150255', '502049', '150173', '150275', '150277']
+2017-01-03 09:39:20,953 [INFO] astrategy.py 417: NowPosition:  ['150255', '502049', '150173', '150275', '150217']
+2017-01-03 09:39:38,598 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:39:38,607 [INFO] astrategy.py 504: Now macket status: -0.045675675675675674
+2017-01-03 09:39:38,608 [INFO] astrategy.py 416: TOP3:  ['150255', '502049', '150173', '150275', '150277']
+2017-01-03 09:39:38,609 [INFO] astrategy.py 417: NowPosition:  ['150255', '502049', '150173', '150275', '150217']
+2017-01-03 09:39:56,958 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:39:56,967 [INFO] astrategy.py 504: Now macket status: -0.045675675675675674
+2017-01-03 09:39:56,969 [INFO] astrategy.py 416: TOP3:  ['150255', '502049', '150173', '150275', '150277']
+2017-01-03 09:39:56,970 [INFO] astrategy.py 417: NowPosition:  ['150255', '502049', '150173', '150275', '150217']
+2017-01-03 09:40:15,722 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:40:15,731 [INFO] astrategy.py 504: Now macket status: -0.05108108108108109
+2017-01-03 09:40:15,733 [INFO] astrategy.py 416: TOP3:  ['150255', '502049', '150173', '150275', '150277']
+2017-01-03 09:40:15,734 [INFO] astrategy.py 417: NowPosition:  ['502049', '150255', '150173', '150275', '150217']
+2017-01-03 09:40:33,335 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:40:33,344 [INFO] astrategy.py 504: Now macket status: -0.0645945945945946
+2017-01-03 09:40:33,345 [INFO] astrategy.py 416: TOP3:  ['150255', '502049', '150173', '150275', '150277']
+2017-01-03 09:40:33,346 [INFO] astrategy.py 417: NowPosition:  ['502049', '150255', '150173', '150275', '150217']
+2017-01-03 09:40:50,702 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:40:50,712 [INFO] astrategy.py 504: Now macket status: -0.0645945945945946
+2017-01-03 09:40:50,713 [INFO] astrategy.py 416: TOP3:  ['150255', '502049', '150173', '150275', '150277']
+2017-01-03 09:40:50,714 [INFO] astrategy.py 417: NowPosition:  ['502049', '150255', '150173', '150275', '150217']
+2017-01-03 09:41:09,056 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:41:09,066 [INFO] astrategy.py 504: Now macket status: -0.0645945945945946
+2017-01-03 09:41:09,067 [INFO] astrategy.py 416: TOP3:  ['150255', '502049', '150173', '150275', '150277']
+2017-01-03 09:41:09,068 [INFO] astrategy.py 417: NowPosition:  ['502049', '150255', '150173', '150275', '150217']
+2017-01-03 09:41:26,555 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:41:26,564 [INFO] astrategy.py 504: Now macket status: -0.0645945945945946
+2017-01-03 09:41:26,565 [INFO] astrategy.py 416: TOP3:  ['150255', '502049', '150173', '150275', '150277']
+2017-01-03 09:41:26,566 [INFO] astrategy.py 417: NowPosition:  ['502049', '150255', '150173', '150275', '150217']
+2017-01-03 09:41:46,070 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:41:46,079 [INFO] astrategy.py 504: Now macket status: -0.04567567567567568
+2017-01-03 09:41:46,080 [INFO] astrategy.py 416: TOP3:  ['502049', '150173', '150275', '150255', '150277']
+2017-01-03 09:41:46,081 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150255', '150275', '150217']
+2017-01-03 09:42:03,615 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:42:03,624 [INFO] astrategy.py 504: Now macket status: -0.048378378378378384
+2017-01-03 09:42:03,626 [INFO] astrategy.py 416: TOP3:  ['502049', '150173', '150275', '150255', '150277']
+2017-01-03 09:42:03,627 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150255', '150275', '150217']
+2017-01-03 09:42:21,680 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:42:21,689 [INFO] astrategy.py 504: Now macket status: -0.048378378378378384
+2017-01-03 09:42:21,691 [INFO] astrategy.py 416: TOP3:  ['502049', '150173', '150275', '150255', '150277']
+2017-01-03 09:42:21,691 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150255', '150275', '150217']
+2017-01-03 09:42:38,594 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:42:38,603 [INFO] astrategy.py 504: Now macket status: -0.048378378378378384
+2017-01-03 09:42:38,605 [INFO] astrategy.py 416: TOP3:  ['502049', '150173', '150275', '150255', '150277']
+2017-01-03 09:42:38,606 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150255', '150275', '150217']
+2017-01-03 09:42:56,867 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:42:56,876 [INFO] astrategy.py 504: Now macket status: -0.05108108108108109
+2017-01-03 09:42:56,878 [INFO] astrategy.py 416: TOP3:  ['502049', '150173', '150275', '150255', '150277']
+2017-01-03 09:42:56,879 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150255', '150275', '150217']
+2017-01-03 09:43:14,860 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:43:14,869 [INFO] astrategy.py 504: Now macket status: -0.014054054054054054
+2017-01-03 09:43:14,871 [INFO] astrategy.py 416: TOP3:  ['502049', '150203', '150173', '150275', '150255']
+2017-01-03 09:43:14,871 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150255', '150275', '150217']
+2017-01-03 09:43:32,936 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:43:32,945 [INFO] astrategy.py 504: Now macket status: -0.011351351351351352
+2017-01-03 09:43:32,947 [INFO] astrategy.py 416: TOP3:  ['502049', '150203', '150173', '150275', '150255']
+2017-01-03 09:43:32,947 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150255', '150275', '150217']
+2017-01-03 09:43:50,605 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:43:50,615 [INFO] astrategy.py 504: Now macket status: -0.011351351351351352
+2017-01-03 09:43:50,616 [INFO] astrategy.py 416: TOP3:  ['502049', '150203', '150173', '150275', '150255']
+2017-01-03 09:43:50,617 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150255', '150275', '150217']
+2017-01-03 09:44:08,571 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:44:08,579 [INFO] astrategy.py 504: Now macket status: -0.011351351351351352
+2017-01-03 09:44:08,580 [INFO] astrategy.py 416: TOP3:  ['502049', '150203', '150173', '150275', '150255']
+2017-01-03 09:44:08,582 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150255', '150275', '150217']
+2017-01-03 09:44:26,934 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:44:26,943 [INFO] astrategy.py 504: Now macket status: -0.00864864864864865
+2017-01-03 09:44:26,945 [INFO] astrategy.py 416: TOP3:  ['502049', '150203', '150173', '150275', '150255']
+2017-01-03 09:44:26,945 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150255', '150275', '150217']
+2017-01-03 09:44:45,711 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:44:45,720 [INFO] astrategy.py 504: Now macket status: -0.003243243243243244
+2017-01-03 09:44:45,722 [INFO] astrategy.py 416: TOP3:  ['150203', '502049', '150173', '150275', '150255']
+2017-01-03 09:44:45,722 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150255', '150275', '150217']
+2017-01-03 09:45:02,664 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:45:02,673 [INFO] astrategy.py 504: Now macket status: -0.000540540540540541
+2017-01-03 09:45:02,675 [INFO] astrategy.py 416: TOP3:  ['150203', '502049', '150173', '150275', '150255']
+2017-01-03 09:45:02,676 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150255', '150275', '150217']
+2017-01-03 09:45:20,641 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:45:20,650 [INFO] astrategy.py 504: Now macket status: -0.003243243243243243
+2017-01-03 09:45:20,651 [INFO] astrategy.py 416: TOP3:  ['150203', '502049', '150173', '150275', '150255']
+2017-01-03 09:45:20,653 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150255', '150275', '150217']
+2017-01-03 09:45:39,048 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:45:39,057 [INFO] astrategy.py 504: Now macket status: -0.013783783783783784
+2017-01-03 09:45:39,060 [INFO] astrategy.py 416: TOP3:  ['150217', '150203', '502049', '150173', '150275']
+2017-01-03 09:45:39,060 [INFO] astrategy.py 417: NowPosition:  ['150217', '502049', '150173', '150255', '150275']
+2017-01-03 09:45:56,857 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:45:56,866 [INFO] astrategy.py 504: Now macket status: -0.013783783783783784
+2017-01-03 09:45:56,867 [INFO] astrategy.py 416: TOP3:  ['150217', '150203', '502049', '150173', '150275']
+2017-01-03 09:45:56,868 [INFO] astrategy.py 417: NowPosition:  ['150217', '502049', '150173', '150255', '150275']
+2017-01-03 09:46:16,047 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:46:16,056 [INFO] astrategy.py 504: Now macket status: -0.011081081081081082
+2017-01-03 09:46:16,057 [INFO] astrategy.py 416: TOP3:  ['150217', '150203', '502049', '150173', '150275']
+2017-01-03 09:46:16,058 [INFO] astrategy.py 417: NowPosition:  ['150217', '502049', '150173', '150255', '150275']
+2017-01-03 09:46:32,880 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:46:32,890 [INFO] astrategy.py 504: Now macket status: -0.00837837837837838
+2017-01-03 09:46:32,891 [INFO] astrategy.py 416: TOP3:  ['150217', '150203', '502049', '150173', '150275']
+2017-01-03 09:46:32,891 [INFO] astrategy.py 417: NowPosition:  ['150217', '502049', '150173', '150255', '150275']
+2017-01-03 09:46:50,771 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:46:50,780 [INFO] astrategy.py 504: Now macket status: -0.00837837837837838
+2017-01-03 09:46:50,782 [INFO] astrategy.py 416: TOP3:  ['150217', '150203', '502049', '150173', '150275']
+2017-01-03 09:46:50,782 [INFO] astrategy.py 417: NowPosition:  ['150217', '502049', '150173', '150255', '150275']
+2017-01-03 09:47:09,453 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:47:09,462 [INFO] astrategy.py 504: Now macket status: -0.014054054054054058
+2017-01-03 09:47:09,463 [INFO] astrategy.py 416: TOP3:  ['150217', '150203', '502049', '150173', '150275']
+2017-01-03 09:47:09,465 [INFO] astrategy.py 417: NowPosition:  ['150217', '502049', '150173', '150255', '150275']
+2017-01-03 09:47:30,137 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:47:30,146 [INFO] astrategy.py 504: Now macket status: -0.022432432432432425
+2017-01-03 09:47:30,148 [INFO] astrategy.py 416: TOP3:  ['150217', '150173', '150203', '502049', '150275']
+2017-01-03 09:47:30,148 [INFO] astrategy.py 417: NowPosition:  ['150217', '150173', '502049', '150255', '150275']
+2017-01-03 09:47:45,326 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:47:45,335 [INFO] astrategy.py 504: Now macket status: -0.02513513513513513
+2017-01-03 09:47:45,337 [INFO] astrategy.py 416: TOP3:  ['150217', '150173', '502049', '150203', '150275']
+2017-01-03 09:47:45,338 [INFO] astrategy.py 417: NowPosition:  ['150217', '502049', '150173', '150255', '150275']
+2017-01-03 09:48:03,686 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:48:03,695 [INFO] astrategy.py 504: Now macket status: -0.03027027027027026
+2017-01-03 09:48:03,696 [INFO] astrategy.py 416: TOP3:  ['150217', '150173', '502049', '150203', '150275']
+2017-01-03 09:48:03,697 [INFO] astrategy.py 417: NowPosition:  ['150217', '502049', '150173', '150255', '150275']
+2017-01-03 09:48:21,368 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:48:21,377 [INFO] astrategy.py 504: Now macket status: -0.027567567567567564
+2017-01-03 09:48:21,378 [INFO] astrategy.py 416: TOP3:  ['150217', '150173', '150203', '502049', '150275']
+2017-01-03 09:48:21,379 [INFO] astrategy.py 417: NowPosition:  ['150217', '150173', '502049', '150255', '150275']
+2017-01-03 09:48:38,885 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:48:38,894 [INFO] astrategy.py 504: Now macket status: -0.027567567567567564
+2017-01-03 09:48:38,896 [INFO] astrategy.py 416: TOP3:  ['150217', '150173', '150203', '502049', '150275']
+2017-01-03 09:48:38,897 [INFO] astrategy.py 417: NowPosition:  ['150217', '150173', '502049', '150255', '150275']
+2017-01-03 09:48:56,631 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:48:56,640 [INFO] astrategy.py 504: Now macket status: -0.030540540540540537
+2017-01-03 09:48:56,641 [INFO] astrategy.py 416: TOP3:  ['150217', '150173', '502049', '150203', '150275']
+2017-01-03 09:48:56,642 [INFO] astrategy.py 417: NowPosition:  ['150217', '502049', '150173', '150255', '150275']
+2017-01-03 09:49:14,790 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:49:14,799 [INFO] astrategy.py 504: Now macket status: -0.033243243243243244
+2017-01-03 09:49:14,801 [INFO] astrategy.py 416: TOP3:  ['150217', '150173', '502049', '150203', '150275']
+2017-01-03 09:49:14,802 [INFO] astrategy.py 417: NowPosition:  ['150217', '502049', '150173', '150255', '150275']
+2017-01-03 09:49:33,123 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:49:33,131 [INFO] astrategy.py 504: Now macket status: -0.030540540540540537
+2017-01-03 09:49:33,132 [INFO] astrategy.py 416: TOP3:  ['150217', '150173', '502049', '150203', '150275']
+2017-01-03 09:49:33,134 [INFO] astrategy.py 417: NowPosition:  ['150217', '502049', '150173', '150255', '150275']
+2017-01-03 09:49:50,631 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:49:50,640 [INFO] astrategy.py 504: Now macket status: -0.030540540540540537
+2017-01-03 09:49:50,642 [INFO] astrategy.py 416: TOP3:  ['150217', '150173', '502049', '150203', '150275']
+2017-01-03 09:49:50,642 [INFO] astrategy.py 417: NowPosition:  ['150217', '502049', '150173', '150255', '150275']
+2017-01-03 09:50:09,090 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:50:09,099 [INFO] astrategy.py 504: Now macket status: -0.02783783783783783
+2017-01-03 09:50:09,101 [INFO] astrategy.py 416: TOP3:  ['150217', '150173', '502049', '150203', '150275']
+2017-01-03 09:50:09,101 [INFO] astrategy.py 417: NowPosition:  ['150217', '502049', '150173', '150255', '150275']
+2017-01-03 09:50:26,797 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:50:26,806 [INFO] astrategy.py 504: Now macket status: -0.02513513513513513
+2017-01-03 09:50:26,808 [INFO] astrategy.py 416: TOP3:  ['150217', '150173', '502049', '150203', '150275']
+2017-01-03 09:50:26,808 [INFO] astrategy.py 417: NowPosition:  ['150217', '502049', '150173', '150255', '150275']
+2017-01-03 09:50:44,869 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:50:44,878 [INFO] astrategy.py 504: Now macket status: -0.02513513513513513
+2017-01-03 09:50:44,879 [INFO] astrategy.py 416: TOP3:  ['150217', '150173', '502049', '150203', '150275']
+2017-01-03 09:50:44,880 [INFO] astrategy.py 417: NowPosition:  ['150217', '502049', '150173', '150255', '150275']
+2017-01-03 09:51:02,648 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:51:02,657 [INFO] astrategy.py 504: Now macket status: -0.022432432432432425
+2017-01-03 09:51:02,659 [INFO] astrategy.py 416: TOP3:  ['150217', '150173', '502049', '150203', '150275']
+2017-01-03 09:51:02,659 [INFO] astrategy.py 417: NowPosition:  ['150217', '502049', '150173', '150255', '150275']
+2017-01-03 09:51:21,063 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:51:21,071 [INFO] astrategy.py 504: Now macket status: -0.02513513513513513
+2017-01-03 09:51:21,072 [INFO] astrategy.py 416: TOP3:  ['150217', '150173', '502049', '150203', '150275']
+2017-01-03 09:51:21,074 [INFO] astrategy.py 417: NowPosition:  ['150217', '502049', '150173', '150255', '150275']
+2017-01-03 09:51:41,547 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:51:41,556 [INFO] astrategy.py 504: Now macket status: -0.02783783783783783
+2017-01-03 09:56:22,752 [DEBUG] autotrader.py 37: Starting loginning
+2017-01-03 09:56:30,384 [DEBUG] autotrader.py 87: Running started
+2017-01-03 09:56:50,745 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:56:50,753 [INFO] astrategy.py 504: Now macket status: -0.060000000000000005
+2017-01-03 09:56:50,754 [INFO] astrategy.py 416: TOP3:  ['150217', '150255', '150203', '150275', '502049']
+2017-01-03 09:56:50,754 [INFO] astrategy.py 417: NowPosition:  ['150217', '502049', '150255', '150275', '150173']
+2017-01-03 09:57:09,173 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:57:09,180 [INFO] astrategy.py 504: Now macket status: -0.0627027027027027
+2017-01-03 09:57:09,181 [INFO] astrategy.py 416: TOP3:  ['150217', '150255', '150203', '150275', '502049']
+2017-01-03 09:57:09,181 [INFO] astrategy.py 417: NowPosition:  ['150217', '502049', '150255', '150275', '150173']
+2017-01-03 09:57:29,543 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:57:29,551 [INFO] astrategy.py 504: Now macket status: -0.0654054054054054
+2017-01-03 09:57:29,551 [INFO] astrategy.py 416: TOP3:  ['150217', '150255', '150203', '150275', '502049']
+2017-01-03 09:57:29,551 [INFO] astrategy.py 417: NowPosition:  ['150217', '502049', '150255', '150275', '150173']
+2017-01-03 09:57:44,448 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:57:44,456 [INFO] astrategy.py 504: Now macket status: -0.0681081081081081
+2017-01-03 09:57:44,456 [INFO] astrategy.py 416: TOP3:  ['150217', '150173', '150255', '150203', '150275']
+2017-01-03 09:57:44,456 [INFO] astrategy.py 417: NowPosition:  ['150217', '502049', '150173', '150255', '150275']
+2017-01-03 09:58:03,428 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:58:03,435 [INFO] astrategy.py 504: Now macket status: -0.0681081081081081
+2017-01-03 09:58:03,436 [INFO] astrategy.py 416: TOP3:  ['150217', '502049', '150173', '150255', '150203']
+2017-01-03 09:58:03,436 [INFO] astrategy.py 417: NowPosition:  ['502049', '150217', '150173', '150255', '150275']
+2017-01-03 09:58:20,826 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:58:20,834 [INFO] astrategy.py 504: Now macket status: -0.07081081081081081
+2017-01-03 09:58:20,834 [INFO] astrategy.py 416: TOP3:  ['150217', '502049', '150173', '150255', '150203']
+2017-01-03 09:58:20,834 [INFO] astrategy.py 417: NowPosition:  ['502049', '150217', '150173', '150255', '150275']
+2017-01-03 09:58:41,475 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:58:41,482 [INFO] astrategy.py 504: Now macket status: -0.08432432432432431
+2017-01-03 09:58:41,483 [INFO] astrategy.py 416: TOP3:  ['150217', '502049', '150173', '150255', '150203']
+2017-01-03 09:58:41,483 [INFO] astrategy.py 417: NowPosition:  ['502049', '150217', '150173', '150255', '150275']
+2017-01-03 09:58:56,490 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:58:56,499 [INFO] astrategy.py 504: Now macket status: -0.08432432432432431
+2017-01-03 09:58:56,500 [INFO] astrategy.py 416: TOP3:  ['150217', '502049', '150173', '150255', '150203']
+2017-01-03 09:58:56,501 [INFO] astrategy.py 417: NowPosition:  ['502049', '150217', '150173', '150255', '150275']
+2017-01-03 09:59:14,485 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:59:14,494 [INFO] astrategy.py 504: Now macket status: -0.08702702702702703
+2017-01-03 09:59:14,496 [INFO] astrategy.py 416: TOP3:  ['150217', '502049', '150173', '150255', '150203']
+2017-01-03 09:59:14,496 [INFO] astrategy.py 417: NowPosition:  ['502049', '150217', '150173', '150255', '150275']
+2017-01-03 09:59:32,613 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:59:32,621 [INFO] astrategy.py 504: Now macket status: -0.10027027027027027
+2017-01-03 09:59:32,622 [INFO] astrategy.py 416: TOP3:  ['150100', '150217', '502049', '150173', '150255']
+2017-01-03 09:59:32,624 [INFO] astrategy.py 417: NowPosition:  ['502049', '150217', '150173', '150255', '150275']
+2017-01-03 09:59:50,640 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 09:59:50,648 [INFO] astrategy.py 504: Now macket status: -0.10027027027027027
+2017-01-03 09:59:50,649 [INFO] astrategy.py 416: TOP3:  ['150100', '150217', '502049', '150173', '150255']
+2017-01-03 09:59:50,651 [INFO] astrategy.py 417: NowPosition:  ['502049', '150217', '150173', '150255', '150275']
+2017-01-03 10:00:08,488 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:00:08,497 [INFO] astrategy.py 504: Now macket status: -0.10027027027027027
+2017-01-03 10:00:08,499 [INFO] astrategy.py 416: TOP3:  ['150100', '150217', '502049', '502004', '150173']
+2017-01-03 10:00:08,499 [INFO] astrategy.py 417: NowPosition:  ['502049', '150217', '150173', '150255', '150275']
+2017-01-03 10:00:08,500 [INFO] astrategy.py 486: del: 150277  entrust_id: 4498
+2017-01-03 10:00:08,703 [DEBUG] gftrader.py 108: raw response: {"total":1,"data":[{"error_no":"0","entrust_bs":"1","entrust_no_old":"4498","money_type":"0","entrust_type":"2","exchange_type":"2","seat_no":"234800","stock_code":"150277","entrust_status_old":"3","business_amount":"0","order_id":"13680","orig_order_id":"4498","entrust_status":" ","entrust_amount":"92300.00","entrust_price":"0.993","entrust_no":"13680","fund_account":"9237965","report_no_old":"4498","report_no":"4498","stock_account":"0184731551","error_info":"","batch_no":"0","business_price":"0"}],"success":true}
+2017-01-03 10:00:26,560 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:00:26,569 [INFO] astrategy.py 504: Now macket status: -0.10324324324324326
+2017-01-03 10:00:26,570 [INFO] astrategy.py 416: TOP3:  ['150100', '150217', '150275', '502049', '502004']
+2017-01-03 10:00:26,571 [INFO] astrategy.py 417: NowPosition:  ['502049', '150217', '150275', '150173', '150255']
+2017-01-03 10:00:45,022 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:00:45,030 [INFO] astrategy.py 504: Now macket status: -0.10027027027027027
+2017-01-03 10:00:45,031 [INFO] astrategy.py 416: TOP3:  ['150100', '150217', '502049', '150173', '150255']
+2017-01-03 10:00:45,032 [INFO] astrategy.py 417: NowPosition:  ['502049', '150217', '150173', '150255', '150275']
+2017-01-03 10:01:03,253 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:01:03,262 [INFO] astrategy.py 504: Now macket status: -0.1345945945945946
+2017-01-03 10:01:03,263 [INFO] astrategy.py 416: TOP3:  ['150100', '150217', '502049', '150173', '150255']
+2017-01-03 10:01:03,264 [INFO] astrategy.py 417: NowPosition:  ['502049', '150217', '150173', '150255', '150275']
+2017-01-03 10:01:20,441 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:01:20,450 [INFO] astrategy.py 504: Now macket status: -0.1318918918918919
+2017-01-03 10:01:20,452 [INFO] astrategy.py 416: TOP3:  ['150100', '150217', '502049', '150173', '150255']
+2017-01-03 10:01:20,452 [INFO] astrategy.py 417: NowPosition:  ['502049', '150217', '150173', '150255', '150275']
+2017-01-03 10:01:38,477 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:01:38,486 [INFO] astrategy.py 504: Now macket status: -0.1345945945945946
+2017-01-03 10:01:38,487 [INFO] astrategy.py 416: TOP3:  ['150100', '150217', '502049', '150173', '150255']
+2017-01-03 10:01:38,488 [INFO] astrategy.py 417: NowPosition:  ['502049', '150217', '150173', '150255', '150275']
+2017-01-03 10:01:56,761 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:01:56,770 [INFO] astrategy.py 504: Now macket status: -0.13189189189189188
+2017-01-03 10:01:56,772 [INFO] astrategy.py 416: TOP3:  ['150100', '150217', '502049', '150173', '150255']
+2017-01-03 10:01:56,772 [INFO] astrategy.py 417: NowPosition:  ['502049', '150217', '150173', '150255', '150275']
+2017-01-03 10:02:14,512 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:02:14,521 [INFO] astrategy.py 504: Now macket status: -0.13486486486486488
+2017-01-03 10:02:14,522 [INFO] astrategy.py 416: TOP3:  ['150100', '150217', '150275', '502049', '150173']
+2017-01-03 10:02:14,523 [INFO] astrategy.py 417: NowPosition:  ['502049', '150217', '150275', '150173', '150255']
+2017-01-03 10:02:32,907 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:02:32,916 [INFO] astrategy.py 504: Now macket status: -0.13189189189189188
+2017-01-03 10:02:32,918 [INFO] astrategy.py 416: TOP3:  ['150100', '150217', '502049', '150173', '150255']
+2017-01-03 10:02:32,918 [INFO] astrategy.py 417: NowPosition:  ['502049', '150217', '150173', '150255', '150275']
+2017-01-03 10:02:50,710 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:02:50,718 [INFO] astrategy.py 504: Now macket status: -0.1372972972972973
+2017-01-03 10:02:50,719 [INFO] astrategy.py 416: TOP3:  ['150100', '150217', '502049', '150173', '150255']
+2017-01-03 10:02:50,721 [INFO] astrategy.py 417: NowPosition:  ['502049', '150217', '150173', '150255', '150275']
+2017-01-03 10:03:09,590 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:03:09,599 [INFO] astrategy.py 504: Now macket status: -0.13999999999999999
+2017-01-03 10:03:09,601 [INFO] astrategy.py 416: TOP3:  ['150100', '150217', '502049', '150173', '150255']
+2017-01-03 10:03:09,601 [INFO] astrategy.py 417: NowPosition:  ['502049', '150217', '150173', '150255', '150275']
+2017-01-03 10:03:26,712 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:03:26,721 [INFO] astrategy.py 504: Now macket status: -0.13459459459459458
+2017-01-03 10:03:26,722 [INFO] astrategy.py 416: TOP3:  ['150100', '150217', '502049', '150173', '150255']
+2017-01-03 10:03:26,723 [INFO] astrategy.py 417: NowPosition:  ['502049', '150217', '150173', '150255', '150275']
+2017-01-03 10:03:44,436 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:03:44,445 [INFO] astrategy.py 504: Now macket status: -0.13459459459459458
+2017-01-03 10:03:44,446 [INFO] astrategy.py 416: TOP3:  ['150100', '150217', '502049', '150173', '150255']
+2017-01-03 10:03:44,448 [INFO] astrategy.py 417: NowPosition:  ['502049', '150217', '150173', '150255', '150275']
+2017-01-03 10:04:02,383 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:04:02,403 [INFO] astrategy.py 504: Now macket status: -0.13189189189189188
+2017-01-03 10:04:02,405 [INFO] astrategy.py 416: TOP3:  ['150100', '150217', '502049', '150173', '150255']
+2017-01-03 10:04:02,406 [INFO] astrategy.py 417: NowPosition:  ['502049', '150217', '150173', '150255', '150275']
+2017-01-03 10:04:20,411 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:04:20,420 [INFO] astrategy.py 504: Now macket status: -0.13189189189189188
+2017-01-03 10:04:20,421 [INFO] astrategy.py 416: TOP3:  ['150100', '150217', '502049', '150173', '150255']
+2017-01-03 10:04:20,422 [INFO] astrategy.py 417: NowPosition:  ['502049', '150217', '150173', '150255', '150275']
+2017-01-03 10:04:38,471 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:04:38,481 [INFO] astrategy.py 504: Now macket status: -0.14297297297297296
+2017-01-03 10:04:38,482 [INFO] astrategy.py 416: TOP3:  ['150100', '150217', '502049', '150173', '150255']
+2017-01-03 10:04:38,483 [INFO] astrategy.py 417: NowPosition:  ['502049', '150217', '150173', '150255', '150275']
+2017-01-03 10:04:56,978 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:04:56,986 [INFO] astrategy.py 504: Now macket status: -0.14027027027027025
+2017-01-03 10:04:56,987 [INFO] astrategy.py 416: TOP3:  ['150100', '150217', '502049', '150173', '150255']
+2017-01-03 10:04:56,988 [INFO] astrategy.py 417: NowPosition:  ['502049', '150217', '150173', '150255', '150275']
+2017-01-03 10:05:14,634 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:05:14,643 [INFO] astrategy.py 504: Now macket status: -0.14027027027027025
+2017-01-03 10:05:14,644 [INFO] astrategy.py 416: TOP3:  ['150100', '150217', '150173', '150255', '150203']
+2017-01-03 10:05:14,645 [INFO] astrategy.py 417: NowPosition:  ['150217', '502049', '150173', '150255', '150275']
+2017-01-03 10:05:33,014 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:05:33,022 [INFO] astrategy.py 504: Now macket status: -0.13756756756756755
+2017-01-03 10:05:33,023 [INFO] astrategy.py 416: TOP3:  ['150100', '150217', '150173', '150255', '150203']
+2017-01-03 10:05:33,025 [INFO] astrategy.py 417: NowPosition:  ['150217', '502049', '150173', '150255', '150275']
+2017-01-03 10:05:50,998 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:05:51,007 [INFO] astrategy.py 504: Now macket status: -0.13756756756756755
+2017-01-03 10:05:51,009 [INFO] astrategy.py 416: TOP3:  ['150100', '150217', '150173', '150255', '150203']
+2017-01-03 10:05:51,009 [INFO] astrategy.py 417: NowPosition:  ['150217', '502049', '150173', '150255', '150275']
+2017-01-03 10:06:10,792 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:06:10,801 [INFO] astrategy.py 504: Now macket status: -0.14027027027027023
+2017-01-03 10:27:54,959 [DEBUG] autotrader.py 37: Starting loginning
+2017-01-03 10:28:11,305 [DEBUG] autotrader.py 87: Running started
+2017-01-03 10:28:34,401 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:28:34,409 [INFO] astrategy.py 504: Now macket status: -0.11081081081081083
+2017-01-03 10:28:34,409 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150255']
+2017-01-03 10:28:34,409 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:28:49,739 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:28:49,746 [INFO] astrategy.py 504: Now macket status: -0.11081081081081083
+2017-01-03 10:28:49,747 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150255']
+2017-01-03 10:28:49,747 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:29:07,562 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:29:07,569 [INFO] astrategy.py 504: Now macket status: -0.10540540540540541
+2017-01-03 10:29:07,570 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150255']
+2017-01-03 10:29:07,570 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:29:25,599 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:29:25,607 [INFO] astrategy.py 504: Now macket status: -0.10540540540540541
+2017-01-03 10:29:25,607 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150255']
+2017-01-03 10:29:25,607 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:29:43,708 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:29:43,716 [INFO] astrategy.py 504: Now macket status: -0.10540540540540541
+2017-01-03 10:29:43,716 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150255']
+2017-01-03 10:29:43,717 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:30:01,851 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:30:01,860 [INFO] astrategy.py 504: Now macket status: -0.10540540540540541
+2017-01-03 10:30:01,861 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150255']
+2017-01-03 10:30:01,862 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:30:19,956 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:30:19,963 [INFO] astrategy.py 504: Now macket status: -0.10810810810810811
+2017-01-03 10:30:19,964 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150255']
+2017-01-03 10:30:19,964 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:30:38,101 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:30:38,110 [INFO] astrategy.py 504: Now macket status: -0.10810810810810811
+2017-01-03 10:30:38,112 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150255']
+2017-01-03 10:30:38,113 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:30:56,128 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:30:56,137 [INFO] astrategy.py 504: Now macket status: -0.10810810810810811
+2017-01-03 10:30:56,138 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150255']
+2017-01-03 10:30:56,140 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:31:13,719 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:31:13,728 [INFO] astrategy.py 504: Now macket status: -0.10810810810810811
+2017-01-03 10:31:13,729 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150255']
+2017-01-03 10:31:13,730 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:31:31,861 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:31:31,870 [INFO] astrategy.py 504: Now macket status: -0.10810810810810811
+2017-01-03 10:31:31,872 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150255']
+2017-01-03 10:31:31,873 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:31:51,212 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:31:51,221 [INFO] astrategy.py 504: Now macket status: -0.11081081081081083
+2017-01-03 10:31:51,223 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150255']
+2017-01-03 10:31:51,224 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:32:07,923 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:32:07,932 [INFO] astrategy.py 504: Now macket status: -0.10270270270270272
+2017-01-03 10:32:07,934 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150255']
+2017-01-03 10:32:07,934 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:32:25,565 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:32:25,574 [INFO] astrategy.py 504: Now macket status: -0.10270270270270272
+2017-01-03 10:32:25,575 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150255']
+2017-01-03 10:32:25,576 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:32:43,606 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:32:43,615 [INFO] astrategy.py 504: Now macket status: -0.10270270270270272
+2017-01-03 10:32:43,616 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150255']
+2017-01-03 10:32:43,618 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:33:01,564 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:33:01,573 [INFO] astrategy.py 504: Now macket status: -0.10810810810810811
+2017-01-03 10:33:01,575 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150255']
+2017-01-03 10:33:01,575 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:33:19,783 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:33:19,792 [INFO] astrategy.py 504: Now macket status: -0.10540540540540541
+2017-01-03 10:33:19,794 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150255']
+2017-01-03 10:33:19,795 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:33:37,505 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:33:37,514 [INFO] astrategy.py 504: Now macket status: -0.10540540540540541
+2017-01-03 10:33:37,516 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150255']
+2017-01-03 10:33:37,516 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:33:55,772 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:33:55,781 [INFO] astrategy.py 504: Now macket status: -0.1054054054054054
+2017-01-03 10:33:55,782 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150255']
+2017-01-03 10:33:55,783 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:34:14,021 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:34:14,031 [INFO] astrategy.py 504: Now macket status: -0.1027027027027027
+2017-01-03 10:34:14,032 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150255']
+2017-01-03 10:34:14,033 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:34:32,088 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:34:32,097 [INFO] astrategy.py 504: Now macket status: -0.1054054054054054
+2017-01-03 10:34:32,099 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150255']
+2017-01-03 10:34:32,100 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:34:49,751 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:34:49,760 [INFO] astrategy.py 504: Now macket status: -0.1
+2017-01-03 10:34:49,761 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150255']
+2017-01-03 10:34:49,762 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:35:08,904 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:35:08,913 [INFO] astrategy.py 504: Now macket status: -0.1
+2017-01-03 10:35:08,915 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150255']
+2017-01-03 10:35:08,915 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:35:26,018 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:35:26,026 [INFO] astrategy.py 504: Now macket status: -0.1027027027027027
+2017-01-03 10:35:26,027 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150255']
+2017-01-03 10:35:26,029 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:35:43,934 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:35:43,943 [INFO] astrategy.py 504: Now macket status: -0.1027027027027027
+2017-01-03 10:35:43,945 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150255']
+2017-01-03 10:35:43,946 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:36:02,033 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:36:02,042 [INFO] astrategy.py 504: Now macket status: -0.1
+2017-01-03 10:36:02,044 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150255']
+2017-01-03 10:36:02,045 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:36:19,748 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:36:19,757 [INFO] astrategy.py 504: Now macket status: -0.09729729729729729
+2017-01-03 10:36:19,759 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150255']
+2017-01-03 10:36:19,765 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:36:37,724 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:36:37,733 [INFO] astrategy.py 504: Now macket status: -0.09729729729729729
+2017-01-03 10:36:37,735 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150255']
+2017-01-03 10:36:37,735 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:36:55,914 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:36:55,923 [INFO] astrategy.py 504: Now macket status: -0.09729729729729729
+2017-01-03 10:36:55,925 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150255']
+2017-01-03 10:36:55,925 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:37:13,606 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:37:13,615 [INFO] astrategy.py 504: Now macket status: -0.13702702702702707
+2017-01-03 10:37:13,617 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150255']
+2017-01-03 10:37:13,618 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:37:31,655 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:37:31,663 [INFO] astrategy.py 504: Now macket status: -0.13702702702702707
+2017-01-03 10:37:31,664 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150255']
+2017-01-03 10:37:31,666 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:37:49,818 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:37:49,827 [INFO] astrategy.py 504: Now macket status: -0.13972972972972975
+2017-01-03 10:37:49,829 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150255']
+2017-01-03 10:37:49,830 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:38:10,506 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:38:10,520 [INFO] astrategy.py 504: Now macket status: -0.13972972972972975
+2017-01-03 10:38:10,521 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150255']
+2017-01-03 10:38:10,522 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:38:26,614 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:38:26,622 [INFO] astrategy.py 504: Now macket status: -0.13432432432432434
+2017-01-03 10:38:26,623 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150255']
+2017-01-03 10:38:26,625 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:38:43,742 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:38:43,751 [INFO] astrategy.py 504: Now macket status: -0.13702702702702707
+2017-01-03 10:38:43,752 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150255']
+2017-01-03 10:38:43,753 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:39:05,062 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:39:05,080 [INFO] astrategy.py 504: Now macket status: -0.13972972972972975
+2017-01-03 10:39:05,081 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150255']
+2017-01-03 10:39:05,082 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:39:19,724 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:39:19,733 [INFO] astrategy.py 504: Now macket status: -0.13162162162162164
+2017-01-03 10:39:19,734 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150255']
+2017-01-03 10:39:19,735 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:39:37,550 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:39:37,559 [INFO] astrategy.py 504: Now macket status: -0.13162162162162164
+2017-01-03 10:39:37,561 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150255']
+2017-01-03 10:39:37,561 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:39:56,052 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:39:56,061 [INFO] astrategy.py 504: Now macket status: -0.13162162162162164
+2017-01-03 10:39:56,062 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150255']
+2017-01-03 10:39:56,063 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:40:15,111 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:40:15,120 [INFO] astrategy.py 504: Now macket status: -0.13702702702702707
+2017-01-03 10:40:15,122 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150255']
+2017-01-03 10:40:15,123 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:40:32,041 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:40:32,050 [INFO] astrategy.py 504: Now macket status: -0.13702702702702707
+2017-01-03 10:40:32,051 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150255']
+2017-01-03 10:40:32,052 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:40:50,041 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:40:50,050 [INFO] astrategy.py 504: Now macket status: -0.13702702702702707
+2017-01-03 10:40:50,052 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150255']
+2017-01-03 10:40:50,053 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:41:07,511 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:41:07,520 [INFO] astrategy.py 504: Now macket status: -0.13162162162162164
+2017-01-03 10:41:07,522 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150255']
+2017-01-03 10:41:07,523 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:41:25,865 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:41:25,874 [INFO] astrategy.py 504: Now macket status: -0.12891891891891893
+2017-01-03 10:41:25,875 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150255']
+2017-01-03 10:41:25,876 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:41:43,743 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:41:43,752 [INFO] astrategy.py 504: Now macket status: -0.12621621621621623
+2017-01-03 10:41:43,754 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150277']
+2017-01-03 10:41:43,755 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:42:01,558 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:42:01,567 [INFO] astrategy.py 504: Now macket status: -0.11837837837837838
+2017-01-03 10:42:01,569 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150277']
+2017-01-03 10:42:01,570 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:42:19,506 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:42:19,515 [INFO] astrategy.py 504: Now macket status: -0.11837837837837838
+2017-01-03 10:42:19,516 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150277']
+2017-01-03 10:42:19,517 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:42:37,494 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:42:37,503 [INFO] astrategy.py 504: Now macket status: -0.1210810810810811
+2017-01-03 10:42:37,505 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150277']
+2017-01-03 10:42:37,506 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:42:55,751 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:42:55,761 [INFO] astrategy.py 504: Now macket status: -0.1210810810810811
+2017-01-03 10:42:55,762 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150277']
+2017-01-03 10:42:55,763 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:43:13,562 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:43:13,572 [INFO] astrategy.py 504: Now macket status: -0.1318918918918919
+2017-01-03 10:43:13,573 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150277']
+2017-01-03 10:43:13,574 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:43:34,576 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:43:34,585 [INFO] astrategy.py 504: Now macket status: -0.11297297297297298
+2017-01-03 10:43:34,587 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150277']
+2017-01-03 10:43:34,587 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:43:51,749 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:43:51,758 [INFO] astrategy.py 504: Now macket status: -0.1183783783783784
+2017-01-03 10:43:51,759 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150277']
+2017-01-03 10:43:51,760 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:44:07,706 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:44:07,714 [INFO] astrategy.py 504: Now macket status: -0.1183783783783784
+2017-01-03 10:44:07,716 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150277']
+2017-01-03 10:44:07,718 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:44:25,760 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:44:25,769 [INFO] astrategy.py 504: Now macket status: -0.1183783783783784
+2017-01-03 10:44:25,771 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150277']
+2017-01-03 10:44:25,771 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:44:43,513 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:44:43,521 [INFO] astrategy.py 504: Now macket status: -0.11567567567567569
+2017-01-03 10:44:43,523 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150277']
+2017-01-03 10:44:43,524 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:45:01,491 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:45:01,501 [INFO] astrategy.py 504: Now macket status: -0.11297297297297298
+2017-01-03 10:45:01,503 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150277']
+2017-01-03 10:45:01,515 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:45:19,825 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:45:19,834 [INFO] astrategy.py 504: Now macket status: -0.11297297297297298
+2017-01-03 10:45:19,836 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150277']
+2017-01-03 10:45:19,837 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:45:37,497 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:45:37,506 [INFO] astrategy.py 504: Now macket status: -0.11297297297297298
+2017-01-03 10:45:37,508 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150277']
+2017-01-03 10:45:37,508 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:45:55,568 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:45:55,577 [INFO] astrategy.py 504: Now macket status: -0.11567567567567569
+2017-01-03 10:45:55,579 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150277']
+2017-01-03 10:45:55,580 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:46:13,560 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:46:13,569 [INFO] astrategy.py 504: Now macket status: -0.11297297297297298
+2017-01-03 10:46:13,571 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150277']
+2017-01-03 10:46:13,572 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:46:31,606 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:46:31,615 [INFO] astrategy.py 504: Now macket status: -0.11297297297297298
+2017-01-03 10:46:31,617 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150277']
+2017-01-03 10:46:31,618 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:46:49,552 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:46:49,566 [INFO] astrategy.py 504: Now macket status: -0.11567567567567569
+2017-01-03 10:46:49,567 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150277']
+2017-01-03 10:46:49,568 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:47:08,442 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:47:08,451 [INFO] astrategy.py 504: Now macket status: -0.11567567567567569
+2017-01-03 10:47:08,453 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150277']
+2017-01-03 10:47:08,454 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:47:28,537 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:47:28,547 [INFO] astrategy.py 504: Now macket status: -0.10243243243243243
+2017-01-03 10:47:28,548 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150277']
+2017-01-03 10:47:28,549 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:47:43,992 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:47:44,001 [INFO] astrategy.py 504: Now macket status: -0.09432432432432433
+2017-01-03 10:47:44,003 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '502049', '150203', '150277']
+2017-01-03 10:47:44,004 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:48:07,074 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:48:07,083 [INFO] astrategy.py 504: Now macket status: -0.09432432432432433
+2017-01-03 10:52:36,253 [DEBUG] autotrader.py 37: Starting loginning
+2017-01-03 10:52:44,756 [DEBUG] autotrader.py 87: Running started
+2017-01-03 10:53:08,044 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:53:08,052 [INFO] astrategy.py 504: Now macket status: -0.09162162162162163
+2017-01-03 10:53:08,053 [INFO] astrategy.py 416: TOP3:  ['150100', '150277', '150173', '502049', '150217']
+2017-01-03 10:53:08,053 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:53:24,410 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:53:24,417 [INFO] astrategy.py 504: Now macket status: -0.09432432432432433
+2017-01-03 10:53:24,418 [INFO] astrategy.py 416: TOP3:  ['150100', '150255', '150277', '150173', '502049']
+2017-01-03 10:53:24,418 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:53:41,201 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:53:41,209 [INFO] astrategy.py 504: Now macket status: -0.09432432432432433
+2017-01-03 10:53:41,209 [INFO] astrategy.py 416: TOP3:  ['150100', '150255', '150277', '150173', '502049']
+2017-01-03 10:53:41,209 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:53:58,795 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:53:58,803 [INFO] astrategy.py 504: Now macket status: -0.09702702702702702
+2017-01-03 10:53:58,803 [INFO] astrategy.py 416: TOP3:  ['150100', '150255', '150277', '150173', '502049']
+2017-01-03 10:53:58,803 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:54:16,825 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:54:16,832 [INFO] astrategy.py 504: Now macket status: -0.09702702702702702
+2017-01-03 10:54:16,833 [INFO] astrategy.py 416: TOP3:  ['150100', '150255', '150277', '150173', '502049']
+2017-01-03 10:54:16,833 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:54:35,157 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:54:35,165 [INFO] astrategy.py 504: Now macket status: -0.09702702702702702
+2017-01-03 10:54:35,165 [INFO] astrategy.py 416: TOP3:  ['150100', '150255', '150277', '150173', '502049']
+2017-01-03 10:54:35,165 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:54:53,302 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:54:53,309 [INFO] astrategy.py 504: Now macket status: -0.09702702702702702
+2017-01-03 10:54:53,310 [INFO] astrategy.py 416: TOP3:  ['150100', '150255', '150277', '150173', '502049']
+2017-01-03 10:54:53,310 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:55:10,957 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:55:10,966 [INFO] astrategy.py 504: Now macket status: -0.09432432432432433
+2017-01-03 10:55:10,967 [INFO] astrategy.py 416: TOP3:  ['150100', '150255', '150277', '150173', '502049']
+2017-01-03 10:55:10,968 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:55:29,030 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:55:29,039 [INFO] astrategy.py 504: Now macket status: -0.09432432432432433
+2017-01-03 10:55:29,039 [INFO] astrategy.py 416: TOP3:  ['150100', '150255', '150277', '150173', '502049']
+2017-01-03 10:55:29,041 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:55:46,809 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:55:46,818 [INFO] astrategy.py 504: Now macket status: -0.09432432432432433
+2017-01-03 10:55:46,820 [INFO] astrategy.py 416: TOP3:  ['150100', '150255', '150277', '150173', '502049']
+2017-01-03 10:55:46,820 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:56:05,693 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:56:05,702 [INFO] astrategy.py 504: Now macket status: -0.09432432432432433
+2017-01-03 10:56:05,703 [INFO] astrategy.py 416: TOP3:  ['150100', '150255', '150277', '150173', '502049']
+2017-01-03 10:56:05,704 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:56:23,306 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:56:23,315 [INFO] astrategy.py 504: Now macket status: -0.09432432432432433
+2017-01-03 10:56:23,317 [INFO] astrategy.py 416: TOP3:  ['150100', '150255', '150277', '150173', '502049']
+2017-01-03 10:56:23,317 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:56:41,568 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:56:41,577 [INFO] astrategy.py 504: Now macket status: -0.09432432432432433
+2017-01-03 10:56:41,579 [INFO] astrategy.py 416: TOP3:  ['150100', '150255', '150277', '150173', '502049']
+2017-01-03 10:56:41,580 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:56:59,245 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:56:59,254 [INFO] astrategy.py 504: Now macket status: -0.09432432432432433
+2017-01-03 10:56:59,255 [INFO] astrategy.py 416: TOP3:  ['150100', '150255', '150277', '150173', '502049']
+2017-01-03 10:56:59,256 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:57:17,085 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:57:17,093 [INFO] astrategy.py 504: Now macket status: -0.09702702702702702
+2017-01-03 10:57:17,095 [INFO] astrategy.py 416: TOP3:  ['150100', '150255', '150277', '150173', '502049']
+2017-01-03 10:57:17,096 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:57:35,091 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:57:35,100 [INFO] astrategy.py 504: Now macket status: -0.09432432432432433
+2017-01-03 10:57:35,101 [INFO] astrategy.py 416: TOP3:  ['150100', '150255', '150277', '150173', '502049']
+2017-01-03 10:57:35,102 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:57:53,786 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:57:53,794 [INFO] astrategy.py 504: Now macket status: -0.09432432432432433
+2017-01-03 10:57:53,795 [INFO] astrategy.py 416: TOP3:  ['150100', '150255', '150277', '150173', '502049']
+2017-01-03 10:57:53,797 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:58:11,017 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:58:11,035 [INFO] astrategy.py 504: Now macket status: -0.09432432432432433
+2017-01-03 10:58:11,037 [INFO] astrategy.py 416: TOP3:  ['150100', '150255', '150277', '150173', '502049']
+2017-01-03 10:58:11,037 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:58:29,428 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:58:29,437 [INFO] astrategy.py 504: Now macket status: -0.09432432432432433
+2017-01-03 10:58:29,438 [INFO] astrategy.py 416: TOP3:  ['150100', '150255', '150277', '150173', '502049']
+2017-01-03 10:58:29,439 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:58:47,297 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 10:58:47,306 [INFO] astrategy.py 504: Now macket status: -0.09972972972972972
+2017-01-03 10:58:47,307 [INFO] astrategy.py 416: TOP3:  ['150100', '150255', '150277', '150173', '502049']
+2017-01-03 10:58:47,308 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 10:59:36,331 [DEBUG] autotrader.py 37: Starting loginning
+2017-01-03 10:59:41,056 [DEBUG] autotrader.py 87: Running started
+2017-01-03 11:00:01,380 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:00:01,389 [INFO] astrategy.py 504: Now macket status: -0.09702702702702704
+2017-01-03 11:00:01,390 [INFO] astrategy.py 416: TOP3:  ['502049', '150173', '150255', '150217', '150277']
+2017-01-03 11:00:01,390 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 11:00:23,175 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:00:23,183 [INFO] astrategy.py 504: Now macket status: -0.09702702702702704
+2017-01-03 11:00:23,183 [INFO] astrategy.py 416: TOP3:  ['502049', '150173', '150255', '150217', '150277']
+2017-01-03 11:00:23,183 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 11:00:37,362 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:00:37,370 [INFO] astrategy.py 504: Now macket status: -0.09702702702702704
+2017-01-03 11:00:37,370 [INFO] astrategy.py 416: TOP3:  ['502049', '150173', '150255', '150217', '150277']
+2017-01-03 11:00:37,371 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 11:00:55,628 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:00:55,635 [INFO] astrategy.py 504: Now macket status: -0.09702702702702704
+2017-01-03 11:00:55,636 [INFO] astrategy.py 416: TOP3:  ['502049', '150173', '150255', '150217', '150277']
+2017-01-03 11:00:55,636 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150217', '150255', '150275']
+2017-01-03 11:01:13,441 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:01:13,448 [INFO] astrategy.py 504: Now macket status: -0.09432432432432433
+2017-01-03 11:01:13,448 [INFO] astrategy.py 416: TOP3:  ['150173', '150255', '150217', '150277', '502049']
+2017-01-03 11:01:13,449 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:01:32,003 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:01:32,010 [INFO] astrategy.py 504: Now macket status: -0.09432432432432433
+2017-01-03 11:01:32,011 [INFO] astrategy.py 416: TOP3:  ['150173', '150255', '150217', '150277', '502049']
+2017-01-03 11:01:32,011 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:01:49,471 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:01:49,479 [INFO] astrategy.py 504: Now macket status: -0.09432432432432433
+2017-01-03 11:01:49,479 [INFO] astrategy.py 416: TOP3:  ['150173', '150255', '150217', '150277', '502049']
+2017-01-03 11:01:49,479 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:02:08,035 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:02:08,044 [INFO] astrategy.py 504: Now macket status: -0.09432432432432433
+2017-01-03 11:02:08,046 [INFO] astrategy.py 416: TOP3:  ['150173', '150255', '150217', '150277', '502049']
+2017-01-03 11:02:08,047 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:02:25,892 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:02:25,901 [INFO] astrategy.py 504: Now macket status: -0.09432432432432433
+2017-01-03 11:02:25,902 [INFO] astrategy.py 416: TOP3:  ['150173', '150255', '150217', '150277', '502049']
+2017-01-03 11:02:25,903 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:02:43,309 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:02:43,317 [INFO] astrategy.py 504: Now macket status: -0.09432432432432433
+2017-01-03 11:02:43,318 [INFO] astrategy.py 416: TOP3:  ['150173', '150255', '150217', '150277', '502049']
+2017-01-03 11:02:43,319 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:03:01,503 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:03:01,512 [INFO] astrategy.py 504: Now macket status: -0.09432432432432433
+2017-01-03 11:03:01,514 [INFO] astrategy.py 416: TOP3:  ['150173', '150255', '150217', '150277', '502049']
+2017-01-03 11:03:01,514 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:03:19,339 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:03:19,348 [INFO] astrategy.py 504: Now macket status: -0.09432432432432433
+2017-01-03 11:03:19,349 [INFO] astrategy.py 416: TOP3:  ['150173', '150255', '150217', '150277', '502049']
+2017-01-03 11:03:19,350 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:03:38,537 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:03:38,546 [INFO] astrategy.py 504: Now macket status: -0.09432432432432433
+2017-01-03 11:03:38,547 [INFO] astrategy.py 416: TOP3:  ['150173', '150255', '150217', '150277', '502049']
+2017-01-03 11:03:38,549 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:03:55,311 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:03:55,320 [INFO] astrategy.py 504: Now macket status: -0.09432432432432433
+2017-01-03 11:03:55,322 [INFO] astrategy.py 416: TOP3:  ['150173', '150255', '150217', '150277', '502049']
+2017-01-03 11:03:55,323 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:04:16,400 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:04:16,408 [INFO] astrategy.py 504: Now macket status: -0.09432432432432433
+2017-01-03 11:04:16,410 [INFO] astrategy.py 416: TOP3:  ['150173', '150255', '150217', '150277', '502049']
+2017-01-03 11:04:16,411 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:04:31,449 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:04:31,459 [INFO] astrategy.py 504: Now macket status: -0.09432432432432435
+2017-01-03 11:04:31,460 [INFO] astrategy.py 416: TOP3:  ['150173', '150255', '150217', '150277', '502049']
+2017-01-03 11:04:31,460 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:04:49,407 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:04:49,416 [INFO] astrategy.py 504: Now macket status: -0.09162162162162164
+2017-01-03 11:04:49,417 [INFO] astrategy.py 416: TOP3:  ['150173', '150255', '150217', '150277', '502049']
+2017-01-03 11:04:49,418 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:05:07,792 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:05:07,800 [INFO] astrategy.py 504: Now macket status: -0.08891891891891893
+2017-01-03 11:05:07,801 [INFO] astrategy.py 416: TOP3:  ['150173', '150255', '150217', '150277', '502049']
+2017-01-03 11:05:07,802 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:05:25,502 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:05:25,511 [INFO] astrategy.py 504: Now macket status: -0.08351351351351353
+2017-01-03 11:05:25,513 [INFO] astrategy.py 416: TOP3:  ['150173', '150255', '150217', '150277', '502049']
+2017-01-03 11:05:25,513 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:05:46,441 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:05:46,450 [INFO] astrategy.py 504: Now macket status: -0.08351351351351353
+2017-01-03 11:05:46,452 [INFO] astrategy.py 416: TOP3:  ['150173', '150255', '150217', '150277', '502049']
+2017-01-03 11:05:46,453 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:06:01,439 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:06:01,448 [INFO] astrategy.py 504: Now macket status: -0.08351351351351353
+2017-01-03 11:06:01,450 [INFO] astrategy.py 416: TOP3:  ['150173', '150255', '150217', '150277', '502049']
+2017-01-03 11:06:01,450 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:06:19,608 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:06:19,617 [INFO] astrategy.py 504: Now macket status: -0.08351351351351353
+2017-01-03 11:06:19,619 [INFO] astrategy.py 416: TOP3:  ['150173', '150255', '150217', '150277', '502049']
+2017-01-03 11:06:19,619 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:06:37,431 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:06:37,440 [INFO] astrategy.py 504: Now macket status: -0.08621621621621622
+2017-01-03 11:06:37,441 [INFO] astrategy.py 416: TOP3:  ['150173', '150255', '150217', '150277', '502049']
+2017-01-03 11:06:37,442 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:06:55,504 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:06:55,513 [INFO] astrategy.py 504: Now macket status: -0.08054054054054055
+2017-01-03 11:06:55,514 [INFO] astrategy.py 416: TOP3:  ['150173', '150255', '150217', '150277', '502049']
+2017-01-03 11:06:55,515 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:07:16,382 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:07:16,391 [INFO] astrategy.py 504: Now macket status: -0.08054054054054055
+2017-01-03 11:07:16,393 [INFO] astrategy.py 416: TOP3:  ['150173', '150255', '150217', '150277', '502049']
+2017-01-03 11:07:16,393 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:07:34,931 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:07:34,940 [INFO] astrategy.py 504: Now macket status: -0.08054054054054055
+2017-01-03 11:07:34,942 [INFO] astrategy.py 416: TOP3:  ['150173', '150255', '150217', '150277', '502049']
+2017-01-03 11:07:34,943 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:07:49,252 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:07:49,261 [INFO] astrategy.py 504: Now macket status: -0.07783783783783783
+2017-01-03 11:07:49,263 [INFO] astrategy.py 416: TOP3:  ['150173', '150255', '150217', '150277', '502049']
+2017-01-03 11:07:49,263 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:08:07,227 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:08:07,236 [INFO] astrategy.py 504: Now macket status: -0.07783783783783783
+2017-01-03 11:08:07,237 [INFO] astrategy.py 416: TOP3:  ['150173', '150255', '150217', '150277', '502049']
+2017-01-03 11:08:07,238 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:08:25,260 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:08:25,269 [INFO] astrategy.py 504: Now macket status: -0.07783783783783783
+2017-01-03 11:08:25,271 [INFO] astrategy.py 416: TOP3:  ['150173', '150255', '150217', '150277', '502049']
+2017-01-03 11:08:25,272 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:08:43,465 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:08:43,474 [INFO] astrategy.py 504: Now macket status: -0.07783783783783783
+2017-01-03 11:08:43,475 [INFO] astrategy.py 416: TOP3:  ['150173', '150255', '150217', '150277', '502049']
+2017-01-03 11:08:43,477 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:09:01,284 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:09:01,292 [INFO] astrategy.py 504: Now macket status: -0.07783783783783783
+2017-01-03 11:09:01,293 [INFO] astrategy.py 416: TOP3:  ['150173', '150255', '150217', '150277', '502049']
+2017-01-03 11:09:01,295 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:09:19,711 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:09:19,721 [INFO] astrategy.py 504: Now macket status: -0.07783783783783783
+2017-01-03 11:09:19,723 [INFO] astrategy.py 416: TOP3:  ['150173', '150255', '150217', '150277', '502049']
+2017-01-03 11:09:19,723 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:09:46,231 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:09:46,240 [INFO] astrategy.py 504: Now macket status: -0.08054054054054055
+2017-01-03 11:10:37,409 [DEBUG] autotrader.py 37: Starting loginning
+2017-01-03 11:10:54,974 [DEBUG] autotrader.py 87: Running started
+2017-01-03 11:11:15,321 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:11:15,329 [INFO] astrategy.py 504: Now macket status: -0.07783783783783786
+2017-01-03 11:11:15,329 [INFO] astrategy.py 416: TOP3:  ['150217', '150173', '150277', '150255', '502049']
+2017-01-03 11:11:15,329 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:11:33,056 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:11:33,064 [INFO] astrategy.py 504: Now macket status: -0.07000000000000002
+2017-01-03 11:11:33,064 [INFO] astrategy.py 416: TOP3:  ['150217', '150173', '150255', '502049', '150203']
+2017-01-03 11:11:33,064 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:11:52,280 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:11:52,288 [INFO] astrategy.py 504: Now macket status: -0.07000000000000002
+2017-01-03 11:11:52,289 [INFO] astrategy.py 416: TOP3:  ['150217', '150173', '150255', '502049', '150203']
+2017-01-03 11:11:52,289 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:12:09,858 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:12:09,865 [INFO] astrategy.py 504: Now macket status: -0.07000000000000002
+2017-01-03 11:12:09,865 [INFO] astrategy.py 416: TOP3:  ['150217', '150173', '150255', '502049', '150203']
+2017-01-03 11:12:09,866 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:12:27,347 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:12:27,355 [INFO] astrategy.py 504: Now macket status: -0.07000000000000002
+2017-01-03 11:12:27,355 [INFO] astrategy.py 416: TOP3:  ['150217', '150173', '150255', '502049', '150203']
+2017-01-03 11:12:27,356 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:12:45,212 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:12:45,219 [INFO] astrategy.py 504: Now macket status: -0.07000000000000002
+2017-01-03 11:12:45,219 [INFO] astrategy.py 416: TOP3:  ['150217', '150173', '150255', '502049', '150203']
+2017-01-03 11:12:45,219 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:13:04,004 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:13:04,012 [INFO] astrategy.py 504: Now macket status: -0.07000000000000002
+2017-01-03 11:13:04,012 [INFO] astrategy.py 416: TOP3:  ['150217', '150173', '150255', '502049', '150203']
+2017-01-03 11:13:04,012 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:13:21,059 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:13:21,067 [INFO] astrategy.py 504: Now macket status: -0.06729729729729732
+2017-01-03 11:13:21,068 [INFO] astrategy.py 416: TOP3:  ['150217', '150173', '150255', '502049', '150203']
+2017-01-03 11:13:21,070 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:13:40,091 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:13:40,100 [INFO] astrategy.py 504: Now macket status: -0.06729729729729732
+2017-01-03 11:13:40,101 [INFO] astrategy.py 416: TOP3:  ['150217', '150173', '150255', '502049', '150203']
+2017-01-03 11:13:40,102 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:13:57,011 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:13:57,020 [INFO] astrategy.py 504: Now macket status: -0.06459459459459461
+2017-01-03 11:13:57,022 [INFO] astrategy.py 416: TOP3:  ['150217', '150173', '150255', '502049', '150203']
+2017-01-03 11:13:57,022 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:14:14,998 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:14:15,007 [INFO] astrategy.py 504: Now macket status: -0.06729729729729732
+2017-01-03 11:14:15,009 [INFO] astrategy.py 416: TOP3:  ['150217', '150173', '150255', '502049', '150203']
+2017-01-03 11:14:15,009 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:14:33,294 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:14:33,303 [INFO] astrategy.py 504: Now macket status: -0.06729729729729732
+2017-01-03 11:14:33,304 [INFO] astrategy.py 416: TOP3:  ['150217', '150173', '150255', '502049', '150203']
+2017-01-03 11:14:33,305 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:14:52,375 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:14:52,384 [INFO] astrategy.py 504: Now macket status: -0.06729729729729732
+2017-01-03 11:14:52,386 [INFO] astrategy.py 416: TOP3:  ['150217', '150173', '150255', '502049', '150203']
+2017-01-03 11:14:52,386 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:15:08,995 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:15:09,004 [INFO] astrategy.py 504: Now macket status: -0.06729729729729732
+2017-01-03 11:15:09,006 [INFO] astrategy.py 416: TOP3:  ['150217', '150173', '150255', '502049', '150203']
+2017-01-03 11:15:09,006 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:15:27,032 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:15:27,041 [INFO] astrategy.py 504: Now macket status: -0.06729729729729732
+2017-01-03 11:15:27,043 [INFO] astrategy.py 416: TOP3:  ['150217', '150173', '150255', '502049', '150203']
+2017-01-03 11:15:27,044 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:15:45,879 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:15:45,887 [INFO] astrategy.py 504: Now macket status: -0.06729729729729732
+2017-01-03 11:15:45,889 [INFO] astrategy.py 416: TOP3:  ['150217', '150173', '150255', '502049', '150203']
+2017-01-03 11:15:45,890 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:16:03,845 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:16:03,854 [INFO] astrategy.py 504: Now macket status: -0.06459459459459461
+2017-01-03 11:16:03,855 [INFO] astrategy.py 416: TOP3:  ['150217', '150173', '150255', '502049', '150203']
+2017-01-03 11:16:03,856 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:16:21,318 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:16:21,327 [INFO] astrategy.py 504: Now macket status: -0.06459459459459461
+2017-01-03 11:16:21,328 [INFO] astrategy.py 416: TOP3:  ['150217', '150173', '150255', '502049', '150203']
+2017-01-03 11:16:21,329 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:16:39,289 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:16:39,297 [INFO] astrategy.py 504: Now macket status: -0.06459459459459461
+2017-01-03 11:16:39,298 [INFO] astrategy.py 416: TOP3:  ['150217', '150173', '150255', '502049', '150203']
+2017-01-03 11:16:39,299 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:16:57,011 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:16:57,020 [INFO] astrategy.py 504: Now macket status: -0.06459459459459461
+2017-01-03 11:16:57,022 [INFO] astrategy.py 416: TOP3:  ['150217', '150173', '150255', '502049', '150203']
+2017-01-03 11:16:57,023 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:17:15,336 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:17:15,345 [INFO] astrategy.py 504: Now macket status: -0.06459459459459461
+2017-01-03 11:17:15,347 [INFO] astrategy.py 416: TOP3:  ['150217', '150173', '150255', '502049', '150203']
+2017-01-03 11:17:15,348 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:17:33,047 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:17:33,055 [INFO] astrategy.py 504: Now macket status: -0.06459459459459461
+2017-01-03 11:17:33,056 [INFO] astrategy.py 416: TOP3:  ['150217', '150173', '150255', '502049', '150203']
+2017-01-03 11:17:33,058 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:17:51,115 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:17:51,123 [INFO] astrategy.py 504: Now macket status: -0.06729729729729732
+2017-01-03 11:17:51,124 [INFO] astrategy.py 416: TOP3:  ['150217', '150173', '150255', '502049', '150203']
+2017-01-03 11:17:51,126 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:18:09,809 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:18:09,818 [INFO] astrategy.py 504: Now macket status: -0.05891891891891892
+2017-01-03 11:18:09,819 [INFO] astrategy.py 416: TOP3:  ['150217', '150173', '150255', '502049', '150203']
+2017-01-03 11:18:09,820 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:18:27,628 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:18:27,637 [INFO] astrategy.py 504: Now macket status: -0.06162162162162164
+2017-01-03 11:18:27,638 [INFO] astrategy.py 416: TOP3:  ['150217', '150173', '150255', '502049', '150203']
+2017-01-03 11:18:27,639 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:18:45,688 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:18:45,697 [INFO] astrategy.py 504: Now macket status: -0.06702702702702705
+2017-01-03 11:18:45,698 [INFO] astrategy.py 416: TOP3:  ['150217', '150173', '150255', '502049', '150203']
+2017-01-03 11:18:45,699 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:19:04,127 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:19:04,136 [INFO] astrategy.py 504: Now macket status: -0.06432432432432435
+2017-01-03 11:19:04,138 [INFO] astrategy.py 416: TOP3:  ['150217', '150173', '150255', '502049', '150203']
+2017-01-03 11:19:04,138 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:19:21,065 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:19:21,074 [INFO] astrategy.py 504: Now macket status: -0.06162162162162164
+2017-01-03 11:19:21,076 [INFO] astrategy.py 416: TOP3:  ['150217', '150173', '150255', '502049', '150203']
+2017-01-03 11:19:21,077 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:19:39,450 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:19:39,459 [INFO] astrategy.py 504: Now macket status: -0.06162162162162164
+2017-01-03 11:19:39,461 [INFO] astrategy.py 416: TOP3:  ['150217', '150173', '150255', '502049', '150203']
+2017-01-03 11:19:39,461 [INFO] astrategy.py 417: NowPosition:  ['150173', '150217', '150255', '502049', '150275']
+2017-01-03 11:19:57,237 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:19:57,246 [INFO] astrategy.py 504: Now macket status: -0.07000000000000002
+2017-01-03 11:19:57,248 [INFO] astrategy.py 416: TOP3:  ['150217', '150255', '502049', '150203', '150173']
+2017-01-03 11:19:57,248 [INFO] astrategy.py 417: NowPosition:  ['150217', '150255', '502049', '150173', '150275']
+2017-01-03 11:20:15,190 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:20:15,199 [INFO] astrategy.py 504: Now macket status: -0.0645945945945946
+2017-01-03 11:20:15,200 [INFO] astrategy.py 416: TOP3:  ['150255', '502049', '150217', '150203', '150173']
+2017-01-03 11:20:15,201 [INFO] astrategy.py 417: NowPosition:  ['150255', '502049', '150173', '150217', '150275']
+2017-01-03 11:20:33,077 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:20:33,085 [INFO] astrategy.py 504: Now macket status: -0.06189189189189189
+2017-01-03 11:20:33,086 [INFO] astrategy.py 416: TOP3:  ['150255', '502049', '150217', '150203', '150173']
+2017-01-03 11:20:33,088 [INFO] astrategy.py 417: NowPosition:  ['150255', '502049', '150173', '150217', '150275']
+2017-01-03 11:20:54,646 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:20:54,655 [INFO] astrategy.py 504: Now macket status: -0.06189189189189189
+2017-01-03 11:26:15,899 [DEBUG] autotrader.py 37: Starting loginning
+2017-01-03 11:26:20,997 [DEBUG] autotrader.py 87: Running started
+2017-01-03 11:26:44,286 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:26:44,294 [INFO] astrategy.py 504: Now macket status: -0.06162162162162163
+2017-01-03 11:26:44,294 [INFO] astrategy.py 416: TOP3:  ['150255', '502049', '150277', '150203', '150173']
+2017-01-03 11:26:44,294 [INFO] astrategy.py 417: NowPosition:  ['150255', '502049', '150173', '150217', '150275']
+2017-01-03 11:26:59,049 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:26:59,057 [INFO] astrategy.py 504: Now macket status: -0.06432432432432433
+2017-01-03 11:26:59,057 [INFO] astrategy.py 416: TOP3:  ['150255', '502049', '150277', '150203', '150173']
+2017-01-03 11:26:59,058 [INFO] astrategy.py 417: NowPosition:  ['150255', '502049', '150173', '150217', '150275']
+2017-01-03 11:27:19,031 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:27:19,038 [INFO] astrategy.py 504: Now macket status: -0.06162162162162163
+2017-01-03 11:27:19,039 [INFO] astrategy.py 416: TOP3:  ['150255', '502049', '150277', '150203', '150173']
+2017-01-03 11:27:19,039 [INFO] astrategy.py 417: NowPosition:  ['150255', '502049', '150173', '150217', '150275']
+2017-01-03 11:27:35,048 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:27:35,056 [INFO] astrategy.py 504: Now macket status: -0.05891891891891892
+2017-01-03 11:27:35,056 [INFO] astrategy.py 416: TOP3:  ['150255', '502049', '150277', '150203', '150173']
+2017-01-03 11:27:35,056 [INFO] astrategy.py 417: NowPosition:  ['150255', '502049', '150173', '150217', '150275']
+2017-01-03 11:27:53,531 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:27:53,539 [INFO] astrategy.py 504: Now macket status: -0.06432432432432433
+2017-01-03 11:27:53,539 [INFO] astrategy.py 416: TOP3:  ['150255', '502049', '150277', '150203', '150173']
+2017-01-03 11:27:53,539 [INFO] astrategy.py 417: NowPosition:  ['150255', '502049', '150173', '150217', '150275']
+2017-01-03 11:28:11,331 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:28:11,338 [INFO] astrategy.py 504: Now macket status: -0.05891891891891892
+2017-01-03 11:28:11,339 [INFO] astrategy.py 416: TOP3:  ['150255', '502049', '150277', '150203', '150173']
+2017-01-03 11:28:11,339 [INFO] astrategy.py 417: NowPosition:  ['150255', '502049', '150173', '150217', '150275']
+2017-01-03 11:28:29,024 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:28:29,031 [INFO] astrategy.py 504: Now macket status: -0.06945945945945947
+2017-01-03 11:28:29,032 [INFO] astrategy.py 416: TOP3:  ['150255', '502049', '150277', '150203', '150177']
+2017-01-03 11:28:29,032 [INFO] astrategy.py 417: NowPosition:  ['150255', '502049', '150173', '150217', '150275']
+2017-01-03 11:28:47,154 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:28:47,163 [INFO] astrategy.py 504: Now macket status: -0.06945945945945947
+2017-01-03 11:28:47,164 [INFO] astrategy.py 416: TOP3:  ['150255', '502049', '150277', '150203', '150177']
+2017-01-03 11:28:47,165 [INFO] astrategy.py 417: NowPosition:  ['150255', '502049', '150173', '150217', '150275']
+2017-01-03 11:29:05,846 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:29:05,855 [INFO] astrategy.py 504: Now macket status: -0.06945945945945947
+2017-01-03 11:29:05,858 [INFO] astrategy.py 416: TOP3:  ['150255', '502049', '150277', '150203', '150177']
+2017-01-03 11:29:05,858 [INFO] astrategy.py 417: NowPosition:  ['150255', '502049', '150173', '150217', '150275']
+2017-01-03 11:29:23,367 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 11:29:23,376 [INFO] astrategy.py 504: Now macket status: -0.06945945945945947
+2017-01-03 11:29:23,378 [INFO] astrategy.py 416: TOP3:  ['150255', '502049', '150277', '150203', '150177']
+2017-01-03 11:29:23,379 [INFO] astrategy.py 417: NowPosition:  ['150255', '502049', '150173', '150217', '150275']
+2017-01-03 11:29:38,993 [DEBUG] autotrader.py 65: Out of time, pass
+2017-01-03 11:29:56,989 [DEBUG] autotrader.py 65: Out of time, pass
+2017-01-03 11:30:14,999 [DEBUG] autotrader.py 65: Out of time, pass
+2017-01-03 11:30:33,010 [DEBUG] autotrader.py 65: Out of time, pass
+2017-01-03 11:30:51,012 [DEBUG] autotrader.py 65: Out of time, pass
+2017-01-03 12:59:33,128 [DEBUG] autotrader.py 37: Starting loginning
+2017-01-03 12:59:48,146 [DEBUG] autotrader.py 87: Running started
+2017-01-03 13:00:06,149 [DEBUG] autotrader.py 65: Out of time, pass
+2017-01-03 13:00:24,146 [DEBUG] autotrader.py 65: Out of time, pass
+2017-01-03 13:00:44,618 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 13:00:44,626 [INFO] astrategy.py 504: Now macket status: -0.07702702702702702
+2017-01-03 13:00:44,626 [INFO] astrategy.py 416: TOP3:  ['150255', '502049', '150277', '150177', '150203']
+2017-01-03 13:00:44,626 [INFO] astrategy.py 417: NowPosition:  ['150255', '502049', '150173', '150217', '150275']
+2017-01-03 13:01:03,240 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 13:01:03,248 [INFO] astrategy.py 504: Now macket status: -0.07972972972972972
+2017-01-03 13:01:03,248 [INFO] astrategy.py 416: TOP3:  ['150255', '502049', '150177', '150203', '150277']
+2017-01-03 13:01:03,248 [INFO] astrategy.py 417: NowPosition:  ['502049', '150255', '150173', '150217', '150275']
+2017-01-03 13:01:20,895 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 13:01:20,902 [INFO] astrategy.py 504: Now macket status: -0.07972972972972972
+2017-01-03 13:01:20,903 [INFO] astrategy.py 416: TOP3:  ['150255', '502049', '150177', '150203', '150277']
+2017-01-03 13:01:20,903 [INFO] astrategy.py 417: NowPosition:  ['502049', '150255', '150173', '150217', '150275']
+2017-01-03 13:01:38,400 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 13:01:38,407 [INFO] astrategy.py 504: Now macket status: -0.08513513513513513
+2017-01-03 13:01:38,408 [INFO] astrategy.py 416: TOP3:  ['150255', '502049', '150177', '150203', '150277']
+2017-01-03 13:01:38,408 [INFO] astrategy.py 417: NowPosition:  ['502049', '150255', '150173', '150217', '150275']
+2017-01-03 13:01:56,769 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 13:01:56,777 [INFO] astrategy.py 504: Now macket status: -0.09054054054054055
+2017-01-03 13:01:56,778 [INFO] astrategy.py 416: TOP3:  ['150255', '502049', '150177', '150203', '150277']
+2017-01-03 13:01:56,778 [INFO] astrategy.py 417: NowPosition:  ['502049', '150255', '150173', '150217', '150275']
+2017-01-03 13:02:14,542 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 13:02:14,550 [INFO] astrategy.py 504: Now macket status: -0.08783783783783784
+2017-01-03 13:02:14,550 [INFO] astrategy.py 416: TOP3:  ['150255', '502049', '150177', '150203', '150277']
+2017-01-03 13:02:14,550 [INFO] astrategy.py 417: NowPosition:  ['502049', '150255', '150173', '150217', '150275']
+2017-01-03 13:02:32,553 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 13:02:32,560 [INFO] astrategy.py 504: Now macket status: -0.09054054054054055
+2017-01-03 13:02:32,562 [INFO] astrategy.py 416: TOP3:  ['150255', '502049', '150177', '150203', '150277']
+2017-01-03 13:02:32,562 [INFO] astrategy.py 417: NowPosition:  ['502049', '150255', '150173', '150217', '150275']
+2017-01-03 13:02:50,774 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 13:02:50,783 [INFO] astrategy.py 504: Now macket status: -0.09054054054054055
+2017-01-03 13:02:50,784 [INFO] astrategy.py 416: TOP3:  ['150255', '502049', '150177', '150203', '150277']
+2017-01-03 13:02:50,785 [INFO] astrategy.py 417: NowPosition:  ['502049', '150255', '150173', '150217', '150275']
+2017-01-03 13:03:08,894 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 13:03:08,902 [INFO] astrategy.py 504: Now macket status: -0.08783783783783786
+2017-01-03 13:03:08,903 [INFO] astrategy.py 416: TOP3:  ['150255', '502049', '150177', '150203', '150277']
+2017-01-03 13:03:08,904 [INFO] astrategy.py 417: NowPosition:  ['502049', '150255', '150173', '150217', '150275']
+2017-01-03 13:03:26,368 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 13:03:26,376 [INFO] astrategy.py 504: Now macket status: -0.08783783783783786
+2017-01-03 13:03:26,377 [INFO] astrategy.py 416: TOP3:  ['150255', '502049', '150177', '150203', '150277']
+2017-01-03 13:03:26,379 [INFO] astrategy.py 417: NowPosition:  ['502049', '150255', '150173', '150217', '150275']
+2017-01-03 13:03:44,328 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 13:03:44,337 [INFO] astrategy.py 504: Now macket status: -0.09324324324324325
+2017-01-03 13:03:44,339 [INFO] astrategy.py 416: TOP3:  ['150255', '502049', '150177', '150203', '150277']
+2017-01-03 13:03:44,339 [INFO] astrategy.py 417: NowPosition:  ['502049', '150255', '150173', '150217', '150275']
+2017-01-03 13:04:03,355 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 13:04:03,363 [INFO] astrategy.py 504: Now macket status: -0.08783783783783784
+2017-01-03 13:04:03,364 [INFO] astrategy.py 416: TOP3:  ['150255', '502049', '150177', '150203', '150277']
+2017-01-03 13:04:03,366 [INFO] astrategy.py 417: NowPosition:  ['502049', '150255', '150173', '150217', '150275']
+2017-01-03 13:04:20,856 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 13:04:20,865 [INFO] astrategy.py 504: Now macket status: -0.08513513513513513
+2017-01-03 13:04:20,866 [INFO] astrategy.py 416: TOP3:  ['150255', '502049', '150177', '150203', '150277']
+2017-01-03 13:04:20,867 [INFO] astrategy.py 417: NowPosition:  ['502049', '150255', '150173', '150217', '150275']
+2017-01-03 13:04:38,577 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 13:58:42,427 [INFO] astrategy.py 504: Now macket status: -0.08783783783783784
+2017-01-03 13:58:42,429 [INFO] astrategy.py 416: TOP3:  ['150255', '502049', '150177', '150203', '150277']
+2017-01-03 13:58:42,430 [INFO] astrategy.py 417: NowPosition:  ['502049', '150255', '150173', '150217', '150275']
+2017-01-03 13:58:59,793 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 13:58:59,802 [INFO] astrategy.py 504: Now macket status: -0.036756756756756756
+2017-01-03 13:59:08,492 [DEBUG] autotrader.py 37: Starting loginning
+2017-01-03 14:13:00,773 [DEBUG] autotrader.py 37: Starting loginning
+2017-01-03 14:28:35,517 [DEBUG] autotrader.py 37: Starting loginning
+2017-01-03 14:28:42,554 [DEBUG] autotrader.py 87: Running started
+2017-01-03 14:29:03,720 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 14:29:03,728 [INFO] astrategy.py 504: Now macket status: -0.03162162162162162
+2017-01-03 14:29:03,728 [INFO] astrategy.py 416: TOP3:  ['502049', '150255', '150100', '150173', '150277']
+2017-01-03 14:29:03,728 [INFO] astrategy.py 417: NowPosition:  ['502049', '150255', '150173', '150217', '150275']
+2017-01-03 14:29:21,090 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 14:29:21,098 [INFO] astrategy.py 504: Now macket status: -0.03162162162162162
+2017-01-03 14:29:21,098 [INFO] astrategy.py 416: TOP3:  ['502049', '150255', '150100', '150173', '150277']
+2017-01-03 14:29:21,099 [INFO] astrategy.py 417: NowPosition:  ['502049', '150255', '150173', '150217', '150275']
+2017-01-03 14:29:39,062 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 14:29:39,069 [INFO] astrategy.py 504: Now macket status: -0.03162162162162162
+2017-01-03 14:29:39,069 [INFO] astrategy.py 416: TOP3:  ['502049', '150255', '150100', '150173', '150277']
+2017-01-03 14:29:39,069 [INFO] astrategy.py 417: NowPosition:  ['502049', '150255', '150173', '150217', '150275']
+2017-01-03 14:29:57,729 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 14:29:57,736 [INFO] astrategy.py 504: Now macket status: -0.028918918918918915
+2017-01-03 14:29:57,737 [INFO] astrategy.py 416: TOP3:  ['502049', '150255', '150100', '150173', '150277']
+2017-01-03 14:29:57,737 [INFO] astrategy.py 417: NowPosition:  ['502049', '150255', '150173', '150217', '150275']
+2017-01-03 14:30:15,324 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 14:30:15,331 [INFO] astrategy.py 504: Now macket status: -0.026216216216216212
+2017-01-03 14:30:15,331 [INFO] astrategy.py 416: TOP3:  ['502049', '150255', '150100', '150173', '150277']
+2017-01-03 14:30:15,332 [INFO] astrategy.py 417: NowPosition:  ['502049', '150255', '150173', '150217', '150275']
+2017-01-03 14:30:33,212 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 14:30:33,219 [INFO] astrategy.py 504: Now macket status: -0.03162162162162161
+2017-01-03 14:30:33,220 [INFO] astrategy.py 416: TOP3:  ['502049', '150255', '150100', '150173', '150277']
+2017-01-03 14:30:33,220 [INFO] astrategy.py 417: NowPosition:  ['502049', '150255', '150173', '150217', '150275']
+2017-01-03 14:30:50,971 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 14:30:50,978 [INFO] astrategy.py 504: Now macket status: -0.028918918918918915
+2017-01-03 14:30:50,979 [INFO] astrategy.py 416: TOP3:  ['502049', '150255', '150100', '150173', '150277']
+2017-01-03 14:30:50,979 [INFO] astrategy.py 417: NowPosition:  ['502049', '150255', '150173', '150217', '150275']
+2017-01-03 14:31:12,778 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 14:31:12,787 [INFO] astrategy.py 504: Now macket status: -0.026216216216216212
+2017-01-03 14:31:12,788 [INFO] astrategy.py 416: TOP3:  ['502049', '150255', '150100', '150173', '150277']
+2017-01-03 14:31:12,789 [INFO] astrategy.py 417: NowPosition:  ['502049', '150255', '150173', '150217', '150275']
+2017-01-03 14:31:31,383 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 14:31:31,392 [INFO] astrategy.py 504: Now macket status: -0.026216216216216212
+2017-01-03 14:31:31,394 [INFO] astrategy.py 416: TOP3:  ['502049', '150255', '150100', '150173', '150277']
+2017-01-03 14:31:31,395 [INFO] astrategy.py 417: NowPosition:  ['502049', '150255', '150173', '150217', '150275']
+2017-01-03 14:31:52,940 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 14:31:52,948 [INFO] astrategy.py 504: Now macket status: -0.03162162162162161
+2017-01-03 14:31:52,949 [INFO] astrategy.py 416: TOP3:  ['502049', '150255', '150100', '150173', '150277']
+2017-01-03 14:31:52,951 [INFO] astrategy.py 417: NowPosition:  ['502049', '150255', '150173', '150217', '150275']
+2017-01-03 14:32:04,802 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 14:32:04,810 [INFO] astrategy.py 504: Now macket status: -0.02621621621621622
+2017-01-03 14:32:04,812 [INFO] astrategy.py 416: TOP3:  ['502049', '150255', '150100', '150173', '150277']
+2017-01-03 14:32:04,813 [INFO] astrategy.py 417: NowPosition:  ['502049', '150255', '150173', '150217', '150275']
+2017-01-03 14:33:13,810 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 14:33:13,819 [INFO] astrategy.py 504: Now macket status: -0.02621621621621622
+2017-01-03 14:33:13,820 [INFO] astrategy.py 416: TOP3:  ['502049', '150255', '150100', '150173', '150277']
+2017-01-03 14:33:13,821 [INFO] astrategy.py 417: NowPosition:  ['502049', '150255', '150173', '150217', '150275']
+2017-01-03 14:33:35,529 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 14:33:35,537 [INFO] astrategy.py 504: Now macket status: -0.015945945945945946
+2017-01-03 14:33:35,539 [INFO] astrategy.py 416: TOP3:  ['502049', '150255', '150100', '150173', '150277']
+2017-01-03 14:33:35,540 [INFO] astrategy.py 417: NowPosition:  ['502049', '150255', '150173', '150217', '150275']
+2017-01-03 14:33:53,208 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 14:33:53,217 [INFO] astrategy.py 504: Now macket status: -0.002702702702702703
+2017-01-03 14:33:53,218 [INFO] astrategy.py 416: TOP3:  ['502049', '150255', '150100', '150173', '150277']
+2017-01-03 14:33:53,219 [INFO] astrategy.py 417: NowPosition:  ['502049', '150255', '150173', '150217', '150275']
+2017-01-03 14:34:11,294 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 14:34:11,303 [INFO] astrategy.py 504: Now macket status: -0.002702702702702703
+2017-01-03 14:34:11,304 [INFO] astrategy.py 416: TOP3:  ['502049', '150255', '150100', '150173', '150277']
+2017-01-03 14:34:11,305 [INFO] astrategy.py 417: NowPosition:  ['502049', '150255', '150173', '150217', '150275']
+2017-01-03 14:34:28,675 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 14:34:28,684 [INFO] astrategy.py 504: Now macket status: -0.0054054054054054005
+2017-01-03 14:34:28,686 [INFO] astrategy.py 416: TOP3:  ['502049', '150255', '150100', '150173', '150277']
+2017-01-03 14:34:28,686 [INFO] astrategy.py 417: NowPosition:  ['502049', '150255', '150173', '150217', '150275']
+2017-01-03 14:34:45,561 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 14:34:45,570 [INFO] astrategy.py 504: Now macket status: 0.005405405405405409
+2017-01-03 14:34:45,572 [INFO] astrategy.py 416: TOP3:  ['502049', '150255', '150100', '150173', '150277']
+2017-01-03 14:34:45,572 [INFO] astrategy.py 417: NowPosition:  ['502049', '150255', '150173', '150217', '150275']
+2017-01-03 14:35:04,678 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 14:35:04,687 [INFO] astrategy.py 504: Now macket status: 0.005405405405405409
+2017-01-03 14:35:04,688 [INFO] astrategy.py 416: TOP3:  ['502049', '150255', '150100', '150173', '150277']
+2017-01-03 14:35:04,689 [INFO] astrategy.py 417: NowPosition:  ['502049', '150255', '150173', '150217', '150275']
+2017-01-03 14:35:21,475 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 14:35:21,485 [INFO] astrategy.py 504: Now macket status: 0.005405405405405409
+2017-01-03 14:35:21,486 [INFO] astrategy.py 416: TOP3:  ['502049', '150255', '150100', '150173', '150277']
+2017-01-03 14:35:21,486 [INFO] astrategy.py 417: NowPosition:  ['502049', '150255', '150173', '150217', '150275']
+2017-01-03 14:35:39,164 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 14:35:39,173 [INFO] astrategy.py 504: Now macket status: 5.251054846200065e-18
+2017-01-03 14:35:39,175 [INFO] astrategy.py 416: TOP3:  ['502049', '150255', '150100', '150173', '150277']
+2017-01-03 14:35:39,176 [INFO] astrategy.py 417: NowPosition:  ['502049', '150255', '150173', '150217', '150275']
+2017-01-03 14:35:57,537 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 14:35:57,546 [INFO] astrategy.py 504: Now macket status: 0.002702702702702708
+2017-01-03 14:35:57,547 [INFO] astrategy.py 416: TOP3:  ['502049', '150255', '150100', '150173', '150277']
+2017-01-03 14:35:57,548 [INFO] astrategy.py 417: NowPosition:  ['502049', '150255', '150173', '150217', '150275']
+2017-01-03 14:36:15,862 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 14:36:15,871 [INFO] astrategy.py 504: Now macket status: 0.005405405405405409
+2017-01-03 14:36:15,872 [INFO] astrategy.py 416: TOP3:  ['502049', '150255', '150100', '150173', '150277']
+2017-01-03 14:36:15,873 [INFO] astrategy.py 417: NowPosition:  ['502049', '150255', '150173', '150217', '150275']
+2017-01-03 14:36:40,759 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 14:36:40,768 [INFO] astrategy.py 504: Now macket status: 0.008108108108108115
+2017-01-03 14:36:40,769 [INFO] astrategy.py 416: TOP3:  ['502049', '150255', '150100', '150173', '150277']
+2017-01-03 14:36:40,770 [INFO] astrategy.py 417: NowPosition:  ['502049', '150255', '150173', '150217', '150275']
+2017-01-03 14:36:54,260 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 14:36:54,269 [INFO] astrategy.py 504: Now macket status: 0.005405405405405413
+2017-01-03 14:36:54,271 [INFO] astrategy.py 416: TOP3:  ['150255', '150100', '150173', '150277', '502049']
+2017-01-03 14:36:54,271 [INFO] astrategy.py 417: NowPosition:  ['150255', '502049', '150173', '150217', '150275']
+2017-01-03 14:37:09,205 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 14:37:09,214 [INFO] astrategy.py 504: Now macket status: 0.008108108108108115
+2017-01-03 14:37:09,216 [INFO] astrategy.py 416: TOP3:  ['150255', '150100', '150173', '150277', '502049']
+2017-01-03 14:37:09,216 [INFO] astrategy.py 417: NowPosition:  ['150255', '502049', '150173', '150217', '150275']
+2017-01-03 14:37:28,306 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 14:37:28,315 [INFO] astrategy.py 504: Now macket status: 0.008108108108108115
+2017-01-03 14:37:28,317 [INFO] astrategy.py 416: TOP3:  ['150255', '150100', '150173', '150277', '502049']
+2017-01-03 14:37:28,317 [INFO] astrategy.py 417: NowPosition:  ['150255', '502049', '150173', '150217', '150275']
+2017-01-03 14:37:44,761 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 14:37:44,769 [INFO] astrategy.py 504: Now macket status: 0.005405405405405413
+2017-01-03 14:37:44,770 [INFO] astrategy.py 416: TOP3:  ['150255', '150100', '150173', '150277', '502049']
+2017-01-03 14:37:44,772 [INFO] astrategy.py 417: NowPosition:  ['150255', '502049', '150173', '150217', '150275']
+2017-01-03 14:38:04,010 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 14:38:04,019 [INFO] astrategy.py 504: Now macket status: 0.010810810810810817
+2017-01-03 14:38:04,020 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '150277', '150255', '502049']
+2017-01-03 14:38:04,021 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150255', '150217', '150275']
+2017-01-03 14:38:21,537 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 14:38:21,546 [INFO] astrategy.py 504: Now macket status: 0.010810810810810817
+2017-01-03 14:38:21,548 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '150277', '150255', '502049']
+2017-01-03 14:38:21,548 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150255', '150217', '150275']
+2017-01-03 14:38:38,999 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 14:38:39,007 [INFO] astrategy.py 504: Now macket status: 0.008108108108108115
+2017-01-03 14:38:39,008 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '150277', '150255', '502049']
+2017-01-03 14:38:39,010 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150255', '150217', '150275']
+2017-01-03 14:39:03,587 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 14:39:03,595 [INFO] astrategy.py 504: Now macket status: 0.013513513513513516
+2017-01-03 14:39:03,596 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '150277', '150255', '502049']
+2017-01-03 14:39:03,598 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150255', '150217', '150275']
+2017-01-03 14:39:15,343 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 14:39:15,352 [INFO] astrategy.py 504: Now macket status: 0.010810810810810811
+2017-01-03 14:39:15,353 [INFO] astrategy.py 416: TOP3:  ['150100', '150173', '150277', '150255', '502049']
+2017-01-03 14:39:15,354 [INFO] astrategy.py 417: NowPosition:  ['502049', '150173', '150255', '150217', '150275']
+2017-01-03 14:39:40,762 [INFO] astrategy.py 136: 集思录数据 page:1, rows:140
+2017-01-03 14:39:40,771 [INFO] astrategy.py 504: Now macket status: 0.008108108108108109

@@ -130,8 +130,8 @@ class AutoTrader(QtWidgets.QMainWindow, Ui_AutoTraderWin):
 		tempbalance = self.myaccount.balance
 		tempposition = self.myaccount.position
 		tempentrust = self.myaccount.entrust
-		tempposition['data'] = tempposition['data'][0:3]
-		tempposition['data'][-1]['stock_code'] = '150012'
+		#tempposition['data'] = tempposition['data'][0:3]
+		#tempposition['data'][-1]['stock_code'] = '150012'
 		self.testastrategy = AStrategy(tempbalance, tempposition, tempentrust)
 		result = self.testastrategy.get_strategy_gf()
 		#self.deal_strategy_result(result)
