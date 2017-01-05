@@ -69,7 +69,20 @@ class AutoTrader(QtWidgets.QMainWindow, Ui_AutoTraderWin):
 			return
 
 		easytrader.log.setLevel(logging.ERROR)
-		astrategytemp = AStrategy(self.myaccount.balance, self.myaccount.position, self.myaccount.entrust)
+
+		retrytimes = 10
+		while retrytimes > 0:
+			retrytimes--
+			tempbalance = self.myaccount.balance
+			tempposition = self.myaccount.position
+			tempentrust = self.myaccount.entrust
+			if not (tempbalance is None or tempposition is None or tempentrust is None):
+				break
+		if retrytimes == 0:
+			mylog.mylog.error('Retry times out')
+
+
+		astrategytemp = AStrategy(tempbalance, tempposition, tempentrust)
 		result = astrategytemp.get_strategy_gf()
 		easytrader.log.setLevel(logging.DEBUG)
 		self.deal_strategy_result(result)

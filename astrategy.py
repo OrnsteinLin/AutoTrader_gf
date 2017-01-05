@@ -388,7 +388,7 @@ class AStrategy(object):
 
 		self.in_position = sorted(self.in_position, key = lambda x : x['point'][0], reverse =True)
 		
-		templist = ['已成', '废单', '已撤']
+		templist = ['已成', '废单', '已撤', '部撤']
 		if self.in_entrust['total'] > 0:
 			self.in_entrust = self.in_entrust['data']
 			for eachA in self.in_entrust:
