@@ -72,7 +72,7 @@ class AutoTrader(QtWidgets.QMainWindow, Ui_AutoTraderWin):
 
 		retrytimes = 10
 		while retrytimes > 0:
-			retrytimes--
+			retrytimes-=1
 			tempbalance = self.myaccount.balance
 			tempposition = self.myaccount.position
 			tempentrust = self.myaccount.entrust
