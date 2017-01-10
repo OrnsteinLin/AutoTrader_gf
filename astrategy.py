@@ -466,7 +466,13 @@ class AStrategy(object):
 		tempresult = []
 		for eachA in in_data :
 			if eachA not in tempposition and eachA not in tempentrustbuy:
-				tempresult = [{'todo': 'buy', 'id' : eachA, 'value': self.A_s_config['each_position']*self.in_balance['enable_balance'], 'price': self.jisilu_data[eachA]['funda_current_price']},]
+				tempbuyvalue = self.A_s_config['each_position'] * self.in_balance['enable_balance']
+				if tempbuyvalue < self.A_s_config['min_position_value'] :
+					if self.in_balance['enable_balance'] > self.A_s_config['min_position_value'] :
+						tempbuyvalue = self.A_s_config['min_position_value']
+					else:
+						tempbuyvalue = self.in_balance['enable_balance']-5.0
+				tempresult = [{'todo': 'buy', 'id' : eachA, 'value': tempbuyvalue, 'price': self.jisilu_data[eachA]['funda_current_price']},]
 				if self.nowstatus < -self.A_s_config['status_dis'] and self.jisilu_data[eachA]['funda_increase_rt'] < 0 and self.jisilu_data[eachA]['funda_increase_rt'] > 0.5 * -self.A_s_config['status_dis']:
 					tempresult[0]['price'] += -0.001
 				mylog.mylog.info('buy: '+ tempresult[0]['id'] +'  value:  '+ str(tempresult[0]['value']) + ' price: '+str(tempresult[0]['price']) + ' nowprice: ' + str(self.jisilu_data[eachA]['funda_current_price']))
@@ -490,7 +496,7 @@ class AStrategy(object):
 					continue
 				if eachA['stock_code'] in in_data or eachA['entrust_price'] - self.jisilu_data[eachA['stock_code']]['funda_current_price'] > self.A_s_config['max_price_dis']:
 					tempresult +=  [{'todo' : 'del', 'entrust_id' : eachA['entrust_no']}]
-					mylog.mylog.info('del: '+eachA['stock_code'] + '  entrust_id: '+eachA['entrust_no'])
+					mylog.mylog.info('del: '+eachA['stock_code'] + '  entrust_id: ' + eachA['entrust_no'])
 		return tempresult
 
 	def macket_status(self):
