@@ -420,6 +420,7 @@ class AStrategy(object):
 		if len(self.in_position) > self.A_s_config['max_A']:
 			strategy_result += self.get_strategy_sell_gf(tempdata)
 		elif len(self.in_position) < self.A_s_config['max_A']:
+			strategy_result += self.get_strategy_sell_gf(tempdata)
 			strategy_result += self.get_strategy_buy_gf(tempdata)
 		elif not set(tempdata).issubset(set([v['stock_code'] for v in self.in_position])) :
 			strategy_result += self.get_strategy_sell_gf(tempdata)
