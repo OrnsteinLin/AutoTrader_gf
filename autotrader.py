@@ -80,7 +80,11 @@ class AutoTrader(QtWidgets.QMainWindow, Ui_AutoTraderWin):
 				break
 		if retrytimes == 0:
 			mylog.mylog.error('Retry times out')
-
+			del(self.myaccount)
+			self.account_login()
+			tempbalance = self.myaccount.balance
+			tempposition = self.myaccount.position
+			tempentrust = self.myaccount.entrust
 
 		astrategytemp = AStrategy(tempbalance, tempposition, tempentrust)
 		result = astrategytemp.get_strategy_gf()
