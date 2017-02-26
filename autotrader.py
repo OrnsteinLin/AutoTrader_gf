@@ -1,6 +1,7 @@
 # coding=utf-8
 import easytrader
 import threading
+import os
 import time
 from PyQt5 import QtCore, QtGui, QtWidgets
 
@@ -38,6 +39,11 @@ class AutoTrader(QtWidgets.QMainWindow, Ui_AutoTraderWin):
 		#self.myaccount = easytrader.use('gf')
 		self.myaccount = Mygftrader()
 		self.myaccount.prepare(self.login_info)
+		totalbalance = self.myaccount.balance['data'][0]['asset_balance']
+		mylog.mylog.info('Now total balance: ' + totalbalance)
+		with open(os.path.dirname(__file__) + '/log/TotalBalance.txt', 'a') as f:
+			f.write(time.strftime('%Y%m%d %H:%M',time.localtime(time.time())) + '    Now total balance: ' + totalbalance + '\n')
+
 	
 	def setupUi_plus(self):
 		"""额外的Ui设置内容
@@ -59,7 +65,7 @@ class AutoTrader(QtWidgets.QMainWindow, Ui_AutoTraderWin):
 		now = time.strftime('%Y-%m-%d-%H:%M:%S',time.localtime(time.time()))
 		timepoint_0 = time.strftime('%Y-%m-%d',time.localtime(time.time()))+'-09:29:30'
 		timepoint_1 = time.strftime('%Y-%m-%d',time.localtime(time.time()))+'-11:29:30'
-		timepoint_2 = time.strftime('%Y-%m-%d',time.localtime(time.time()))+'-13:00:30'
+		timepoint_2 = time.strftime('%Y-%m-%d',time.localtime(time.time()))+'-13:00:00'
 		timepoint_3 = time.strftime('%Y-%m-%d',time.localtime(time.time()))+'-14:59:30'
 		if now < timepoint_0 or (now > timepoint_1 and now < timepoint_2):
 			mylog.mylog.debug('Out of time, pass')

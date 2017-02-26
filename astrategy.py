@@ -427,7 +427,8 @@ class AStrategy(object):
 			strategy_result += self.get_strategy_buy_gf(tempdata)
 		else:
 			strategy_result = []
-		#print(strategy_result)
+		#if strategy_result == []:
+		#	strategy_result += 
 		return strategy_result
 
 	def get_strategy_sell_gf(self, in_data):
@@ -451,7 +452,6 @@ class AStrategy(object):
 		"""
 
 		if self.in_balance['asset_balance'] - self.in_balance['enable_balance']  > self.A_s_config['max_position'] * self.in_balance['asset_balance']:
-			print('e2')
 			return []
 
 		if len(self.in_position) > 0:
@@ -499,6 +499,24 @@ class AStrategy(object):
 					tempresult +=  [{'todo' : 'del', 'entrust_id' : eachA['entrust_no']}]
 					mylog.mylog.info('del: '+eachA['stock_code'] + '  entrust_id: ' + eachA['entrust_no'])
 		return tempresult
+
+	def get_strategy_buyold(self, in_data):
+		"""补仓
+		
+		tempresult = []
+
+		if len(self.in_position) > 0:
+			tempposition = [v['stock_code'] for v in self.in_position]
+		else:
+			tempposition = []
+
+		for eachA in in_data:
+			if eachA in tempposition and eachA not in tempentrustbuy:
+				if self.in_position
+			pass
+		"""
+
+
 
 	def macket_status(self):
 		"""市场状态
