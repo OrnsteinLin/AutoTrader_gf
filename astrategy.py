@@ -427,8 +427,8 @@ class AStrategy(object):
 			strategy_result += self.get_strategy_buy_gf(tempdata)
 		else:
 			strategy_result = []
-		#if strategy_result == []:
-		#	strategy_result += 
+		if strategy_result == []:
+			strategy_result += self.get_strategy_buyold(tempdata)
 		return strategy_result
 
 	def get_strategy_sell_gf(self, in_data):
@@ -495,26 +495,32 @@ class AStrategy(object):
 			for eachA in self.in_entrust_sell:
 				if eachA['stock_code'] not in self.jisilu_data :
 					continue
-				if eachA['stock_code'] in in_data or eachA['entrust_price'] - self.jisilu_data[eachA['stock_code']]['funda_current_price'] > self.A_s_config['max_price_dis']:
+				if eachA['stock_code'] in in_data[0:self.A_s_config['max_A']] or eachA['entrust_price'] - self.jisilu_data[eachA['stock_code']]['funda_current_price'] > self.A_s_config['max_price_dis']:
 					tempresult +=  [{'todo' : 'del', 'entrust_id' : eachA['entrust_no']}]
 					mylog.mylog.info('del: '+eachA['stock_code'] + '  entrust_id: ' + eachA['entrust_no'])
 		return tempresult
 
 	def get_strategy_buyold(self, in_data):
 		"""补仓
-		
+		"""
+		if self.in_balance['asset_balance'] - self.in_balance['enable_balance']  > self.A_s_config['max_position'] * self.in_balance['asset_balance']:
+			return []
 		tempresult = []
 
-		if len(self.in_position) > 0:
-			tempposition = [v['stock_code'] for v in self.in_position]
+		if len(self.in_entrust_buy) >0:
+			tempentrustbuy = [v['stock_code'] for v in self.in_entrust_buy]
 		else:
-			tempposition = []
-
-		for eachA in in_data:
-			if eachA in tempposition and eachA not in tempentrustbuy:
-				if self.in_position
-			pass
-		"""
+			tempentrustbuy = []
+		for each in self.in_position:
+			if each['stock_code'] in in_data and each['stock_code'] not in tempentrustbuy and each['cost_balance'] < self.A_s_config['min_position_value']*0.7:
+				tempbuyvalue = self.A_s_config['min_position_value']-each['cost_balance']
+				if tempbuyvalue > self.in_balance['enable_balance']:
+					tempbuyvalue = self.in_balance['enable_balance'] - 5.0 - each['cost_balance']
+				tempresult = [{'todo': 'buy', 'id' : each['stock_code'], 'value': tempbuyvalue, 'price': self.jisilu_data[each['stock_code']]['funda_current_price']},]
+				mylog.mylog.info('buyold: '+ tempresult[0]['id'] +'  value:  '+ str(tempresult[0]['value']) + ' price: '+str(tempresult[0]['price']) + ' nowprice: ' + str(self.jisilu_data[each['stock_code']]['funda_current_price']))
+				return tempresult
+		return tempresult
+		
 
 
 
