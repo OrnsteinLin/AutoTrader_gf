@@ -1,8 +1,8 @@
 {
-	"funda_profit_rt_next" : 0.1,
-	"funda_discount_rt" : 0.4,
-	"funda_amount" : 0.5,
-	"funda_lower_recalc_rt" : 0.0,
+	"funda_profit_rt_next" : 0.0,
+	"funda_discount_rt" : 0.3,
+	"funda_amount" : 0.3,
+	"funda_lower_recalc_rt" : 0.4,
 
 	"profit_to_discount" : 0.0
 }

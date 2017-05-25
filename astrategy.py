@@ -204,7 +204,7 @@ class AStrategy(object):
 		temppoint = self.A_point_cal['funda_profit_rt_next'] * self.point_calculate_use_mid(f_profit_rt_next, self.point_base['funda_profit_rt_next_mid'], self.point_base['funda_profit_rt_next_min'])
 		temppoint += self.A_point_cal['funda_discount_rt'] * self.point_calculate_use_mid(f_discount_rt, self.point_base['funda_discount_rt_mid'], self.point_base['funda_discount_rt_min'])
 		temppoint += self.A_point_cal['funda_amount'] * self.point_calculate_use_mid(f_amount, self.point_base['funda_amount_mid'], self.point_base['funda_amount_min'])
-		temppoint += self.A_point_cal['funda_lower_recalc_rt'] * self.point_calculate_use_mid(f_amount, self.point_base['funda_lower_recalc_rt_mid'], self.point_base['funda_lower_recalc_rt_min'])
+		temppoint += self.A_point_cal['funda_lower_recalc_rt'] * self.point_calculate_use_mid(f_lower_recalc_rt, self.point_base['funda_lower_recalc_rt_mid'], self.point_base['funda_lower_recalc_rt_min'])
 		#if f_discount_rt > 0:
 		#	temppoint += self.A_point_cal['profit_to_discount']
 		#else:
@@ -409,11 +409,14 @@ class AStrategy(object):
 		"""核心函数，获取返回的操作。
 		"""
 		tempjisilu_data = {v:self.jisilu_data[v] for v in self.jisilu_data if self.jisilu_data[v]['point'][1] >= self.A_s_config['min_point']} #清洗分数过低的A
-		tempdatalist = sorted(tempjisilu_data.items(), key= lambda x:x[1]['point'][0], reverse=True)
+		tempdatalist = sorted(tempjisilu_data.items(), key= lambda x:x[1]['point'][1], reverse=True)
+		tempdatalist = sorted(tempdatalist, key= lambda x:x[1]['point'][0], reverse=True)
 		tempdata = [v[0] for v in tempdatalist]
-		tempdata = tempdata[0:self.A_s_config['max_A']+1]
+		tempdata = tempdata[0:self.A_s_config['max_A']+3]
+		for num in range(0,self.A_s_config['max_A']+3):
+			print(tempdatalist[num][0]+str(tempdatalist[num][1]['point']))
 
-		mylog.mylog.info('TOP3:  '+str(tempdata))
+		mylog.mylog.info('TOP:  '+str(tempdata))
 		mylog.mylog.info('NowPosition:  '+ str([v['stock_code'] for v in self.in_position]))
 
 		strategy_result = self.get_strategy_del_gf(tempdata) 
@@ -437,6 +440,7 @@ class AStrategy(object):
 		for eachA in self.in_position:
 			if eachA['stock_code'] not in self.jisilu_data:
 				continue
+			#如果不在top列表中，而且和当前top列表最后一名差距大于设置，则卖出。此处，列表指按设置大小的列表，可能比传参少1
 			if eachA['stock_code'] not in in_data[0:self.A_s_config['max_A']] and eachA['enable_amount'] > 0 and self.jisilu_data[in_data[self.A_s_config['max_A']-1]]['point'][0] - eachA['point'][0] >= self.A_s_config['min_dis']:
 				tempresult += [{'todo' : 'sell', 'id' : eachA['stock_code'], 'amount' : eachA['enable_amount'], 'price' : eachA['last_price']},]
 				if self.nowstatus > self.A_s_config['status_dis'] and self.jisilu_data[eachA['stock_code']]['funda_increase_rt'] > 0 and self.jisilu_data[eachA['stock_code']]['funda_increase_rt'] < 0.5 * self.A_s_config['status_dis']:
@@ -445,7 +449,7 @@ class AStrategy(object):
 		return tempresult
 
 	def get_strategy_buy_gf(self, in_data):
-		if len(self.in_position) + len(self.in_entrust_buy) > self.A_s_config['max_A'] + 1:
+		if len(self.in_position) + len(self.in_entrust_buy) > self.A_s_config['max_A']:
 			print('e1')
 			return []
 		"""持仓不可为空
@@ -465,7 +469,7 @@ class AStrategy(object):
 			tempentrustbuy = []
 
 		tempresult = []
-		for eachA in in_data :
+		for eachA in in_data[0:self.A_s_config['max_A']] :
 			if eachA not in tempposition and eachA not in tempentrustbuy:
 				tempbuyvalue = self.A_s_config['each_position'] * self.in_balance['enable_balance']
 				if tempbuyvalue < self.A_s_config['min_position_value'] :
@@ -473,10 +477,13 @@ class AStrategy(object):
 						tempbuyvalue = self.A_s_config['min_position_value']
 					else:
 						tempbuyvalue = self.in_balance['enable_balance']-5.0
-				tempresult = [{'todo': 'buy', 'id' : eachA, 'value': tempbuyvalue, 'price': self.jisilu_data[eachA]['funda_current_price']},]
-				if self.nowstatus < -self.A_s_config['status_dis'] and self.jisilu_data[eachA]['funda_increase_rt'] < 0 and self.jisilu_data[eachA]['funda_increase_rt'] > 0.5 * -self.A_s_config['status_dis']:
+				tempA = eachA
+				if eachA != in_data[0] and self.jisilu_data[in_data[0]]['point'][0] - self.jisilu_data[eachA]['point'][0] > self.A_s_config['min_dis'] * (self.A_s_config['max_A'] - 2) and [v for v in self.in_position if v['stock_code']==in_data[0]][0]['cost_balance'] < self.A_s_config['max_position'] * self.in_balance['asset_balance'] * 0.382:
+					tempA = in_data[0]
+				tempresult = [{'todo': 'buy', 'id' : tempA, 'value': tempbuyvalue, 'price': self.jisilu_data[tempA]['funda_current_price']},]
+				if self.nowstatus < -self.A_s_config['status_dis'] and self.jisilu_data[tempA]['funda_increase_rt'] < 0 and self.jisilu_data[tempA]['funda_increase_rt'] > 0.5 * -self.A_s_config['status_dis']:
 					tempresult[0]['price'] += -0.001
-				mylog.mylog.info('buy: '+ tempresult[0]['id'] +'  value:  '+ str(tempresult[0]['value']) + ' price: '+str(tempresult[0]['price']) + ' nowprice: ' + str(self.jisilu_data[eachA]['funda_current_price']))
+				mylog.mylog.info('buy: '+ tempresult[0]['id'] +'  value:  '+ str(tempresult[0]['value']) + ' price: '+str(tempresult[0]['price']) + ' nowprice: ' + str(self.jisilu_data[tempA]['funda_current_price']))
 				break
 		return tempresult
 
@@ -511,11 +518,17 @@ class AStrategy(object):
 			tempentrustbuy = [v['stock_code'] for v in self.in_entrust_buy]
 		else:
 			tempentrustbuy = []
+		if len(self.in_entrust_sell) >0:
+			tempentrustsell = [v['stock_code'] for v in self.in_entrust_sell]
+		else:
+			tempentrustsell = []
+
 		for each in self.in_position:
-			if each['stock_code'] in in_data and each['stock_code'] not in tempentrustbuy and each['cost_balance'] < self.A_s_config['min_position_value']*0.7:
+			if each['stock_code'] in in_data[0:self.A_s_config['max_A']] and each['stock_code'] not in tempentrustbuy and each['stock_code'] not in tempentrustsell and each['cost_balance'] < self.A_s_config['min_position_value']*0.7:
 				tempbuyvalue = self.A_s_config['min_position_value']-each['cost_balance']
 				if tempbuyvalue > self.in_balance['enable_balance']:
-					tempbuyvalue = self.in_balance['enable_balance'] - 5.0 - each['cost_balance']
+					print
+					tempbuyvalue = self.in_balance['enable_balance'] - 5.0
 				tempresult = [{'todo': 'buy', 'id' : each['stock_code'], 'value': tempbuyvalue, 'price': self.jisilu_data[each['stock_code']]['funda_current_price']},]
 				mylog.mylog.info('buyold: '+ tempresult[0]['id'] +'  value:  '+ str(tempresult[0]['value']) + ' price: '+str(tempresult[0]['price']) + ' nowprice: ' + str(self.jisilu_data[each['stock_code']]['funda_current_price']))
 				return tempresult

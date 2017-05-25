@@ -1,0 +1,1597 @@
+2017-04-27 09:29:27,453 [DEBUG] autotrader.py 38: Starting loginning
+2017-04-27 09:29:29,843 [INFO] autotrader.py 43: Now total balance: 1024324.59
+2017-04-27 09:29:29,843 [DEBUG] autotrader.py 110: Running started
+2017-04-27 09:29:48,375 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:29:48,375 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:29:48,390 [INFO] astrategy.py 545: Now macket status: -0.020294117647058824
+2017-04-27 09:29:48,390 [INFO] astrategy.py 416: TOP:  ['502004', '150235', '150186', '150255', '150200', '502011', '150273']
+2017-04-27 09:29:48,390 [INFO] astrategy.py 417: NowPosition:  ['150186', '150255', '502011', '150273', '150307']
+2017-04-27 09:30:06,312 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:30:06,312 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:30:06,312 [INFO] astrategy.py 545: Now macket status: -0.020294117647058824
+2017-04-27 09:30:06,328 [INFO] astrategy.py 416: TOP:  ['502004', '150235', '150186', '150255', '150200', '502011', '150273']
+2017-04-27 09:30:06,328 [INFO] astrategy.py 417: NowPosition:  ['150186', '150255', '502011', '150273', '150307']
+2017-04-27 09:30:24,312 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:30:24,312 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:30:24,312 [INFO] astrategy.py 545: Now macket status: -0.04411764705882353
+2017-04-27 09:30:24,312 [INFO] astrategy.py 416: TOP:  ['502004', '150235', '150186', '150255', '150200', '502011', '150273']
+2017-04-27 09:30:24,312 [INFO] astrategy.py 417: NowPosition:  ['150186', '150255', '502011', '150273', '150307']
+2017-04-27 09:30:42,328 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:30:42,328 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:30:42,343 [INFO] astrategy.py 545: Now macket status: -0.06705882352941177
+2017-04-27 09:30:42,343 [INFO] astrategy.py 416: TOP:  ['502004', '150235', '150186', '150255', '150200', '502011', '150273']
+2017-04-27 09:30:42,343 [INFO] astrategy.py 417: NowPosition:  ['150186', '150255', '502011', '150273', '150307']
+2017-04-27 09:31:00,343 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:31:00,343 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:31:00,343 [INFO] astrategy.py 545: Now macket status: -0.0814705882352941
+2017-04-27 09:31:00,343 [INFO] astrategy.py 416: TOP:  ['502004', '150235', '150186', '150255', '150307', '150200', '502011']
+2017-04-27 09:31:00,343 [INFO] astrategy.py 417: NowPosition:  ['150186', '150255', '502011', '150307', '150273']
+2017-04-27 09:31:18,297 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:31:18,297 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:31:18,312 [INFO] astrategy.py 545: Now macket status: -0.07588235294117647
+2017-04-27 09:31:18,312 [INFO] astrategy.py 416: TOP:  ['502004', '150235', '150186', '150255', '150307', '150200', '502011']
+2017-04-27 09:31:18,312 [INFO] astrategy.py 417: NowPosition:  ['150186', '150255', '502011', '150307', '150273']
+2017-04-27 09:31:36,297 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:31:36,297 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:31:36,297 [INFO] astrategy.py 545: Now macket status: -0.10441176470588234
+2017-04-27 09:31:36,297 [INFO] astrategy.py 416: TOP:  ['502004', '150235', '150186', '150255', '150307', '150200', '502011']
+2017-04-27 09:31:36,312 [INFO] astrategy.py 417: NowPosition:  ['150186', '150255', '502011', '150307', '150273']
+2017-04-27 09:31:54,312 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:31:54,328 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:31:54,328 [INFO] astrategy.py 545: Now macket status: -0.10441176470588234
+2017-04-27 09:31:54,328 [INFO] astrategy.py 416: TOP:  ['502004', '150235', '150186', '150255', '150307', '150200', '502011']
+2017-04-27 09:31:54,328 [INFO] astrategy.py 417: NowPosition:  ['150186', '150255', '502011', '150307', '150273']
+2017-04-27 09:32:12,375 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:32:12,375 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:32:12,375 [INFO] astrategy.py 545: Now macket status: -0.10441176470588234
+2017-04-27 09:32:12,390 [INFO] astrategy.py 416: TOP:  ['502004', '150235', '150186', '150255', '150200', '502011', '150273']
+2017-04-27 09:32:12,390 [INFO] astrategy.py 417: NowPosition:  ['150186', '150255', '502011', '150273', '150307']
+2017-04-27 09:32:30,359 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:32:30,359 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:32:30,375 [INFO] astrategy.py 545: Now macket status: -0.07911764705882354
+2017-04-27 09:32:30,375 [INFO] astrategy.py 416: TOP:  ['502004', '150235', '150186', '150255', '150200', '150217', '502011']
+2017-04-27 09:32:30,375 [INFO] astrategy.py 417: NowPosition:  ['150186', '150255', '502011', '150273', '150307']
+2017-04-27 09:32:30,375 [INFO] astrategy.py 445: sell: id: 150307 amount: 157025.0 price: 1.004 nowprice: 1.004
+2017-04-27 09:32:30,422 [DEBUG] gftrader.py 114: raw response: {"total":1,"data":[{"error_no":"0","entrust_bs":"2","seat_no":"234800","entrust_type":"0","stock_code":"150307","order_id":"3328","orig_order_id":"3328","entrust_status":"1","entrust_amount":"157025.00","entrust_price":"1.004","entrust_no":"3328","init_date":"20170427","fund_account":"9237965","report_no":"3328","error_info":"","batch_no":"3328","entrust_time":"93230"}],"success":true}
+2017-04-27 09:32:48,437 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:32:48,437 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:32:48,453 [INFO] astrategy.py 545: Now macket status: -0.13058823529411764
+2017-04-27 09:32:48,453 [INFO] astrategy.py 416: TOP:  ['502004', '150235', '150186', '150255', '150307', '150200', '150217']
+2017-04-27 09:32:48,453 [INFO] astrategy.py 417: NowPosition:  ['150186', '150255', '502011', '150307', '150273']
+2017-04-27 09:33:06,375 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:33:06,390 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:33:06,390 [INFO] astrategy.py 545: Now macket status: -0.09029411764705883
+2017-04-27 09:33:06,390 [INFO] astrategy.py 416: TOP:  ['502004', '150235', '150186', '150255', '150200', '150217', '502011']
+2017-04-27 09:33:06,390 [INFO] astrategy.py 417: NowPosition:  ['150186', '150255', '502011', '150273', '150307']
+2017-04-27 09:33:24,406 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:33:24,406 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:33:24,422 [INFO] astrategy.py 545: Now macket status: -0.07911764705882354
+2017-04-27 09:33:24,422 [INFO] astrategy.py 416: TOP:  ['502004', '150235', '150186', '150255', '150200', '150217', '502011']
+2017-04-27 09:33:24,422 [INFO] astrategy.py 417: NowPosition:  ['150186', '150255', '502011', '150273', '150307']
+2017-04-27 09:33:42,406 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:33:42,422 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:33:42,422 [INFO] astrategy.py 545: Now macket status: -0.06441176470588236
+2017-04-27 09:33:42,422 [INFO] astrategy.py 416: TOP:  ['502004', '502011', '150235', '150186', '150217', '150255', '150200']
+2017-04-27 09:33:42,422 [INFO] astrategy.py 417: NowPosition:  ['502011', '150186', '150255', '150273', '150307']
+2017-04-27 09:33:42,422 [INFO] astrategy.py 445: sell: id: 150273 amount: 178275.0 price: 1.015 nowprice: 1.015
+2017-04-27 09:33:42,469 [DEBUG] gftrader.py 114: raw response: {"total":1,"data":[{"error_no":"0","entrust_bs":"2","seat_no":"234800","entrust_type":"0","stock_code":"150273","order_id":"3793","orig_order_id":"3793","entrust_status":"1","entrust_amount":"178275.00","entrust_price":"1.015","entrust_no":"3793","init_date":"20170427","fund_account":"9237965","report_no":"3793","error_info":"","batch_no":"3793","entrust_time":"93342"}],"success":true}
+2017-04-27 09:34:00,422 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:34:00,422 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:34:00,422 [INFO] astrategy.py 545: Now macket status: -0.058529411764705885
+2017-04-27 09:34:00,422 [INFO] astrategy.py 416: TOP:  ['502004', '502011', '150235', '150186', '150217', '150255', '150200']
+2017-04-27 09:34:00,437 [INFO] astrategy.py 417: NowPosition:  ['502011', '150186', '150255', '150273', '150307']
+2017-04-27 09:34:18,406 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:34:18,422 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:34:18,422 [INFO] astrategy.py 545: Now macket status: -0.058529411764705885
+2017-04-27 09:34:18,422 [INFO] astrategy.py 416: TOP:  ['502004', '502011', '150235', '150217', '150255', '150186', '150273']
+2017-04-27 09:34:18,422 [INFO] astrategy.py 417: NowPosition:  ['502011', '150255', '150186', '150273', '150307']
+2017-04-27 09:34:36,469 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:34:36,469 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:34:36,484 [INFO] astrategy.py 545: Now macket status: -0.052647058823529415
+2017-04-27 09:34:36,484 [INFO] astrategy.py 416: TOP:  ['502004', '502011', '150235', '150255', '150217', '150186', '150273']
+2017-04-27 09:34:36,484 [INFO] astrategy.py 417: NowPosition:  ['502011', '150255', '150186', '150273', '150307']
+2017-04-27 09:34:54,406 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:34:54,422 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:34:54,422 [INFO] astrategy.py 545: Now macket status: -0.03
+2017-04-27 09:34:54,422 [INFO] astrategy.py 416: TOP:  ['502004', '502011', '150255', '150235', '150217', '150186', '150273']
+2017-04-27 09:34:54,422 [INFO] astrategy.py 417: NowPosition:  ['502011', '150255', '150186', '150273', '150307']
+2017-04-27 09:35:18,406 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:35:18,422 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:35:18,422 [INFO] astrategy.py 545: Now macket status: -0.02705882352941177
+2017-04-27 09:35:18,422 [INFO] astrategy.py 416: TOP:  ['502011', '150255', '150235', '150217', '502004', '150186', '150273']
+2017-04-27 09:35:18,422 [INFO] astrategy.py 417: NowPosition:  ['502011', '150255', '150186', '150273', '150307']
+2017-04-27 09:35:30,437 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:35:30,437 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:35:30,437 [INFO] astrategy.py 545: Now macket status: -0.024117647058823535
+2017-04-27 09:35:30,437 [INFO] astrategy.py 416: TOP:  ['502011', '150255', '150217', '502004', '150186', '150235', '150273']
+2017-04-27 09:35:30,453 [INFO] astrategy.py 417: NowPosition:  ['502011', '150255', '150186', '150273', '150307']
+2017-04-27 09:35:48,375 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:35:48,390 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:35:48,390 [INFO] astrategy.py 545: Now macket status: -0.0211764705882353
+2017-04-27 09:35:48,390 [INFO] astrategy.py 416: TOP:  ['502011', '150255', '150217', '502004', '150186', '150235', '150273']
+2017-04-27 09:35:48,390 [INFO] astrategy.py 417: NowPosition:  ['502011', '150255', '150186', '150273', '150307']
+2017-04-27 09:36:06,390 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:36:06,390 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:36:06,406 [INFO] astrategy.py 545: Now macket status: -0.01823529411764706
+2017-04-27 09:36:06,406 [INFO] astrategy.py 416: TOP:  ['502011', '150255', '150217', '502004', '150186', '150235', '150273']
+2017-04-27 09:36:06,406 [INFO] astrategy.py 417: NowPosition:  ['502011', '150255', '150186', '150273', '150307']
+2017-04-27 09:36:27,406 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:36:27,406 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:36:27,422 [INFO] astrategy.py 545: Now macket status: -0.01823529411764706
+2017-04-27 09:36:27,422 [INFO] astrategy.py 416: TOP:  ['502011', '150255', '150217', '502004', '150186', '150235', '150273']
+2017-04-27 09:36:27,422 [INFO] astrategy.py 417: NowPosition:  ['502011', '150255', '150186', '150273', '150307']
+2017-04-27 09:36:43,640 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:36:43,640 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:36:43,656 [INFO] astrategy.py 545: Now macket status: -0.006470588235294126
+2017-04-27 09:36:43,656 [INFO] astrategy.py 416: TOP:  ['502011', '150255', '150217', '502004', '150186', '150235', '150273']
+2017-04-27 09:36:43,656 [INFO] astrategy.py 417: NowPosition:  ['502011', '150255', '150186', '150273', '150307']
+2017-04-27 09:37:00,437 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:37:00,437 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:37:00,437 [INFO] astrategy.py 545: Now macket status: -0.0411764705882353
+2017-04-27 09:37:00,453 [INFO] astrategy.py 416: TOP:  ['150255', '150217', '502004', '502011', '150186', '150235', '150273']
+2017-04-27 09:37:00,453 [INFO] astrategy.py 417: NowPosition:  ['150255', '502011', '150186', '150273', '150307']
+2017-04-27 09:37:18,406 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:37:18,406 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:37:18,422 [INFO] astrategy.py 545: Now macket status: -0.012647058823529414
+2017-04-27 09:37:18,422 [INFO] astrategy.py 416: TOP:  ['150273', '150255', '150217', '150173', '502004', '502011', '150186']
+2017-04-27 09:37:18,422 [INFO] astrategy.py 417: NowPosition:  ['150273', '150255', '502011', '150186', '150307']
+2017-04-27 09:37:18,422 [INFO] astrategy.py 504: del: 150273  entrust_id: 3793
+2017-04-27 09:37:18,469 [DEBUG] gftrader.py 114: raw response: {"total":1,"data":[{"error_no":"0","entrust_bs":"2","entrust_no_old":"3793","money_type":"0","entrust_type":"2","exchange_type":"2","seat_no":"234800","stock_code":"150273","entrust_status_old":"3","business_amount":"0","order_id":"5281","orig_order_id":"3793","entrust_status":" ","entrust_amount":"178275.00","entrust_price":"1.015","entrust_no":"5281","init_date":"20170427","fund_account":"9237965","report_no_old":"3793","report_no":"3793","stock_account":"0184731551","error_info":"","batch_no":"0","business_price":"0"}],"success":true}
+2017-04-27 09:37:36,422 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:37:36,422 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:37:36,437 [INFO] astrategy.py 545: Now macket status: -0.009705882352941182
+2017-04-27 09:37:36,437 [INFO] astrategy.py 416: TOP:  ['150273', '150255', '150217', '150173', '502004', '502011', '150186']
+2017-04-27 09:37:36,437 [INFO] astrategy.py 417: NowPosition:  ['150273', '150255', '502011', '150186', '150307']
+2017-04-27 09:37:54,437 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:37:54,437 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:37:54,437 [INFO] astrategy.py 545: Now macket status: -0.0067647058823529435
+2017-04-27 09:37:54,437 [INFO] astrategy.py 416: TOP:  ['150273', '150255', '150217', '150173', '502004', '502011', '150186']
+2017-04-27 09:37:54,437 [INFO] astrategy.py 417: NowPosition:  ['150273', '150255', '502011', '150186', '150307']
+2017-04-27 09:38:12,625 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:38:12,625 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:38:12,625 [INFO] astrategy.py 545: Now macket status: 0.019705882352941174
+2017-04-27 09:38:12,625 [INFO] astrategy.py 416: TOP:  ['150273', '150255', '150217', '150173', '502004', '502011', '150186']
+2017-04-27 09:38:12,640 [INFO] astrategy.py 417: NowPosition:  ['150273', '150255', '502011', '150186', '150307']
+2017-04-27 09:38:30,500 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:38:30,500 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:38:30,500 [INFO] astrategy.py 545: Now macket status: 0.028235294117647056
+2017-04-27 09:38:30,515 [INFO] astrategy.py 416: TOP:  ['150273', '150255', '150217', '150173', '502004', '502011', '150186']
+2017-04-27 09:38:30,515 [INFO] astrategy.py 417: NowPosition:  ['150273', '150255', '502011', '150186', '150307']
+2017-04-27 09:38:48,500 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:38:48,500 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:38:48,500 [INFO] astrategy.py 545: Now macket status: 0.03705882352941176
+2017-04-27 09:38:48,515 [INFO] astrategy.py 416: TOP:  ['150273', '150255', '150217', '150173', '502004', '502011', '150186']
+2017-04-27 09:38:48,515 [INFO] astrategy.py 417: NowPosition:  ['150273', '150255', '502011', '150186', '150307']
+2017-04-27 09:39:06,453 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:39:06,453 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:39:06,469 [INFO] astrategy.py 545: Now macket status: 0.014117647058823535
+2017-04-27 09:39:06,469 [INFO] astrategy.py 416: TOP:  ['150273', '150255', '150307', '150217', '150173', '502004', '502011']
+2017-04-27 09:39:06,469 [INFO] astrategy.py 417: NowPosition:  ['150273', '150255', '502011', '150307', '150186']
+2017-04-27 09:39:06,469 [INFO] astrategy.py 504: del: 150307  entrust_id: 3328
+2017-04-27 09:39:06,515 [DEBUG] gftrader.py 114: raw response: {"total":1,"data":[{"error_no":"0","entrust_bs":"2","entrust_no_old":"3328","money_type":"0","entrust_type":"2","exchange_type":"2","seat_no":"234800","stock_code":"150307","entrust_status_old":"3","business_amount":"0","order_id":"6054","orig_order_id":"3328","entrust_status":" ","entrust_amount":"157025.00","entrust_price":"1.004","entrust_no":"6054","init_date":"20170427","fund_account":"9237965","report_no_old":"3328","report_no":"3328","stock_account":"0184731551","error_info":"","batch_no":"0","business_price":"0"}],"success":true}
+2017-04-27 09:39:24,437 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:39:24,437 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:39:24,453 [INFO] astrategy.py 545: Now macket status: 0.01705882352941176
+2017-04-27 09:39:24,453 [INFO] astrategy.py 416: TOP:  ['150273', '150255', '150307', '150217', '150173', '502004', '502011']
+2017-04-27 09:39:24,453 [INFO] astrategy.py 417: NowPosition:  ['150273', '150255', '502011', '150307', '150186']
+2017-04-27 09:39:42,469 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:39:42,469 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:39:42,484 [INFO] astrategy.py 545: Now macket status: 0.003235294117647055
+2017-04-27 09:39:42,484 [INFO] astrategy.py 416: TOP:  ['150273', '150255', '150307', '150217', '502011', '150186', '150200']
+2017-04-27 09:39:42,484 [INFO] astrategy.py 417: NowPosition:  ['150273', '150255', '502011', '150307', '150186']
+2017-04-27 09:40:04,219 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:40:04,219 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:40:04,234 [INFO] astrategy.py 545: Now macket status: 0.020882352941176477
+2017-04-27 09:40:04,234 [INFO] astrategy.py 416: TOP:  ['150255', '150307', '150217', '502011', '150186', '150273', '150173']
+2017-04-27 09:40:04,234 [INFO] astrategy.py 417: NowPosition:  ['150255', '502011', '150307', '150186', '150273']
+2017-04-27 09:40:18,734 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:40:18,750 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:40:18,750 [INFO] astrategy.py 545: Now macket status: 0.015
+2017-04-27 09:40:18,750 [INFO] astrategy.py 416: TOP:  ['150255', '150217', '502011', '150273', '150307', '150173', '502004']
+2017-04-27 09:40:18,750 [INFO] astrategy.py 417: NowPosition:  ['150255', '502011', '150273', '150307', '150186']
+2017-04-27 09:40:36,640 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:40:36,640 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:40:36,640 [INFO] astrategy.py 545: Now macket status: 0.020588235294117657
+2017-04-27 09:40:36,640 [INFO] astrategy.py 416: TOP:  ['150255', '150217', '502011', '150307', '150173', '502004', '150235']
+2017-04-27 09:40:36,656 [INFO] astrategy.py 417: NowPosition:  ['150255', '502011', '150307', '150186', '150273']
+2017-04-27 09:40:54,562 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:40:54,562 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:40:54,562 [INFO] astrategy.py 545: Now macket status: 0.023529411764705882
+2017-04-27 09:40:54,578 [INFO] astrategy.py 416: TOP:  ['150255', '150217', '502011', '150307', '150173', '502004', '150235']
+2017-04-27 09:40:54,578 [INFO] astrategy.py 417: NowPosition:  ['150255', '502011', '150307', '150186', '150273']
+2017-04-27 09:41:12,562 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:41:12,562 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:41:12,578 [INFO] astrategy.py 545: Now macket status: 0.03823529411764706
+2017-04-27 09:41:12,578 [INFO] astrategy.py 416: TOP:  ['150255', '150217', '502011', '150307', '150173', '502004', '150273']
+2017-04-27 09:41:12,578 [INFO] astrategy.py 417: NowPosition:  ['150255', '502011', '150307', '150186', '150273']
+2017-04-27 09:41:33,531 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:41:33,531 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:41:33,547 [INFO] astrategy.py 545: Now macket status: 0.03794117647058823
+2017-04-27 09:41:33,547 [INFO] astrategy.py 416: TOP:  ['150255', '150217', '502011', '150307', '150173', '502004', '150273']
+2017-04-27 09:41:33,547 [INFO] astrategy.py 417: NowPosition:  ['150255', '502011', '150307', '150273', '150186']
+2017-04-27 09:41:33,547 [INFO] astrategy.py 445: sell: id: 150186 amount: 400000.0 price: 1.022 nowprice: 1.022
+2017-04-27 09:41:33,609 [DEBUG] gftrader.py 114: raw response: {"total":1,"data":[{"error_no":"0","entrust_bs":"2","seat_no":"234800","entrust_type":"0","stock_code":"150186","order_id":"6918","orig_order_id":"6918","entrust_status":"1","entrust_amount":"400000.00","entrust_price":"1.022","entrust_no":"6918","init_date":"20170427","fund_account":"9237965","report_no":"6918","error_info":"","batch_no":"6918","entrust_time":"94133"}],"success":true}
+2017-04-27 09:41:48,484 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:41:48,484 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:41:48,500 [INFO] astrategy.py 545: Now macket status: 0.0988235294117647
+2017-04-27 09:41:48,500 [INFO] astrategy.py 416: TOP:  ['150255', '150217', '502011', '150307', '150173', '502004', '150273']
+2017-04-27 09:41:48,500 [INFO] astrategy.py 417: NowPosition:  ['150255', '502011', '150307', '150273', '150186']
+2017-04-27 09:41:48,500 [INFO] astrategy.py 530: buyold: 502011  value:  67287.1 price: 1.021 nowprice: 1.021
+2017-04-27 09:41:48,547 [DEBUG] gftrader.py 114: raw response: {"total":1,"data":[{"error_no":"0","entrust_bs":"1","seat_no":"22465","entrust_type":"0","stock_code":"502011","order_id":"7012","orig_order_id":"7012","entrust_status":"1","entrust_amount":"65900.00","entrust_price":"1.021","entrust_no":"7012","init_date":"20170427","fund_account":"9237965","report_no":"7012","error_info":"","batch_no":"7012","entrust_time":"94148"}],"success":true}
+2017-04-27 09:42:06,766 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:42:06,766 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:42:06,766 [INFO] astrategy.py 545: Now macket status: 0.11058823529411767
+2017-04-27 09:42:06,781 [INFO] astrategy.py 416: TOP:  ['150255', '150217', '502011', '150307', '150173', '502004', '150273']
+2017-04-27 09:42:06,781 [INFO] astrategy.py 417: NowPosition:  ['150255', '502011', '150307', '150273']
+2017-04-27 09:42:24,500 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:42:24,500 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:42:24,516 [INFO] astrategy.py 545: Now macket status: 0.11058823529411767
+2017-04-27 09:42:24,516 [INFO] astrategy.py 416: TOP:  ['150255', '150217', '502011', '150307', '150173', '502004', '150273']
+2017-04-27 09:42:24,516 [INFO] astrategy.py 417: NowPosition:  ['150255', '502011', '150307', '150273']
+2017-04-27 09:42:42,562 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:42:42,578 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:42:42,578 [INFO] astrategy.py 545: Now macket status: 0.07235294117647059
+2017-04-27 09:42:42,578 [INFO] astrategy.py 416: TOP:  ['150255', '150217', '502011', '150307', '150173', '502004', '150273']
+2017-04-27 09:42:42,578 [INFO] astrategy.py 417: NowPosition:  ['150255', '502011', '150307', '150273']
+2017-04-27 09:43:00,609 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:43:00,609 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:43:00,625 [INFO] astrategy.py 545: Now macket status: 0.06941176470588235
+2017-04-27 09:43:00,625 [INFO] astrategy.py 416: TOP:  ['150255', '150217', '502011', '150307', '150173', '502004', '150273']
+2017-04-27 09:43:00,625 [INFO] astrategy.py 417: NowPosition:  ['150255', '502011', '150307', '150273']
+2017-04-27 09:43:18,547 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:43:18,547 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:43:18,562 [INFO] astrategy.py 545: Now macket status: 0.06647058823529413
+2017-04-27 09:43:18,562 [INFO] astrategy.py 416: TOP:  ['150255', '150217', '502011', '150307', '150173', '502004', '150273']
+2017-04-27 09:43:18,562 [INFO] astrategy.py 417: NowPosition:  ['150255', '502011', '150307', '150273']
+2017-04-27 09:43:36,516 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:43:36,531 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:43:36,531 [INFO] astrategy.py 545: Now macket status: 0.09911764705882355
+2017-04-27 09:43:36,531 [INFO] astrategy.py 416: TOP:  ['150255', '150217', '502011', '150307', '150173', '502004', '150273']
+2017-04-27 09:43:36,531 [INFO] astrategy.py 417: NowPosition:  ['150255', '502011', '150307', '150273']
+2017-04-27 09:43:54,687 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:43:54,703 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:43:54,703 [INFO] astrategy.py 545: Now macket status: 0.09617647058823531
+2017-04-27 09:43:54,703 [INFO] astrategy.py 416: TOP:  ['150255', '150217', '502011', '150307', '150173', '502004', '150273']
+2017-04-27 09:43:54,703 [INFO] astrategy.py 417: NowPosition:  ['150255', '502011', '150307', '150273']
+2017-04-27 09:44:12,516 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:44:12,516 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:44:12,516 [INFO] astrategy.py 545: Now macket status: 0.10205882352941179
+2017-04-27 09:44:12,531 [INFO] astrategy.py 416: TOP:  ['150255', '150217', '502011', '150173', '150273', '150307', '150200']
+2017-04-27 09:44:12,531 [INFO] astrategy.py 417: NowPosition:  ['150255', '502011', '150273', '150307']
+2017-04-27 09:44:30,469 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:44:30,469 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:44:30,484 [INFO] astrategy.py 545: Now macket status: 0.10500000000000002
+2017-04-27 09:44:30,484 [INFO] astrategy.py 416: TOP:  ['150255', '150217', '502011', '150173', '150273', '150307', '150227']
+2017-04-27 09:44:30,484 [INFO] astrategy.py 417: NowPosition:  ['150255', '502011', '150273', '150307']
+2017-04-27 09:44:48,469 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:44:48,484 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:44:48,484 [INFO] astrategy.py 545: Now macket status: 0.10500000000000002
+2017-04-27 09:44:48,484 [INFO] astrategy.py 416: TOP:  ['150255', '150217', '502011', '150173', '150273', '150307', '150227']
+2017-04-27 09:44:48,484 [INFO] astrategy.py 417: NowPosition:  ['150255', '502011', '150273', '150307']
+2017-04-27 09:45:06,531 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:45:06,547 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:45:06,547 [INFO] astrategy.py 545: Now macket status: 0.1194117647058824
+2017-04-27 09:45:06,547 [INFO] astrategy.py 416: TOP:  ['150255', '150217', '150173', '150273', '150307', '150235', '150277']
+2017-04-27 09:45:06,547 [INFO] astrategy.py 417: NowPosition:  ['150255', '150273', '150307', '502011']
+2017-04-27 09:45:06,547 [INFO] astrategy.py 497: del: 502011  entrust_id: 7012
+2017-04-27 09:45:06,562 [INFO] astrategy.py 445: sell: id: 502011 amount: 110736.0 price: 1.025 nowprice: 1.025
+2017-04-27 09:45:06,594 [DEBUG] gftrader.py 114: raw response: {"total":1,"data":[{"error_no":"0","entrust_bs":"1","entrust_no_old":"7012","money_type":"0","entrust_type":"2","exchange_type":"1","seat_no":"22465","stock_code":"502011","entrust_status_old":"3","business_amount":"0","order_id":"7012","orig_order_id":"7012","entrust_status":" ","entrust_amount":"65900.00","entrust_price":"1.021","entrust_no":"8125","init_date":"20170427","fund_account":"9237965","report_no_old":"7012","report_no":"7012","stock_account":"A283715360","error_info":"","batch_no":"0","business_price":"0"}],"success":true}
+2017-04-27 09:45:06,641 [DEBUG] gftrader.py 114: raw response: {"total":1,"data":[{"error_no":"0","entrust_bs":"2","seat_no":"22465","entrust_type":"0","stock_code":"502011","order_id":"8128","orig_order_id":"8128","entrust_status":"1","entrust_amount":"110736.00","entrust_price":"1.025","entrust_no":"8128","init_date":"20170427","fund_account":"9237965","report_no":"8128","error_info":"","batch_no":"8128","entrust_time":"94506"}],"success":true}
+2017-04-27 09:45:24,781 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:45:24,781 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:45:24,781 [INFO] astrategy.py 545: Now macket status: 0.11941176470588237
+2017-04-27 09:45:24,781 [INFO] astrategy.py 416: TOP:  ['150255', '150217', '150173', '150273', '150307', '150235', '150277']
+2017-04-27 09:45:24,781 [INFO] astrategy.py 417: NowPosition:  ['150255', '150273', '150307', '502011']
+2017-04-27 09:45:24,797 [INFO] astrategy.py 483: buy: 150217  value:  180000 price: 0.999 nowprice: 0.999
+2017-04-27 09:45:24,844 [DEBUG] gftrader.py 114: raw response: {"total":1,"data":[{"error_no":"0","entrust_bs":"1","seat_no":"234800","entrust_type":"0","stock_code":"150217","order_id":"8210","orig_order_id":"8210","entrust_status":"1","entrust_amount":"180100.00","entrust_price":"0.999","entrust_no":"8210","init_date":"20170427","fund_account":"9237965","report_no":"8210","error_info":"","batch_no":"8210","entrust_time":"94524"}],"success":true}
+2017-04-27 09:45:42,531 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:45:42,531 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:45:42,547 [INFO] astrategy.py 545: Now macket status: 0.1047058823529412
+2017-04-27 09:45:42,547 [INFO] astrategy.py 416: TOP:  ['150255', '150217', '150273', '150307', '150173', '150235', '150277']
+2017-04-27 09:45:42,547 [INFO] astrategy.py 417: NowPosition:  ['150255', '150273', '150307', '502011']
+2017-04-27 09:46:00,531 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:46:00,531 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:46:00,531 [INFO] astrategy.py 545: Now macket status: 0.1047058823529412
+2017-04-27 09:46:00,547 [INFO] astrategy.py 416: TOP:  ['150255', '150217', '150273', '150307', '150173', '150235', '150277']
+2017-04-27 09:46:00,547 [INFO] astrategy.py 417: NowPosition:  ['150255', '150273', '150307', '502011']
+2017-04-27 09:46:19,812 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:46:19,828 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:46:19,828 [INFO] astrategy.py 545: Now macket status: 0.1047058823529412
+2017-04-27 09:46:19,828 [INFO] astrategy.py 416: TOP:  ['150217', '150255', '150273', '150307', '150200', '150173', '150235']
+2017-04-27 09:46:19,828 [INFO] astrategy.py 417: NowPosition:  ['150255', '150273', '150307', '502011']
+2017-04-27 09:46:36,531 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:46:36,531 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:46:36,531 [INFO] astrategy.py 545: Now macket status: 0.12794117647058822
+2017-04-27 09:46:36,547 [INFO] astrategy.py 416: TOP:  ['150217', '150329', '150255', '150173', '150273', '150307', '150200']
+2017-04-27 09:46:36,547 [INFO] astrategy.py 417: NowPosition:  ['150255', '150273', '150307', '502011']
+2017-04-27 09:46:54,516 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:46:54,516 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:46:54,531 [INFO] astrategy.py 545: Now macket status: 0.12794117647058822
+2017-04-27 09:46:54,531 [INFO] astrategy.py 416: TOP:  ['150217', '150329', '150255', '150173', '150273', '150307', '150200']
+2017-04-27 09:46:54,531 [INFO] astrategy.py 417: NowPosition:  ['150255', '150273', '150307', '502011']
+2017-04-27 09:47:12,531 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:47:12,531 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:47:12,531 [INFO] astrategy.py 545: Now macket status: 0.12794117647058822
+2017-04-27 09:47:12,531 [INFO] astrategy.py 416: TOP:  ['150329', '150255', '150173', '150273', '150307', '150217', '150235']
+2017-04-27 09:47:12,531 [INFO] astrategy.py 417: NowPosition:  ['150255', '150273', '150307', '502011']
+2017-04-27 09:47:30,516 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:47:30,531 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:47:30,531 [INFO] astrategy.py 545: Now macket status: 0.12794117647058822
+2017-04-27 09:47:30,531 [INFO] astrategy.py 416: TOP:  ['150329', '150255', '150173', '150273', '150307', '150217', '150235']
+2017-04-27 09:47:30,531 [INFO] astrategy.py 417: NowPosition:  ['150255', '150273', '150307', '502011']
+2017-04-27 09:47:48,516 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:47:48,516 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:47:48,531 [INFO] astrategy.py 545: Now macket status: 0.12794117647058822
+2017-04-27 09:47:48,531 [INFO] astrategy.py 416: TOP:  ['150329', '150255', '150173', '150273', '150307', '150217', '150235']
+2017-04-27 09:47:48,531 [INFO] astrategy.py 417: NowPosition:  ['150255', '150273', '150307', '502011']
+2017-04-27 09:48:06,531 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:48:06,531 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:48:06,531 [INFO] astrategy.py 545: Now macket status: 0.13088235294117648
+2017-04-27 09:48:06,547 [INFO] astrategy.py 416: TOP:  ['150329', '150255', '150173', '150273', '150307', '150217', '150235']
+2017-04-27 09:48:06,547 [INFO] astrategy.py 417: NowPosition:  ['150255', '150273', '150307', '502011']
+2017-04-27 09:48:25,016 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:48:25,016 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:48:25,031 [INFO] astrategy.py 545: Now macket status: 0.13088235294117648
+2017-04-27 09:48:25,031 [INFO] astrategy.py 416: TOP:  ['150329', '150255', '150173', '150273', '150307', '150217', '150235']
+2017-04-27 09:48:25,031 [INFO] astrategy.py 417: NowPosition:  ['150255', '150273', '150307', '502011']
+2017-04-27 09:48:42,516 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:48:42,531 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:48:42,531 [INFO] astrategy.py 545: Now macket status: 0.13088235294117645
+2017-04-27 09:48:42,531 [INFO] astrategy.py 416: TOP:  ['150329', '150255', '150173', '150273', '150307', '150217', '150277']
+2017-04-27 09:48:42,531 [INFO] astrategy.py 417: NowPosition:  ['150255', '150273', '150307', '502011']
+2017-04-27 09:49:00,531 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:49:00,531 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:49:00,547 [INFO] astrategy.py 545: Now macket status: 0.20323529411764707
+2017-04-27 09:49:00,547 [INFO] astrategy.py 416: TOP:  ['150329', '150255', '150173', '150273', '150307', '150217', '150277']
+2017-04-27 09:49:00,547 [INFO] astrategy.py 417: NowPosition:  ['150255', '150273', '150307', '502011']
+2017-04-27 09:49:21,672 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:49:21,672 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:49:21,687 [INFO] astrategy.py 545: Now macket status: 0.20323529411764707
+2017-04-27 09:49:21,687 [INFO] astrategy.py 416: TOP:  ['150329', '150255', '150173', '150273', '150217', '150277', '150307']
+2017-04-27 09:49:21,687 [INFO] astrategy.py 417: NowPosition:  ['150255', '150273', '150307', '502011']
+2017-04-27 09:49:36,531 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:49:36,531 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:49:36,547 [INFO] astrategy.py 545: Now macket status: 0.20323529411764707
+2017-04-27 09:49:36,547 [INFO] astrategy.py 416: TOP:  ['150329', '150255', '150273', '150217', '150173', '150277', '150307']
+2017-04-27 09:49:36,547 [INFO] astrategy.py 417: NowPosition:  ['150255', '150273', '150307', '502011']
+2017-04-27 09:49:54,625 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:49:54,625 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:49:54,641 [INFO] astrategy.py 545: Now macket status: 0.23500000000000001
+2017-04-27 09:49:54,641 [INFO] astrategy.py 416: TOP:  ['150329', '150255', '150273', '150217', '150173', '150277', '150307']
+2017-04-27 09:49:54,641 [INFO] astrategy.py 417: NowPosition:  ['150255', '150273', '150307', '502011']
+2017-04-27 09:50:12,875 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:50:12,891 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:50:12,891 [INFO] astrategy.py 545: Now macket status: 0.23500000000000001
+2017-04-27 09:50:12,891 [INFO] astrategy.py 416: TOP:  ['150329', '150255', '150273', '150217', '150173', '150277', '150307']
+2017-04-27 09:50:12,891 [INFO] astrategy.py 417: NowPosition:  ['150255', '150273', '150307', '502011']
+2017-04-27 09:50:30,562 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:50:30,562 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:50:30,578 [INFO] astrategy.py 545: Now macket status: 0.20088235294117648
+2017-04-27 09:50:30,578 [INFO] astrategy.py 416: TOP:  ['150329', '150255', '150273', '150217', '150173', '150277', '150307']
+2017-04-27 09:50:30,578 [INFO] astrategy.py 417: NowPosition:  ['150255', '150273', '150307', '502011']
+2017-04-27 09:50:30,578 [INFO] astrategy.py 497: del: 150217  entrust_id: 8210
+2017-04-27 09:50:30,578 [INFO] astrategy.py 504: del: 502011  entrust_id: 8128
+2017-04-27 09:50:30,625 [DEBUG] gftrader.py 114: raw response: {"total":1,"data":[{"error_no":"0","entrust_bs":"1","entrust_no_old":"8210","money_type":"0","entrust_type":"2","exchange_type":"2","seat_no":"234800","stock_code":"150217","entrust_status_old":"3","business_amount":"0","order_id":"9717","orig_order_id":"8210","entrust_status":" ","entrust_amount":"180100.00","entrust_price":"0.999","entrust_no":"9717","init_date":"20170427","fund_account":"9237965","report_no_old":"8210","report_no":"8210","stock_account":"0184731551","error_info":"","batch_no":"0","business_price":"0"}],"success":true}
+2017-04-27 09:50:30,672 [DEBUG] gftrader.py 114: raw response: {"total":1,"data":[{"error_no":"0","entrust_bs":"2","entrust_no_old":"8128","money_type":"0","entrust_type":"2","exchange_type":"1","seat_no":"22465","stock_code":"502011","entrust_status_old":"3","business_amount":"0","order_id":"8128","orig_order_id":"8128","entrust_status":" ","entrust_amount":"110736.00","entrust_price":"1.025","entrust_no":"9718","init_date":"20170427","fund_account":"9237965","report_no_old":"8128","report_no":"8128","stock_account":"A283715360","error_info":"","batch_no":"0","business_price":"0"}],"success":true}
+2017-04-27 09:50:48,578 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:50:48,578 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:50:48,594 [INFO] astrategy.py 545: Now macket status: 0.20088235294117648
+2017-04-27 09:50:48,594 [INFO] astrategy.py 416: TOP:  ['150255', '150329', '150273', '150277', '150307', '150217', '502004']
+2017-04-27 09:50:48,594 [INFO] astrategy.py 417: NowPosition:  ['150255', '150273', '150307', '502011']
+2017-04-27 09:50:48,594 [INFO] astrategy.py 483: buy: 150329  value:  180000 price: 1.002 nowprice: 1.002
+2017-04-27 09:50:48,640 [DEBUG] gftrader.py 114: raw response: {"total":1,"data":[{"error_no":"0","entrust_bs":"1","seat_no":"234800","entrust_type":"0","stock_code":"150329","order_id":"9815","orig_order_id":"9815","entrust_status":"1","entrust_amount":"179600.00","entrust_price":"1.002","entrust_no":"9815","init_date":"20170427","fund_account":"9237965","report_no":"9815","error_info":"","batch_no":"9815","entrust_time":"95048"}],"success":true}
+2017-04-27 09:51:06,734 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:51:06,734 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:51:06,734 [INFO] astrategy.py 545: Now macket status: 0.20088235294117648
+2017-04-27 09:51:06,734 [INFO] astrategy.py 416: TOP:  ['502011', '150255', '150329', '150273', '150277', '150307', '150217']
+2017-04-27 09:51:06,750 [INFO] astrategy.py 417: NowPosition:  ['502011', '150255', '150273', '150307']
+2017-04-27 09:51:06,750 [INFO] astrategy.py 530: buyold: 502011  value:  67287.1 price: 1.021 nowprice: 1.021
+2017-04-27 09:51:06,828 [DEBUG] gftrader.py 114: raw response: {"total":1,"data":[{"error_no":"0","entrust_bs":"1","seat_no":"22465","entrust_type":"0","stock_code":"502011","order_id":"9906","orig_order_id":"9906","entrust_status":"1","entrust_amount":"65900.00","entrust_price":"1.021","entrust_no":"9906","init_date":"20170427","fund_account":"9237965","report_no":"9906","error_info":"","batch_no":"9906","entrust_time":"95106"}],"success":true}
+2017-04-27 09:51:24,671 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:51:24,671 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:51:24,687 [INFO] astrategy.py 545: Now macket status: 0.20088235294117648
+2017-04-27 09:51:24,687 [INFO] astrategy.py 416: TOP:  ['502011', '150255', '150329', '150273', '150277', '150307', '150217']
+2017-04-27 09:51:24,687 [INFO] astrategy.py 417: NowPosition:  ['502011', '150255', '150273', '150307']
+2017-04-27 09:51:43,109 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:51:43,109 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:51:43,124 [INFO] astrategy.py 545: Now macket status: 0.4864705882352941
+2017-04-27 09:51:43,124 [INFO] astrategy.py 416: TOP:  ['502011', '150255', '150329', '150273', '150277', '150307', '150217']
+2017-04-27 09:51:43,124 [INFO] astrategy.py 417: NowPosition:  ['502011', '150255', '150273', '150307']
+2017-04-27 09:52:00,624 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:52:00,624 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:52:00,624 [INFO] astrategy.py 545: Now macket status: 0.4864705882352941
+2017-04-27 09:52:00,624 [INFO] astrategy.py 416: TOP:  ['502011', '150255', '150329', '150273', '150277', '150307', '150217']
+2017-04-27 09:52:00,640 [INFO] astrategy.py 417: NowPosition:  ['502011', '150255', '150273', '150307']
+2017-04-27 09:52:18,577 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:52:18,577 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:52:18,577 [INFO] astrategy.py 545: Now macket status: 0.1952941176470588
+2017-04-27 09:52:18,577 [INFO] astrategy.py 416: TOP:  ['502011', '150255', '150329', '150273', '150277', '150307', '150217']
+2017-04-27 09:52:18,577 [INFO] astrategy.py 417: NowPosition:  ['502011', '150255', '150273', '150307']
+2017-04-27 09:52:36,515 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:52:36,515 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:52:36,530 [INFO] astrategy.py 545: Now macket status: 0.1952941176470588
+2017-04-27 09:52:36,530 [INFO] astrategy.py 416: TOP:  ['502011', '150255', '150329', '150273', '150277', '150307', '150217']
+2017-04-27 09:52:36,530 [INFO] astrategy.py 417: NowPosition:  ['502011', '150255', '150273', '150307']
+2017-04-27 09:52:55,327 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:52:55,327 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:52:55,327 [INFO] astrategy.py 545: Now macket status: 0.1894117647058824
+2017-04-27 09:52:55,343 [INFO] astrategy.py 416: TOP:  ['502011', '150255', '150329', '150273', '150277', '150307', '150217']
+2017-04-27 09:52:55,343 [INFO] astrategy.py 417: NowPosition:  ['502011', '150255', '150273', '150307']
+2017-04-27 09:53:12,655 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:53:12,655 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:53:12,671 [INFO] astrategy.py 545: Now macket status: 0.1894117647058824
+2017-04-27 09:53:12,671 [INFO] astrategy.py 416: TOP:  ['502011', '150255', '150329', '150273', '150277', '150307', '150217']
+2017-04-27 09:53:12,671 [INFO] astrategy.py 417: NowPosition:  ['502011', '150255', '150273', '150307']
+2017-04-27 09:53:30,624 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:53:30,624 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:53:30,624 [INFO] astrategy.py 545: Now macket status: 0.1894117647058824
+2017-04-27 09:53:30,624 [INFO] astrategy.py 416: TOP:  ['502011', '150255', '150329', '150273', '150277', '150307', '150217']
+2017-04-27 09:53:30,639 [INFO] astrategy.py 417: NowPosition:  ['502011', '150255', '150273', '150307']
+2017-04-27 09:53:48,624 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:53:48,624 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:53:48,639 [INFO] astrategy.py 545: Now macket status: 0.20411764705882357
+2017-04-27 09:53:48,639 [INFO] astrategy.py 416: TOP:  ['502011', '150255', '150329', '150273', '150277', '150307', '150217']
+2017-04-27 09:53:48,639 [INFO] astrategy.py 417: NowPosition:  ['502011', '150255', '150273', '150307']
+2017-04-27 09:54:06,608 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:54:06,608 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:54:06,608 [INFO] astrategy.py 545: Now macket status: 0.20411764705882357
+2017-04-27 09:54:06,608 [INFO] astrategy.py 416: TOP:  ['502011', '150255', '150329', '150307', '150217', '502004', '150235']
+2017-04-27 09:54:06,624 [INFO] astrategy.py 417: NowPosition:  ['502011', '150255', '150307', '150273']
+2017-04-27 09:54:24,592 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:54:24,608 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:54:24,608 [INFO] astrategy.py 545: Now macket status: 0.20411764705882357
+2017-04-27 09:54:24,608 [INFO] astrategy.py 416: TOP:  ['502011', '150329', '150255', '150307', '150217', '502004', '150235']
+2017-04-27 09:54:24,608 [INFO] astrategy.py 417: NowPosition:  ['502011', '150255', '150307', '150273']
+2017-04-27 09:54:42,608 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:54:42,608 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:54:42,623 [INFO] astrategy.py 545: Now macket status: 0.2511764705882353
+2017-04-27 09:54:42,623 [INFO] astrategy.py 416: TOP:  ['502011', '150329', '150255', '150307', '150217', '502004', '150235']
+2017-04-27 09:54:42,623 [INFO] astrategy.py 417: NowPosition:  ['502011', '150255', '150307', '150273']
+2017-04-27 09:55:00,576 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:55:00,576 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:55:00,576 [INFO] astrategy.py 545: Now macket status: 0.2511764705882353
+2017-04-27 09:55:00,592 [INFO] astrategy.py 416: TOP:  ['502011', '150329', '150255', '150307', '150217', '502004', '150273']
+2017-04-27 09:55:00,592 [INFO] astrategy.py 417: NowPosition:  ['502011', '150255', '150307', '150273']
+2017-04-27 09:55:18,576 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:55:18,576 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:55:18,592 [INFO] astrategy.py 545: Now macket status: 0.25117647058823533
+2017-04-27 09:55:18,592 [INFO] astrategy.py 416: TOP:  ['502011', '150329', '150255', '150307', '150217', '502004', '150273']
+2017-04-27 09:55:18,592 [INFO] astrategy.py 417: NowPosition:  ['502011', '150255', '150307', '150273']
+2017-04-27 09:55:36,576 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:55:36,576 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:55:36,576 [INFO] astrategy.py 545: Now macket status: 0.28029411764705886
+2017-04-27 09:55:36,576 [INFO] astrategy.py 416: TOP:  ['502011', '150329', '150255', '150307', '150173', '502004', '150273']
+2017-04-27 09:55:36,576 [INFO] astrategy.py 417: NowPosition:  ['502011', '150255', '150307', '150273']
+2017-04-27 09:55:54,967 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:55:54,967 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:55:54,982 [INFO] astrategy.py 545: Now macket status: 0.28029411764705886
+2017-04-27 09:55:54,982 [INFO] astrategy.py 416: TOP:  ['502011', '150329', '150255', '150307', '150173', '150273', '150217']
+2017-04-27 09:55:54,982 [INFO] astrategy.py 417: NowPosition:  ['502011', '150255', '150307', '150273']
+2017-04-27 09:56:12,607 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:56:12,623 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:56:12,623 [INFO] astrategy.py 545: Now macket status: 0.28029411764705886
+2017-04-27 09:56:12,623 [INFO] astrategy.py 416: TOP:  ['502011', '150329', '150255', '150307', '150173', '150273', '150217']
+2017-04-27 09:56:12,623 [INFO] astrategy.py 417: NowPosition:  ['502011', '150255', '150307', '150273']
+2017-04-27 09:56:30,607 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:56:30,607 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:56:30,623 [INFO] astrategy.py 545: Now macket status: 0.31529411764705884
+2017-04-27 09:56:30,623 [INFO] astrategy.py 416: TOP:  ['502011', '150329', '150255', '150173', '150273', '150307', '150217']
+2017-04-27 09:56:30,623 [INFO] astrategy.py 417: NowPosition:  ['502011', '150255', '150273', '150307']
+2017-04-27 09:56:30,623 [INFO] astrategy.py 497: del: 150329  entrust_id: 9815
+2017-04-27 09:56:30,623 [INFO] astrategy.py 497: del: 502011  entrust_id: 9906
+2017-04-27 09:56:30,670 [DEBUG] gftrader.py 114: raw response: {"total":1,"data":[{"error_no":"0","entrust_bs":"1","entrust_no_old":"9815","money_type":"0","entrust_type":"2","exchange_type":"2","seat_no":"234800","stock_code":"150329","entrust_status_old":"3","business_amount":"0","order_id":"11551","orig_order_id":"9815","entrust_status":" ","entrust_amount":"179600.00","entrust_price":"1.002","entrust_no":"11551","init_date":"20170427","fund_account":"9237965","report_no_old":"9815","report_no":"9815","stock_account":"0184731551","error_info":"","batch_no":"0","business_price":"0"}],"success":true}
+2017-04-27 09:56:30,732 [DEBUG] gftrader.py 114: raw response: {"total":1,"data":[{"error_no":"0","entrust_bs":"1","entrust_no_old":"9906","money_type":"0","entrust_type":"2","exchange_type":"1","seat_no":"22465","stock_code":"502011","entrust_status_old":"3","business_amount":"0","order_id":"9906","orig_order_id":"9906","entrust_status":" ","entrust_amount":"65900.00","entrust_price":"1.021","entrust_no":"11552","init_date":"20170427","fund_account":"9237965","report_no_old":"9906","report_no":"9906","stock_account":"A283715360","error_info":"","batch_no":"0","business_price":"0"}],"success":true}
+2017-04-27 09:56:48,638 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:56:48,654 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:56:48,654 [INFO] astrategy.py 545: Now macket status: 0.31529411764705884
+2017-04-27 09:56:48,654 [INFO] astrategy.py 416: TOP:  ['150255', '150173', '502011', '150273', '150307', '150186', '150217']
+2017-04-27 09:56:48,654 [INFO] astrategy.py 417: NowPosition:  ['150255', '502011', '150273', '150307']
+2017-04-27 09:56:48,654 [INFO] astrategy.py 483: buy: 150173  value:  180000 price: 1.004 nowprice: 1.004
+2017-04-27 09:56:48,716 [DEBUG] gftrader.py 114: raw response: {"total":1,"data":[{"error_no":"0","entrust_bs":"1","seat_no":"234800","entrust_type":"0","stock_code":"150173","order_id":"11638","orig_order_id":"11638","entrust_status":"1","entrust_amount":"179200.00","entrust_price":"1.004","entrust_no":"11638","init_date":"20170427","fund_account":"9237965","report_no":"11638","error_info":"","batch_no":"11638","entrust_time":"95648"}],"success":true}
+2017-04-27 09:57:06,826 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:57:06,826 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:57:06,841 [INFO] astrategy.py 545: Now macket status: 0.31529411764705884
+2017-04-27 09:57:06,841 [INFO] astrategy.py 416: TOP:  ['150255', '150173', '502011', '150273', '150307', '150186', '150217']
+2017-04-27 09:57:06,841 [INFO] astrategy.py 417: NowPosition:  ['150255', '502011', '150273', '150307']
+2017-04-27 09:57:06,841 [INFO] astrategy.py 530: buyold: 502011  value:  67287.1 price: 1.025 nowprice: 1.025
+2017-04-27 09:57:06,904 [DEBUG] gftrader.py 114: raw response: {"total":1,"data":[{"error_no":"0","entrust_bs":"1","seat_no":"22465","entrust_type":"0","stock_code":"502011","order_id":"11733","orig_order_id":"11733","entrust_status":"1","entrust_amount":"65600.00","entrust_price":"1.025","entrust_no":"11733","init_date":"20170427","fund_account":"9237965","report_no":"11733","error_info":"","batch_no":"11733","entrust_time":"95706"}],"success":true}
+2017-04-27 09:57:24,888 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:57:24,888 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:57:24,904 [INFO] astrategy.py 545: Now macket status: 0.31529411764705884
+2017-04-27 09:57:24,904 [INFO] astrategy.py 416: TOP:  ['150255', '150173', '502011', '150273', '150194', '150307', '150186']
+2017-04-27 09:57:24,904 [INFO] astrategy.py 417: NowPosition:  ['150255', '502011', '150273', '150307']
+2017-04-27 09:57:42,779 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:57:42,779 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:57:42,794 [INFO] astrategy.py 545: Now macket status: 0.31529411764705884
+2017-04-27 09:57:42,794 [INFO] astrategy.py 416: TOP:  ['150255', '150173', '502011', '150273', '150194', '150307', '150186']
+2017-04-27 09:57:42,794 [INFO] astrategy.py 417: NowPosition:  ['150255', '502011', '150273', '150307']
+2017-04-27 09:58:00,622 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:58:00,622 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:58:00,638 [INFO] astrategy.py 545: Now macket status: 0.3294117647058824
+2017-04-27 09:58:00,638 [INFO] astrategy.py 416: TOP:  ['150255', '150173', '502011', '150194', '150307', '150186', '150217']
+2017-04-27 09:58:00,638 [INFO] astrategy.py 417: NowPosition:  ['150255', '502011', '150307', '150273']
+2017-04-27 09:58:18,669 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:58:18,669 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:58:18,669 [INFO] astrategy.py 545: Now macket status: 0.3294117647058824
+2017-04-27 09:58:18,669 [INFO] astrategy.py 416: TOP:  ['150255', '150173', '502011', '150194', '150307', '150217', '150227']
+2017-04-27 09:58:18,685 [INFO] astrategy.py 417: NowPosition:  ['150255', '502011', '150307', '150273']
+2017-04-27 09:58:37,825 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:58:37,825 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:58:37,825 [INFO] astrategy.py 545: Now macket status: 0.32941176470588235
+2017-04-27 09:58:37,825 [INFO] astrategy.py 416: TOP:  ['150255', '150173', '502011', '150194', '150307', '150217', '150227']
+2017-04-27 09:58:37,825 [INFO] astrategy.py 417: NowPosition:  ['150255', '502011', '150307', '150273']
+2017-04-27 09:58:55,872 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:58:55,872 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:58:55,888 [INFO] astrategy.py 545: Now macket status: 0.32941176470588235
+2017-04-27 09:58:55,888 [INFO] astrategy.py 416: TOP:  ['150255', '150173', '502011', '150194', '150307', '150217', '150227']
+2017-04-27 09:58:55,888 [INFO] astrategy.py 417: NowPosition:  ['150255', '502011', '150307', '150273']
+2017-04-27 09:59:12,778 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:59:12,778 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:59:12,794 [INFO] astrategy.py 545: Now macket status: 0.3405882352941176
+2017-04-27 09:59:12,794 [INFO] astrategy.py 416: TOP:  ['150255', '502011', '150194', '150307', '150217', '150173', '150329']
+2017-04-27 09:59:12,794 [INFO] astrategy.py 417: NowPosition:  ['150255', '502011', '150307', '150273']
+2017-04-27 09:59:30,622 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:59:30,622 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:59:30,638 [INFO] astrategy.py 545: Now macket status: 0.3405882352941176
+2017-04-27 09:59:30,638 [INFO] astrategy.py 416: TOP:  ['150255', '502011', '150194', '150307', '150217', '150173', '150329']
+2017-04-27 09:59:30,638 [INFO] astrategy.py 417: NowPosition:  ['150255', '502011', '150307', '150273']
+2017-04-27 09:59:49,810 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 09:59:49,810 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 09:59:49,825 [INFO] astrategy.py 545: Now macket status: 0.34058823529411764
+2017-04-27 09:59:49,825 [INFO] astrategy.py 416: TOP:  ['150255', '502011', '150194', '150307', '150217', '150173', '150329']
+2017-04-27 09:59:49,825 [INFO] astrategy.py 417: NowPosition:  ['150255', '502011', '150307', '150273']
+2017-04-27 10:00:06,669 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 10:00:06,685 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 10:00:06,685 [INFO] astrategy.py 545: Now macket status: 0.34058823529411764
+2017-04-27 10:00:06,685 [INFO] astrategy.py 416: TOP:  ['150255', '150307', '502011', '150217', '150173', '150329', '150273']
+2017-04-27 10:00:06,685 [INFO] astrategy.py 417: NowPosition:  ['150255', '150307', '502011', '150273']
+2017-04-27 10:00:24,685 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 10:00:24,685 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 10:00:24,685 [INFO] astrategy.py 545: Now macket status: 0.34058823529411764
+2017-04-27 10:00:24,685 [INFO] astrategy.py 416: TOP:  ['150255', '150307', '502011', '150217', '150173', '150329', '150273']
+2017-04-27 10:00:24,685 [INFO] astrategy.py 417: NowPosition:  ['150255', '150307', '502011', '150273']
+2017-04-27 10:00:42,669 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 10:00:42,669 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 10:00:42,685 [INFO] astrategy.py 545: Now macket status: 0.3235294117647059
+2017-04-27 10:00:42,685 [INFO] astrategy.py 416: TOP:  ['150255', '150307', '502011', '150217', '150173', '150329', '150273']
+2017-04-27 10:00:42,685 [INFO] astrategy.py 417: NowPosition:  ['150255', '150307', '502011', '150273']
+2017-04-27 10:01:00,607 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 10:01:00,607 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 10:01:00,622 [INFO] astrategy.py 545: Now macket status: 0.3235294117647059
+2017-04-27 10:01:00,622 [INFO] astrategy.py 416: TOP:  ['150255', '150307', '502011', '150217', '150173', '150329', '150273']
+2017-04-27 10:01:00,622 [INFO] astrategy.py 417: NowPosition:  ['150255', '150307', '502011', '150273']
+2017-04-27 10:01:18,669 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 10:01:18,669 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 10:01:18,685 [INFO] astrategy.py 545: Now macket status: 0.3235294117647059
+2017-04-27 10:01:18,685 [INFO] astrategy.py 416: TOP:  ['150255', '150307', '502011', '150217', '150329', '150273', '150194']
+2017-04-27 10:01:18,685 [INFO] astrategy.py 417: NowPosition:  ['150255', '150307', '502011', '150273']
+2017-04-27 10:01:37,872 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 10:01:37,872 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 10:01:37,872 [INFO] astrategy.py 545: Now macket status: 0.3235294117647059
+2017-04-27 10:01:37,888 [INFO] astrategy.py 416: TOP:  ['150255', '150307', '502011', '150217', '150329', '150273', '150194']
+2017-04-27 10:01:37,888 [INFO] astrategy.py 417: NowPosition:  ['150255', '150307', '502011', '150273']
+2017-04-27 10:01:58,466 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 10:01:58,466 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 10:01:58,466 [INFO] astrategy.py 545: Now macket status: 0.32352941176470584
+2017-04-27 10:01:58,466 [INFO] astrategy.py 416: TOP:  ['150255', '150235', '150307', '502011', '150217', '150329', '150273']
+2017-04-27 10:01:58,466 [INFO] astrategy.py 417: NowPosition:  ['150255', '150307', '502011', '150273']
+2017-04-27 10:02:15,638 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 10:02:15,653 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 10:02:15,653 [INFO] astrategy.py 545: Now macket status: 0.36500000000000005
+2017-04-27 10:02:15,653 [INFO] astrategy.py 416: TOP:  ['150255', '150235', '150307', '150217', '150329', '502004', '502011']
+2017-04-27 10:02:15,653 [INFO] astrategy.py 417: NowPosition:  ['150255', '150307', '502011', '150273']
+2017-04-27 10:02:30,669 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 10:02:30,669 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 10:02:30,669 [INFO] astrategy.py 545: Now macket status: 0.36500000000000005
+2017-04-27 10:02:30,685 [INFO] astrategy.py 416: TOP:  ['150255', '150235', '150307', '150217', '150329', '502004', '502011']
+2017-04-27 10:02:30,685 [INFO] astrategy.py 417: NowPosition:  ['150255', '150307', '502011', '150273']
+2017-04-27 10:02:48,638 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 10:02:48,638 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 10:02:48,638 [INFO] astrategy.py 545: Now macket status: 0.36500000000000005
+2017-04-27 10:02:48,638 [INFO] astrategy.py 416: TOP:  ['150255', '150235', '150217', '150329', '502004', '502011', '150273']
+2017-04-27 10:02:48,653 [INFO] astrategy.py 417: NowPosition:  ['150255', '502011', '150273', '150307']
+2017-04-27 10:02:48,653 [INFO] astrategy.py 445: sell: id: 150307 amount: 157025.0 price: 1.009 nowprice: 1.009
+2017-04-27 10:02:48,716 [DEBUG] gftrader.py 114: raw response: {"total":1,"data":[{"error_no":"0","entrust_bs":"2","seat_no":"234800","entrust_type":"0","stock_code":"150307","order_id":"13404","orig_order_id":"13404","entrust_status":"1","entrust_amount":"157025.00","entrust_price":"1.009","entrust_no":"13404","init_date":"20170427","fund_account":"9237965","report_no":"13404","error_info":"","batch_no":"13404","entrust_time":"100248"}],"success":true}
+2017-04-27 10:03:06,669 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 10:03:06,669 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 10:03:06,685 [INFO] astrategy.py 545: Now macket status: 0.36499999999999994
+2017-04-27 10:03:06,685 [INFO] astrategy.py 416: TOP:  ['150255', '150235', '150329', '502004', '502011', '150273', '150194']
+2017-04-27 10:03:06,685 [INFO] astrategy.py 417: NowPosition:  ['150255', '502011', '150273', '150307']
+2017-04-27 10:03:24,888 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 10:03:24,888 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 10:03:24,903 [INFO] astrategy.py 545: Now macket status: 0.36499999999999994
+2017-04-27 10:03:24,903 [INFO] astrategy.py 416: TOP:  ['150255', '150235', '150329', '502004', '502011', '150273', '150194']
+2017-04-27 10:03:24,903 [INFO] astrategy.py 417: NowPosition:  ['150255', '502011', '150273', '150307']
+2017-04-27 10:03:42,669 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 10:03:42,669 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 10:03:42,669 [INFO] astrategy.py 545: Now macket status: 0.3885294117647059
+2017-04-27 10:03:42,685 [INFO] astrategy.py 416: TOP:  ['150255', '150235', '150329', '150273', '150194', '150217', '150307']
+2017-04-27 10:03:42,685 [INFO] astrategy.py 417: NowPosition:  ['150255', '150273', '502011']
+2017-04-27 10:03:42,685 [INFO] astrategy.py 497: del: 502011  entrust_id: 11733
+2017-04-27 10:03:42,685 [INFO] astrategy.py 445: sell: id: 502011 amount: 110736.0 price: 1.029 nowprice: 1.029
+2017-04-27 10:03:42,732 [DEBUG] gftrader.py 114: raw response: {"total":1,"data":[{"error_no":"0","entrust_bs":"1","entrust_no_old":"11733","money_type":"0","entrust_type":"2","exchange_type":"1","seat_no":"22465","stock_code":"502011","entrust_status_old":"3","business_amount":"0","order_id":"11733","orig_order_id":"11733","entrust_status":" ","entrust_amount":"65600.00","entrust_price":"1.025","entrust_no":"13669","init_date":"20170427","fund_account":"9237965","report_no_old":"11733","report_no":"11733","stock_account":"A283715360","error_info":"","batch_no":"0","business_price":"0"}],"success":true}
+2017-04-27 10:03:42,778 [DEBUG] gftrader.py 114: raw response: {"total":1,"data":[{"error_no":"0","entrust_bs":"2","seat_no":"22465","entrust_type":"0","stock_code":"502011","order_id":"13670","orig_order_id":"13670","entrust_status":"1","entrust_amount":"110736.00","entrust_price":"1.029","entrust_no":"13670","init_date":"20170427","fund_account":"9237965","report_no":"13670","error_info":"","batch_no":"13670","entrust_time":"100342"}],"success":true}
+2017-04-27 10:04:01,919 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 10:04:01,919 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 10:04:01,935 [INFO] astrategy.py 545: Now macket status: 0.3885294117647059
+2017-04-27 10:04:01,935 [INFO] astrategy.py 416: TOP:  ['150255', '150235', '150329', '150273', '150217', '150194', '150307']
+2017-04-27 10:04:01,935 [INFO] astrategy.py 417: NowPosition:  ['150255', '150273', '502011']
+2017-04-27 10:04:01,935 [INFO] astrategy.py 483: buy: 150235  value:  180000 price: 1.008 nowprice: 1.008
+2017-04-27 10:04:01,981 [DEBUG] gftrader.py 114: raw response: {"total":1,"data":[{"error_no":"0","entrust_bs":"1","seat_no":"234800","entrust_type":"0","stock_code":"150235","order_id":"13762","orig_order_id":"13762","entrust_status":"1","entrust_amount":"178500.00","entrust_price":"1.008","entrust_no":"13762","init_date":"20170427","fund_account":"9237965","report_no":"13762","error_info":"","batch_no":"13762","entrust_time":"100401"}],"success":true}
+2017-04-27 10:04:18,685 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 10:04:18,685 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 10:04:18,685 [INFO] astrategy.py 545: Now macket status: 0.3885294117647059
+2017-04-27 10:04:18,685 [INFO] astrategy.py 416: TOP:  ['150255', '150235', '150329', '150273', '150217', '150194', '150307']
+2017-04-27 10:04:18,700 [INFO] astrategy.py 417: NowPosition:  ['150255', '150273', '502011']
+2017-04-27 10:04:36,669 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 10:04:36,669 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 10:04:36,685 [INFO] astrategy.py 545: Now macket status: 0.3885294117647059
+2017-04-27 10:04:36,685 [INFO] astrategy.py 416: TOP:  ['150255', '150235', '150329', '150273', '150194', '150307', '150217']
+2017-04-27 10:04:36,685 [INFO] astrategy.py 417: NowPosition:  ['150255', '150273', '502011']
+2017-04-27 10:04:54,731 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 10:04:54,731 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 10:04:54,747 [INFO] astrategy.py 545: Now macket status: 0.3885294117647059
+2017-04-27 10:04:54,747 [INFO] astrategy.py 416: TOP:  ['150255', '150235', '150329', '150273', '150194', '150307', '150217']
+2017-04-27 10:04:54,747 [INFO] astrategy.py 417: NowPosition:  ['150255', '150273', '502011']
+2017-04-27 10:05:13,919 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 10:05:13,919 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 10:05:13,935 [INFO] astrategy.py 545: Now macket status: 0.38500000000000006
+2017-04-27 10:05:13,935 [INFO] astrategy.py 416: TOP:  ['150255', '150235', '150329', '150273', '150194', '150307', '150217']
+2017-04-27 10:05:13,935 [INFO] astrategy.py 417: NowPosition:  ['150255', '150273', '502011']
+2017-04-27 10:05:30,685 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 10:05:30,700 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 10:05:30,700 [INFO] astrategy.py 545: Now macket status: 0.38500000000000006
+2017-04-27 10:05:30,700 [INFO] astrategy.py 416: TOP:  ['150255', '150235', '150329', '150273', '150194', '150307', '150217']
+2017-04-27 10:05:30,700 [INFO] astrategy.py 417: NowPosition:  ['150255', '150273', '502011']
+2017-04-27 10:05:48,747 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 10:05:48,747 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 10:05:48,747 [INFO] astrategy.py 545: Now macket status: 0.385
+2017-04-27 10:05:48,747 [INFO] astrategy.py 416: TOP:  ['150235', '150255', '150329', '150273', '150194', '150307', '150217']
+2017-04-27 10:05:48,747 [INFO] astrategy.py 417: NowPosition:  ['150255', '150273', '502011']
+2017-04-27 10:06:06,778 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 10:06:06,778 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 10:06:06,794 [INFO] astrategy.py 545: Now macket status: 0.385
+2017-04-27 10:06:06,794 [INFO] astrategy.py 416: TOP:  ['150235', '150255', '150329', '150273', '150194', '150307', '150173']
+2017-04-27 10:06:06,794 [INFO] astrategy.py 417: NowPosition:  ['150255', '150273', '502011']
+2017-04-27 10:06:27,809 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 10:06:27,809 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 10:06:27,825 [INFO] astrategy.py 545: Now macket status: 0.41676470588235287
+2017-04-27 10:06:27,825 [INFO] astrategy.py 416: TOP:  ['150235', '150255', '150329', '150273', '150194', '150307', '150173']
+2017-04-27 10:06:27,825 [INFO] astrategy.py 417: NowPosition:  ['150255', '150273', '502011']
+2017-04-27 10:06:42,778 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 10:06:42,778 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 10:06:42,778 [INFO] astrategy.py 545: Now macket status: 0.41676470588235287
+2017-04-27 10:06:42,778 [INFO] astrategy.py 416: TOP:  ['150235', '150255', '150329', '150273', '150194', '150307', '150173']
+2017-04-27 10:06:42,778 [INFO] astrategy.py 417: NowPosition:  ['150255', '150273', '502011']
+2017-04-27 10:07:00,716 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 10:07:00,716 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 10:07:00,731 [INFO] astrategy.py 545: Now macket status: 0.41676470588235287
+2017-04-27 10:07:00,731 [INFO] astrategy.py 416: TOP:  ['150235', '150255', '150329', '150273', '150194', '150173', '502004']
+2017-04-27 10:07:00,731 [INFO] astrategy.py 417: NowPosition:  ['150255', '150273', '502011']
+2017-04-27 10:07:18,716 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 10:07:18,716 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 10:07:18,716 [INFO] astrategy.py 545: Now macket status: 0.41676470588235287
+2017-04-27 10:07:18,731 [INFO] astrategy.py 416: TOP:  ['150235', '150255', '150329', '150273', '150194', '150173', '502004']
+2017-04-27 10:07:18,731 [INFO] astrategy.py 417: NowPosition:  ['150255', '150273', '502011']
+2017-04-27 10:07:37,200 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 10:07:37,216 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 10:07:37,216 [INFO] astrategy.py 545: Now macket status: 0.41676470588235287
+2017-04-27 10:07:37,216 [INFO] astrategy.py 416: TOP:  ['150235', '150255', '150329', '150273', '150194', '150173', '150186']
+2017-04-27 10:07:37,216 [INFO] astrategy.py 417: NowPosition:  ['150255', '150273', '502011']
+2017-04-27 10:07:54,685 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 10:07:54,685 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 10:07:54,685 [INFO] astrategy.py 545: Now macket status: 0.41676470588235287
+2017-04-27 10:07:54,685 [INFO] astrategy.py 416: TOP:  ['150235', '150255', '150329', '150273', '150194', '150173', '150186']
+2017-04-27 10:07:54,700 [INFO] astrategy.py 417: NowPosition:  ['150255', '150273', '502011']
+2017-04-27 10:08:12,685 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 10:08:12,700 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 10:08:12,700 [INFO] astrategy.py 545: Now macket status: 0.4488235294117647
+2017-04-27 10:08:12,700 [INFO] astrategy.py 416: TOP:  ['150235', '150255', '150329', '150273', '150194', '150173', '150186']
+2017-04-27 10:08:12,700 [INFO] astrategy.py 417: NowPosition:  ['150255', '150273', '502011']
+2017-04-27 10:08:30,669 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 10:08:30,669 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 10:08:30,685 [INFO] astrategy.py 545: Now macket status: 0.4488235294117647
+2017-04-27 10:08:30,685 [INFO] astrategy.py 416: TOP:  ['150235', '150255', '150329', '150273', '150194', '150173', '502004']
+2017-04-27 10:08:30,685 [INFO] astrategy.py 417: NowPosition:  ['150255', '150273', '502011']
+2017-04-27 10:08:48,841 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 10:08:48,841 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 10:08:48,857 [INFO] astrategy.py 545: Now macket status: 0.4488235294117647
+2017-04-27 10:08:48,857 [INFO] astrategy.py 416: TOP:  ['150235', '150255', '150329', '150273', '150194', '150217', '150173']
+2017-04-27 10:08:48,857 [INFO] astrategy.py 417: NowPosition:  ['150255', '150273', '502011']
+2017-04-27 10:09:06,685 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 10:09:06,685 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 10:09:06,685 [INFO] astrategy.py 545: Now macket status: 0.4488235294117647
+2017-04-27 10:09:06,685 [INFO] astrategy.py 416: TOP:  ['150235', '150255', '150329', '150273', '150217', '150173', '502011']
+2017-04-27 10:09:06,685 [INFO] astrategy.py 417: NowPosition:  ['150255', '150273', '502011']
+2017-04-27 10:09:24,732 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 10:09:24,748 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 10:09:24,748 [INFO] astrategy.py 545: Now macket status: 0.4488235294117647
+2017-04-27 10:09:24,748 [INFO] astrategy.py 416: TOP:  ['150235', '150255', '150329', '150273', '150307', '150217', '150173']
+2017-04-27 10:09:24,748 [INFO] astrategy.py 417: NowPosition:  ['150255', '150273', '502011']
+2017-04-27 10:09:42,842 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 10:09:42,842 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 10:09:42,842 [INFO] astrategy.py 545: Now macket status: 0.46617647058823525
+2017-04-27 10:09:42,857 [INFO] astrategy.py 416: TOP:  ['150235', '150255', '150329', '150273', '150307', '150173', '502011']
+2017-04-27 10:09:42,857 [INFO] astrategy.py 417: NowPosition:  ['150255', '150273', '502011']
+2017-04-27 10:10:00,748 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 10:10:00,748 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 10:10:00,764 [INFO] astrategy.py 545: Now macket status: 0.46617647058823525
+2017-04-27 10:10:00,764 [INFO] astrategy.py 416: TOP:  ['150235', '150255', '150329', '150273', '150307', '150173', '150194']
+2017-04-27 10:10:00,764 [INFO] astrategy.py 417: NowPosition:  ['150255', '150273', '502011']
+2017-04-27 10:10:18,764 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 10:10:18,764 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 10:10:18,779 [INFO] astrategy.py 545: Now macket status: 0.46617647058823525
+2017-04-27 10:10:18,779 [INFO] astrategy.py 416: TOP:  ['150235', '150255', '150329', '150273', '150307', '150173', '150194']
+2017-04-27 10:10:18,779 [INFO] astrategy.py 417: NowPosition:  ['150255', '150273', '502011']
+2017-04-27 10:10:36,733 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 10:10:36,733 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 10:10:36,748 [INFO] astrategy.py 545: Now macket status: 0.46617647058823536
+2017-04-27 10:10:36,748 [INFO] astrategy.py 416: TOP:  ['150235', '150255', '150329', '150273', '150173', '150194', '150217']
+2017-04-27 10:10:36,748 [INFO] astrategy.py 417: NowPosition:  ['150255', '150273', '502011']
+2017-04-27 10:10:54,764 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 10:10:54,764 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 10:10:54,764 [INFO] astrategy.py 545: Now macket status: 0.46617647058823536
+2017-04-27 10:10:54,764 [INFO] astrategy.py 416: TOP:  ['150235', '150255', '150329', '150273', '150173', '150194', '150217']
+2017-04-27 10:10:54,764 [INFO] astrategy.py 417: NowPosition:  ['150255', '150273', '502011']
+2017-04-27 10:11:12,734 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 10:11:12,734 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 10:11:12,734 [INFO] astrategy.py 545: Now macket status: 0.4397058823529412
+2017-04-27 10:11:12,750 [INFO] astrategy.py 416: TOP:  ['150235', '150255', '150329', '150273', '150173', '150194', '150217']
+2017-04-27 10:11:12,750 [INFO] astrategy.py 417: NowPosition:  ['150255', '150273', '502011']
+2017-04-27 10:11:30,781 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 10:11:30,781 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 10:11:30,781 [INFO] astrategy.py 545: Now macket status: 0.4397058823529412
+2017-04-27 10:11:30,797 [INFO] astrategy.py 416: TOP:  ['150235', '150255', '150277', '150329', '150273', '150173', '150194']
+2017-04-27 10:11:30,797 [INFO] astrategy.py 417: NowPosition:  ['150255', '150273', '502011']
+2017-04-27 10:11:30,797 [INFO] astrategy.py 445: sell: id: 150273 amount: 178275.0 price: 1.02 nowprice: 1.02
+2017-04-27 10:11:30,859 [DEBUG] gftrader.py 114: raw response: {"total":1,"data":[{"error_no":"0","entrust_bs":"2","seat_no":"234800","entrust_type":"0","stock_code":"150273","order_id":"15834","orig_order_id":"15834","entrust_status":"1","entrust_amount":"178275.00","entrust_price":"1.020","entrust_no":"15834","init_date":"20170427","fund_account":"9237965","report_no":"15834","error_info":"","batch_no":"15834","entrust_time":"101130"}],"success":true}
+2017-04-27 10:11:48,781 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 10:11:48,797 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 10:11:48,797 [INFO] astrategy.py 545: Now macket status: 0.4397058823529412
+2017-04-27 10:11:48,797 [INFO] astrategy.py 416: TOP:  ['150235', '150255', '150277', '150329', '150273', '150173', '150194']
+2017-04-27 10:11:48,797 [INFO] astrategy.py 417: NowPosition:  ['150255', '150273', '502011']
+2017-04-27 10:12:06,719 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 10:12:06,719 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 10:12:06,735 [INFO] astrategy.py 545: Now macket status: 0.4397058823529412
+2017-04-27 10:12:06,735 [INFO] astrategy.py 416: TOP:  ['150235', '150255', '150277', '150329', '150273', '150173', '502004']
+2017-04-27 10:12:06,735 [INFO] astrategy.py 417: NowPosition:  ['150255', '150273', '502011']
+2017-04-27 10:12:24,750 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 10:12:24,750 [ERROR] astrategy.py 163: could not convert string to float: '-'  150247 funda_base_est_dis_rt -
+2017-04-27 10:12:24,750 [INFO] astrategy.py 545: Now macket status: 0.47794117647058826
+2017-04-27 10:12:24,750 [INFO] astrategy.py 416: TOP:  ['150235', '150255', '150277', '150329', '150273', '150173', '502004']
+2017-04-27 10:12:24,750 [INFO] astrategy.py 417: NowPosition:  ['150255', '502011']
+2017-04-27 10:34:02,328 [DEBUG] autotrader.py 38: Starting loginning
+2017-04-27 10:34:03,890 [INFO] autotrader.py 43: Now total balance: 1029927.34
+2017-04-27 10:34:03,906 [DEBUG] autotrader.py 110: Running started
+2017-04-27 10:34:23,219 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 10:34:23,219 [INFO] astrategy.py 545: Now macket status: 0.5441176470588235
+2017-04-27 10:34:23,219 [INFO] astrategy.py 416: TOP:  ['150235', '150277', '150307', '150255', '150273', '150203', '150173']
+2017-04-27 10:34:23,219 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 10:34:23,219 [INFO] astrategy.py 483: buy: 150277  value:  192187.77169999998 price: 1.017 nowprice: 1.017
+2017-04-27 10:34:23,281 [DEBUG] gftrader.py 114: raw response: {"total":1,"data":[{"error_no":"0","entrust_bs":"1","seat_no":"234800","entrust_type":"0","stock_code":"150277","order_id":"21324","orig_order_id":"21324","entrust_status":"1","entrust_amount":"188900.00","entrust_price":"1.017","entrust_no":"21324","init_date":"20170427","fund_account":"9237965","report_no":"21324","error_info":"","batch_no":"21324","entrust_time":"103423"}],"success":true}
+2017-04-27 10:34:41,281 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 10:34:41,281 [INFO] astrategy.py 545: Now macket status: 0.5441176470588235
+2017-04-27 10:34:41,281 [INFO] astrategy.py 416: TOP:  ['150235', '150277', '150307', '150255', '150273', '150203', '150173']
+2017-04-27 10:34:41,281 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 10:51:08,844 [DEBUG] autotrader.py 38: Starting loginning
+2017-04-27 10:51:13,922 [INFO] autotrader.py 43: Now total balance: 1029748.14
+2017-04-27 10:51:13,922 [DEBUG] autotrader.py 110: Running started
+2017-04-27 10:51:33,250 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 10:51:33,265 [INFO] astrategy.py 545: Now macket status: 0.4614705882352941
+2017-04-27 10:51:33,265 [INFO] astrategy.py 416: TOP:  ['150307', '150255', '150273', '150186', '150203', '150205', '150194']
+2017-04-27 10:51:33,265 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 10:51:33,265 [INFO] astrategy.py 497: del: 150235  entrust_id: 13762
+2017-04-27 10:51:33,265 [INFO] astrategy.py 497: del: 150277  entrust_id: 21324
+2017-04-27 10:51:33,265 [INFO] astrategy.py 483: buy: 150307  value:  180000 price: 1.006 nowprice: 1.006
+2017-04-27 10:51:33,312 [DEBUG] gftrader.py 114: raw response: {"total":1,"data":[{"error_no":"0","entrust_bs":"1","entrust_no_old":"13762","money_type":"0","entrust_type":"2","exchange_type":"2","seat_no":"234800","stock_code":"150235","entrust_status_old":"3","business_amount":"0","order_id":"25039","orig_order_id":"13762","entrust_status":" ","entrust_amount":"178500.00","entrust_price":"1.008","entrust_no":"25039","init_date":"20170427","fund_account":"9237965","report_no_old":"13762","report_no":"13762","stock_account":"0184731551","error_info":"","batch_no":"0","business_price":"0"}],"success":true}
+2017-04-27 10:51:33,359 [DEBUG] gftrader.py 114: raw response: {"total":1,"data":[{"error_no":"0","entrust_bs":"1","entrust_no_old":"21324","money_type":"0","entrust_type":"2","exchange_type":"2","seat_no":"234800","stock_code":"150277","entrust_status_old":"3","business_amount":"0","order_id":"25042","orig_order_id":"21324","entrust_status":" ","entrust_amount":"188900.00","entrust_price":"1.017","entrust_no":"25042","init_date":"20170427","fund_account":"9237965","report_no_old":"21324","report_no":"21324","stock_account":"0184731551","error_info":"","batch_no":"0","business_price":"0"}],"success":true}
+2017-04-27 10:51:33,422 [DEBUG] gftrader.py 114: raw response: {"total":1,"data":[{"error_no":"0","entrust_bs":"1","seat_no":"234800","entrust_type":"0","stock_code":"150307","order_id":"25043","orig_order_id":"25043","entrust_status":"1","entrust_amount":"178900.00","entrust_price":"1.006","entrust_no":"25043","init_date":"20170427","fund_account":"9237965","report_no":"25043","error_info":"","batch_no":"25043","entrust_time":"105133"}],"success":true}
+2017-04-27 10:51:51,344 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 10:51:51,344 [INFO] astrategy.py 545: Now macket status: 0.4644117647058823
+2017-04-27 10:51:51,344 [INFO] astrategy.py 416: TOP:  ['150307', '150255', '150273', '150186', '150203', '150194', '150200']
+2017-04-27 10:51:51,344 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 10:51:51,344 [INFO] astrategy.py 483: buy: 150273  value:  192170.42508000002 price: 1.019 nowprice: 1.019
+2017-04-27 10:51:51,422 [DEBUG] gftrader.py 114: raw response: {"total":1,"data":[{"error_no":"0","entrust_bs":"1","seat_no":"234800","entrust_type":"0","stock_code":"150273","order_id":"25106","orig_order_id":"25106","entrust_status":"1","entrust_amount":"188500.00","entrust_price":"1.019","entrust_no":"25106","init_date":"20170427","fund_account":"9237965","report_no":"25106","error_info":"","batch_no":"25106","entrust_time":"105151"}],"success":true}
+2017-04-27 11:01:33,233 [DEBUG] autotrader.py 38: Starting loginning
+2017-04-27 11:01:34,718 [INFO] autotrader.py 43: Now total balance: 1030070.94
+2017-04-27 11:01:34,733 [DEBUG] autotrader.py 110: Running started
+2017-04-27 11:01:35,593 [DEBUG] autotrader.py 38: Starting loginning
+2017-04-27 11:01:36,655 [INFO] autotrader.py 43: Now total balance: 1030070.94
+2017-04-27 11:01:36,718 [DEBUG] gftrader.py 114: raw response: {"total":1,"data":[{"money_type":"0","current_balance":"25.91","real_sell_balance":"862957.02","integral_balance":"841714.26","market_value":"347019.20","foregift_balance":"0","money_type_dict":"人民币","mortgage_balance":"0","enable_balance":"503063.94","interest":"0","real_buy_balance":"179931.19","begin_balance":"25.91","pre_interest_tax":"0","pre_fine":"0","fetch_balance":"25.91","correct_balance":"0","fetch_balance_old":"0","net_asset":"1030070.94","frozen_balance":"0","unfrozen_balance":"0","asset_balance":"1030070.94","pre_interest":"7.01","fetch_cash":"25.91","fine_integral":"0","opfund_market_value":"0","entrust_buy_balance":"359918.99","fund_balance":"683051.74","rate_kind":"0"}],"success":true}
+2017-04-27 11:01:36,827 [DEBUG] gftrader.py 114: raw response: {"total":6,"data":[{"entrust_sell_amount":"110736.00","delist_date":"0","asset_price":"1.028","exchange_type_dict":"上海","income_balance":"1225.32","cost_balance":"-1225.32","last_price":"1.0280","current_amount":"0","exchange_type":"1","stock_code":"502011","income_balance_nofare":"1225.32","position_str":"0184900000000000923796500010000000000A283715360502011","market_value":"0","hand_flag":"0","real_buy_amount":"0","fund_account":"9237965","stock_type":"L","stock_account":"A283715360","client_id":"184900125551","stock_name":"证券A","par_value":"1.000","uncome_sell_amount":"0","keep_cost_price":"1.017","cost_price":"1.017","enable_amount":"0","frozen_amount":"0","av_buy_price":"1.017","delist_flag":"0","real_sell_amount":"110736.00","av_income_balance":"-105.96","hold_amount":"110736.00","profit_ratio":"1.08","uncome_buy_amount":"0"},{"entrust_sell_amount":"0","delist_date":"0","asset_price":"1.007","exchange_type_dict":"深圳","income_balance":"523.21","cost_balance":"179931.19","last_price":"1.0070","current_amount":"179200.00","exchange_type":"2","stock_code":"150173","income_balance_nofare":"523.21","position_str":"01849000000000009237965000200000000000184731551150173","market_value":"180454.40","hand_flag":"0","real_buy_amount":"179200.00","fund_account":"9237965","stock_type":"L","stock_account":"0184731551","client_id":"184900125551","stock_name":"TMT中证A","par_value":"1.000","uncome_sell_amount":"0","keep_cost_price":"1.004","cost_price":"1.004","enable_amount":"0","frozen_amount":"0","av_buy_price":"0","delist_flag":"0","real_sell_amount":"0","av_income_balance":"0","hold_amount":"0","profit_ratio":"0.30","uncome_buy_amount":"0"},{"entrust_sell_amount":"400000.00","delist_date":"0","asset_price":"1.025","exchange_type_dict":"深圳","income_balance":"3410.88","cost_balance":"-3410.88","last_price":"1.0250","current_amount":"0","exchange_type":"2","stock_code":"150186","income_balance_nofare":"3410.88","position_str":"01849000000000009237965000200000000000184731551150186","market_value":"0","hand_flag":"0","real_buy_amount":"0","fund_account":"9237965","stock_type":"L","stock_account":"0184731551","client_id":"184900125551","stock_name":"军工A级","par_value":"1.000","uncome_sell_amount":"0","keep_cost_price":"1.014","cost_price":"1.014","enable_amount":"0","frozen_amount":"0","av_buy_price":"1.014","delist_flag":"0","real_sell_amount":"400000.00","av_income_balance":"0","hold_amount":"400000.00","profit_ratio":"1.08","uncome_buy_amount":"0"},{"entrust_sell_amount":"0","delist_date":"0","asset_price":"1.032","exchange_type_dict":"深圳","income_balance":"3214.67","cost_balance":"163350.13","last_price":"1.0320","current_amount":"161400.00","exchange_type":"2","stock_code":"150255","income_balance_nofare":"3214.67","position_str":"01849000000000009237965000200000000000184731551150255","market_value":"166564.80","hand_flag":"0","real_buy_amount":"0","fund_account":"9237965","stock_type":"L","stock_account":"0184731551","client_id":"184900125551","stock_name":"银行业A","par_value":"1.000","uncome_sell_amount":"0","keep_cost_price":"1.012","cost_price":"1.012","enable_amount":"161400.00","frozen_amount":"0","av_buy_price":"1.012","delist_flag":"0","real_sell_amount":"0","av_income_balance":"0","hold_amount":"161400.00","profit_ratio":"1.98","uncome_buy_amount":"0"},{"entrust_sell_amount":"178275.00","delist_date":"0","asset_price":"1.019","exchange_type_dict":"深圳","income_balance":"1871.87","cost_balance":"-1871.87","last_price":"1.0190","current_amount":"0","exchange_type":"2","stock_code":"150273","income_balance_nofare":"1871.87","position_str":"01849000000000009237965000200000000000184731551150273","market_value":"0","hand_flag":"0","real_buy_amount":"0","fund_account":"9237965","stock_type":"L","stock_account":"0184731551","client_id":"184900125551","stock_name":"带路A","par_value":"1.000","uncome_sell_amount":"0","keep_cost_price":"1.009","cost_price":"1.009","enable_amount":"0","frozen_amount":"0","av_buy_price":"1.009","delist_flag":"0","real_sell_amount":"178275.00","av_income_balance":"0","hold_amount":"178275.00","profit_ratio":"0.99","uncome_buy_amount":"0"},{"entrust_sell_amount":"157025.00","delist_date":"0","asset_price":"1.008","exchange_type_dict":"深圳","income_balance":"1176.17","cost_balance":"-1176.17","last_price":"1.0080","current_amount":"0","exchange_type":"2","stock_code":"150307","income_balance_nofare":"1176.17","position_str":"01849000000000009237965000200000000000184731551150307","market_value":"0","hand_flag":"0","real_buy_amount":"0","fund_account":"9237965","stock_type":"L","stock_account":"0184731551","client_id":"184900125551","stock_name":"体育A","par_value":"1.000","uncome_sell_amount":"0","keep_cost_price":"1.001","cost_price":"1.001","enable_amount":"0","frozen_amount":"0","av_buy_price":"1.001","delist_flag":"0","real_sell_amount":"157025.00","av_income_balance":"0","hold_amount":"157025.00","profit_ratio":"0.70","uncome_buy_amount":"0"}],"success":true,"error_no":0}
+2017-04-27 11:01:37,827 [DEBUG] gftrader.py 114: raw response: {"total":28,"data":[{"exchange_type":"2","entrust_type":"0","stock_code":"150307","entrust_prop":"0","order_id":"3328","position_str":"20170427040932304100184900003328","entrust_status":"6","entrust_amount":"157025.00","meeting_seq":" ","entrust_bs_dict":"卖出","entrust_way":"7","init_date":"20170427","op_station":"WEB|IP:120.77.177.237,MAC:F0-7D-41-DA-4F-75,HDD:1SVEYNFA915146,ORIGIN:WEB","fund_account":"9237965","entrust_status_dict":"已撤","stock_type":"L","stock_account":"0184731551","report_no":"3328","stock_name":"体育A","batch_no":"3328","entrust_time":"93230","entrust_type_dict":"委托","entrust_date":"20170427","entrust_bs":"2","report_milltime":"93230418","business_amount":"0","orig_order_id":"3328","curr_milltime":"93230410","entrust_price":"1.004","business_balance":"0","entrust_no":"3328","report_time":"93230","cancel_info":" ","withdraw_amount":"157025.00","entrust_prop_dict":"买卖","business_price":"0"},{"exchange_type":"2","entrust_type":"0","stock_code":"150273","entrust_prop":"0","order_id":"3793","position_str":"20170427040933424660184900003793","entrust_status":"6","entrust_amount":"178275.00","meeting_seq":" ","entrust_bs_dict":"卖出","entrust_way":"7","init_date":"20170427","op_station":"WEB|IP:120.77.177.237,MAC:F0-7D-41-DA-4F-75,HDD:1SVEYNFA915146,ORIGIN:WEB","fund_account":"9237965","entrust_status_dict":"已撤","stock_type":"L","stock_account":"0184731551","report_no":"3793","stock_name":"带路A","batch_no":"3793","entrust_time":"93342","entrust_type_dict":"委托","entrust_date":"20170427","entrust_bs":"2","report_milltime":"93342474","business_amount":"0","orig_order_id":"3793","curr_milltime":"93342466","entrust_price":"1.015","business_balance":"0","entrust_no":"3793","report_time":"93342","cancel_info":" ","withdraw_amount":"178275.00","entrust_prop_dict":"买卖","business_price":"0"},{"exchange_type":"2","entrust_type":"2","stock_code":"150273","entrust_prop":"0","order_id":"5281","position_str":"20170427040937184540184900005281","entrust_status":"8","entrust_amount":"178275.00","meeting_seq":" ","entrust_bs_dict":"卖出","entrust_way":"7","init_date":"20170427","op_station":"WEB|IP:120.77.177.237,MAC:F0-7D-41-DA-4F-75,HDD:1SVEYNFA915146,ORIGIN:WEB","fund_account":"9237965","entrust_status_dict":"已成","stock_type":"L","stock_account":"0184731551","report_no":"3793","stock_name":"带路A","batch_no":"5281","entrust_time":"93718","entrust_type_dict":"撤单","entrust_date":"20170427","entrust_bs":"2","report_milltime":"93718459","business_amount":"0","orig_order_id":"3793","curr_milltime":"93718454","entrust_price":"1.015","business_balance":"0","entrust_no":"5281","report_time":"93718","cancel_info":" ","withdraw_amount":"0","entrust_prop_dict":"买卖","business_price":"0"},{"exchange_type":"2","entrust_type":"2","stock_code":"150307","entrust_prop":"0","order_id":"6054","position_str":"20170427040939064980184900006054","entrust_status":"8","entrust_amount":"157025.00","meeting_seq":" ","entrust_bs_dict":"卖出","entrust_way":"7","init_date":"20170427","op_station":"WEB|IP:120.77.177.237,MAC:F0-7D-41-DA-4F-75,HDD:1SVEYNFA915146,ORIGIN:WEB","fund_account":"9237965","entrust_status_dict":"已成","stock_type":"L","stock_account":"0184731551","report_no":"3328","stock_name":"体育A","batch_no":"6054","entrust_time":"93906","entrust_type_dict":"撤单","entrust_date":"20170427","entrust_bs":"2","report_milltime":"93906502","business_amount":"0","orig_order_id":"3328","curr_milltime":"93906498","entrust_price":"1.004","business_balance":"0","entrust_no":"6054","report_time":"93906","cancel_info":" ","withdraw_amount":"0","entrust_prop_dict":"买卖","business_price":"0"},{"exchange_type":"2","entrust_type":"0","stock_code":"150186","entrust_prop":"0","order_id":"6918","position_str":"20170427040941336070184900006918","entrust_status":"8","entrust_amount":"400000.00","meeting_seq":" ","entrust_bs_dict":"卖出","entrust_way":"7","init_date":"20170427","op_station":"WEB|IP:120.77.177.237,MAC:F0-7D-41-DA-4F-75,HDD:1SVEYNFA915146,ORIGIN:WEB","fund_account":"9237965","entrust_status_dict":"已成","stock_type":"L","stock_account":"0184731551","report_no":"6918","stock_name":"军工A级","batch_no":"6918","entrust_time":"94133","entrust_type_dict":"委托","entrust_date":"20170427","entrust_bs":"2","report_milltime":"94133612","business_amount":"400000.00","orig_order_id":"6918","curr_milltime":"94133607","entrust_price":"1.022","business_balance":"408800.00","entrust_no":"6918","report_time":"94133","cancel_info":" ","withdraw_amount":"0","entrust_prop_dict":"买卖","business_price":"1.022"},{"exchange_type":"1","entrust_type":"0","stock_code":"502011","entrust_prop":"0","order_id":"7012","position_str":"20170427040941485450184900007012","entrust_status":"6","entrust_amount":"65900.00","meeting_seq":" ","entrust_bs_dict":"买入","entrust_way":"7","init_date":"20170427","op_station":"WEB|IP:120.77.177.237,MAC:F0-7D-41-DA-4F-75,HDD:1SVEYNFA915146,ORIGIN:WEB","fund_account":"9237965","entrust_status_dict":"已撤","stock_type":"L","stock_account":"A283715360","report_no":"7012","stock_name":"证券A","batch_no":"7012","entrust_time":"94148","entrust_type_dict":"委托","entrust_date":"20170427","entrust_bs":"1","report_milltime":"94148549","business_amount":"0","orig_order_id":"7012","curr_milltime":"94148545","entrust_price":"1.021","business_balance":"0","entrust_no":"7012","report_time":"94148","cancel_info":" ","withdraw_amount":"65900.00","entrust_prop_dict":"买卖","business_price":"0"},{"exchange_type":"1","entrust_type":"2","stock_code":"502011","entrust_prop":"0","order_id":"7012","position_str":"20170427040945065870184900008125","entrust_status":"8","entrust_amount":"65900.00","meeting_seq":" ","entrust_bs_dict":"买入","entrust_way":"7","init_date":"20170427","op_station":"WEB|IP:120.77.177.237,MAC:F0-7D-41-DA-4F-75,HDD:1SVEYNFA915146,ORIGIN:WEB","fund_account":"9237965","entrust_status_dict":"已成","stock_type":"L","stock_account":"A283715360","report_no":"7012","stock_name":"证券A","batch_no":"8125","entrust_time":"94506","entrust_type_dict":"撤单","entrust_date":"20170427","entrust_bs":"1","report_milltime":"94506592","business_amount":"0","orig_order_id":"7012","curr_milltime":"94506587","entrust_price":"1.021","business_balance":"0","entrust_no":"8125","report_time":"94506","cancel_info":" ","withdraw_amount":"0","entrust_prop_dict":"买卖","business_price":"0"},{"exchange_type":"1","entrust_type":"0","stock_code":"502011","entrust_prop":"0","order_id":"8128","position_str":"20170427040945066370184900008128","entrust_status":"6","entrust_amount":"110736.00","meeting_seq":" ","entrust_bs_dict":"卖出","entrust_way":"7","init_date":"20170427","op_station":"WEB|IP:120.77.177.237,MAC:F0-7D-41-DA-4F-75,HDD:1SVEYNFA915146,ORIGIN:WEB","fund_account":"9237965","entrust_status_dict":"已撤","stock_type":"L","stock_account":"A283715360","report_no":"8128","stock_name":"证券A","batch_no":"8128","entrust_time":"94506","entrust_type_dict":"委托","entrust_date":"20170427","entrust_bs":"2","report_milltime":"94506645","business_amount":"0","orig_order_id":"8128","curr_milltime":"94506637","entrust_price":"1.025","business_balance":"0","entrust_no":"8128","report_time":"94506","cancel_info":" ","withdraw_amount":"110736.00","entrust_prop_dict":"买卖","business_price":"0"},{"exchange_type":"2","entrust_type":"0","stock_code":"150217","entrust_prop":"0","order_id":"8210","position_str":"20170427040945248320184900008210","entrust_status":"6","entrust_amount":"180100.00","meeting_seq":" ","entrust_bs_dict":"买入","entrust_way":"7","init_date":"20170427","op_station":"WEB|IP:120.77.177.237,MAC:F0-7D-41-DA-4F-75,HDD:1SVEYNFA915146,ORIGIN:WEB","fund_account":"9237965","entrust_status_dict":"已撤","stock_type":"L","stock_account":"0184731551","report_no":"8210","stock_name":"新能源A","batch_no":"8210","entrust_time":"94524","entrust_type_dict":"委托","entrust_date":"20170427","entrust_bs":"1","report_milltime":"94524837","business_amount":"0","orig_order_id":"8210","curr_milltime":"94524832","entrust_price":"0.999","business_balance":"0","entrust_no":"8210","report_time":"94524","cancel_info":" ","withdraw_amount":"180100.00","entrust_prop_dict":"买卖","business_price":"0"},{"exchange_type":"2","entrust_type":"2","stock_code":"150217","entrust_prop":"0","order_id":"9717","position_str":"20170427040950306110184900009717","entrust_status":"8","entrust_amount":"180100.00","meeting_seq":" ","entrust_bs_dict":"买入","entrust_way":"7","init_date":"20170427","op_station":"WEB|IP:120.77.177.237,MAC:F0-7D-41-DA-4F-75,HDD:1SVEYNFA915146,ORIGIN:WEB","fund_account":"9237965","entrust_status_dict":"已成","stock_type":"L","stock_account":"0184731551","report_no":"8210","stock_name":"新能源A","batch_no":"9717","entrust_time":"95030","entrust_type_dict":"撤单","entrust_date":"20170427","entrust_bs":"1","report_milltime":"95030615","business_amount":"0","orig_order_id":"8210","curr_milltime":"95030611","entrust_price":"0.999","business_balance":"0","entrust_no":"9717","report_time":"95030","cancel_info":" ","withdraw_amount":"0","entrust_prop_dict":"买卖","business_price":"0"},{"exchange_type":"1","entrust_type":"2","stock_code":"502011","entrust_prop":"0","order_id":"8128","position_str":"20170427040950306520184900009718","entrust_status":"8","entrust_amount":"110736.00","meeting_seq":" ","entrust_bs_dict":"卖出","entrust_way":"7","init_date":"20170427","op_station":"WEB|IP:120.77.177.237,MAC:F0-7D-41-DA-4F-75,HDD:1SVEYNFA915146,ORIGIN:WEB","fund_account":"9237965","entrust_status_dict":"已成","stock_type":"L","stock_account":"A283715360","report_no":"8128","stock_name":"证券A","batch_no":"9718","entrust_time":"95030","entrust_type_dict":"撤单","entrust_date":"20170427","entrust_bs":"2","report_milltime":"95030656","business_amount":"0","orig_order_id":"8128","curr_milltime":"95030652","entrust_price":"1.025","business_balance":"0","entrust_no":"9718","report_time":"95030","cancel_info":" ","withdraw_amount":"0","entrust_prop_dict":"买卖","business_price":"0"},{"exchange_type":"2","entrust_type":"0","stock_code":"150329","entrust_prop":"0","order_id":"9815","position_str":"20170427040950486350184900009815","entrust_status":"6","entrust_amount":"179600.00","meeting_seq":" ","entrust_bs_dict":"买入","entrust_way":"7","init_date":"20170427","op_station":"WEB|IP:120.77.177.237,MAC:F0-7D-41-DA-4F-75,HDD:1SVEYNFA915146,ORIGIN:WEB","fund_account":"9237965","entrust_status_dict":"已撤","stock_type":"L","stock_account":"0184731551","report_no":"9815","stock_name":"保险A","batch_no":"9815","entrust_time":"95048","entrust_type_dict":"委托","entrust_date":"20170427","entrust_bs":"1","report_milltime":"95048639","business_amount":"0","orig_order_id":"9815","curr_milltime":"95048635","entrust_price":"1.002","business_balance":"0","entrust_no":"9815","report_time":"95048","cancel_info":" ","withdraw_amount":"179600.00","entrust_prop_dict":"买卖","business_price":"0"},{"exchange_type":"1","entrust_type":"0","stock_code":"502011","entrust_prop":"0","order_id":"9906","position_str":"20170427040951068150184900009906","entrust_status":"6","entrust_amount":"65900.00","meeting_seq":" ","entrust_bs_dict":"买入","entrust_way":"7","init_date":"20170427","op_station":"WEB|IP:120.77.177.237,MAC:F0-7D-41-DA-4F-75,HDD:1SVEYNFA915146,ORIGIN:WEB","fund_account":"9237965","entrust_status_dict":"已撤","stock_type":"L","stock_account":"A283715360","report_no":"9906","stock_name":"证券A","batch_no":"9906","entrust_time":"95106","entrust_type_dict":"委托","entrust_date":"20170427","entrust_bs":"1","report_milltime":"95106819","business_amount":"0","orig_order_id":"9906","curr_milltime":"95106815","entrust_price":"1.021","business_balance":"0","entrust_no":"9906","report_time":"95106","cancel_info":" ","withdraw_amount":"65900.00","entrust_prop_dict":"买卖","business_price":"0"},{"exchange_type":"2","entrust_type":"2","stock_code":"150329","entrust_prop":"0","order_id":"11551","position_str":"20170427040956306620184900011551","entrust_status":"8","entrust_amount":"179600.00","meeting_seq":" ","entrust_bs_dict":"买入","entrust_way":"7","init_date":"20170427","op_station":"WEB|IP:120.77.177.237,MAC:F0-7D-41-DA-4F-75,HDD:1SVEYNFA915146,ORIGIN:WEB","fund_account":"9237965","entrust_status_dict":"已成","stock_type":"L","stock_account":"0184731551","report_no":"9815","stock_name":"保险A","batch_no":"11551","entrust_time":"95630","entrust_type_dict":"撤单","entrust_date":"20170427","entrust_bs":"1","report_milltime":"95630666","business_amount":"0","orig_order_id":"9815","curr_milltime":"95630662","entrust_price":"1.002","business_balance":"0","entrust_no":"11551","report_time":"95630","cancel_info":" ","withdraw_amount":"0","entrust_prop_dict":"买卖","business_price":"0"},{"exchange_type":"1","entrust_type":"2","stock_code":"502011","entrust_prop":"0","order_id":"9906","position_str":"20170427040956307180184900011552","entrust_status":"8","entrust_amount":"65900.00","meeting_seq":" ","entrust_bs_dict":"买入","entrust_way":"7","init_date":"20170427","op_station":"WEB|IP:120.77.177.237,MAC:F0-7D-41-DA-4F-75,HDD:1SVEYNFA915146,ORIGIN:WEB","fund_account":"9237965","entrust_status_dict":"已成","stock_type":"L","stock_account":"A283715360","report_no":"9906","stock_name":"证券A","batch_no":"11552","entrust_time":"95630","entrust_type_dict":"撤单","entrust_date":"20170427","entrust_bs":"1","report_milltime":"95630723","business_amount":"0","orig_order_id":"9906","curr_milltime":"95630718","entrust_price":"1.021","business_balance":"0","entrust_no":"11552","report_time":"95630","cancel_info":" ","withdraw_amount":"0","entrust_prop_dict":"买卖","business_price":"0"},{"exchange_type":"2","entrust_type":"0","stock_code":"150173","entrust_prop":"0","order_id":"11638","position_str":"20170427040956487040184900011638","entrust_status":"8","entrust_amount":"179200.00","meeting_seq":" ","entrust_bs_dict":"买入","entrust_way":"7","init_date":"20170427","op_station":"WEB|IP:120.77.177.237,MAC:F0-7D-41-DA-4F-75,HDD:1SVEYNFA915146,ORIGIN:WEB","fund_account":"9237965","entrust_status_dict":"已成","stock_type":"L","stock_account":"0184731551","report_no":"11638","stock_name":"TMT中证A","batch_no":"11638","entrust_time":"95648","entrust_type_dict":"委托","entrust_date":"20170427","entrust_bs":"1","report_milltime":"95648708","business_amount":"179200.00","orig_order_id":"11638","curr_milltime":"95648704","entrust_price":"1.004","business_balance":"179916.80","entrust_no":"11638","report_time":"95648","cancel_info":" ","withdraw_amount":"0","entrust_prop_dict":"买卖","business_price":"1.004"},{"exchange_type":"1","entrust_type":"0","stock_code":"502011","entrust_prop":"0","order_id":"11733","position_str":"20170427040957068870184900011733","entrust_status":"6","entrust_amount":"65600.00","meeting_seq":" ","entrust_bs_dict":"买入","entrust_way":"7","init_date":"20170427","op_station":"WEB|IP:120.77.177.237,MAC:F0-7D-41-DA-4F-75,HDD:1SVEYNFA915146,ORIGIN:WEB","fund_account":"9237965","entrust_status_dict":"已撤","stock_type":"L","stock_account":"A283715360","report_no":"11733","stock_name":"证券A","batch_no":"11733","entrust_time":"95706","entrust_type_dict":"委托","entrust_date":"20170427","entrust_bs":"1","report_milltime":"95706892","business_amount":"0","orig_order_id":"11733","curr_milltime":"95706887","entrust_price":"1.025","business_balance":"0","entrust_no":"11733","report_time":"95706","cancel_info":" ","withdraw_amount":"65600.00","entrust_prop_dict":"买卖","business_price":"0"},{"exchange_type":"2","entrust_type":"0","stock_code":"150307","entrust_prop":"0","order_id":"13404","position_str":"20170427041002486940184900013404","entrust_status":"8","entrust_amount":"157025.00","meeting_seq":" ","entrust_bs_dict":"卖出","entrust_way":"7","init_date":"20170427","op_station":"WEB|IP:120.77.177.237,MAC:F0-7D-41-DA-4F-75,HDD:1SVEYNFA915146,ORIGIN:WEB","fund_account":"9237965","entrust_status_dict":"已成","stock_type":"L","stock_account":"0184731551","report_no":"13404","stock_name":"体育A","batch_no":"13404","entrust_time":"100248","entrust_type_dict":"委托","entrust_date":"20170427","entrust_bs":"2","report_milltime":"100248698","business_amount":"157025.00","orig_order_id":"13404","curr_milltime":"100248694","entrust_price":"1.009","business_balance":"158438.23","entrust_no":"13404","report_time":"100248","cancel_info":" ","withdraw_amount":"0","entrust_prop_dict":"买卖","business_price":"1.009"},{"exchange_type":"1","entrust_type":"2","stock_code":"502011","entrust_prop":"0","order_id":"11733","position_str":"20170427041003427140184900013669","entrust_status":"8","entrust_amount":"65600.00","meeting_seq":" ","entrust_bs_dict":"买入","entrust_way":"7","init_date":"20170427","op_station":"WEB|IP:120.77.177.237,MAC:F0-7D-41-DA-4F-75,HDD:1SVEYNFA915146,ORIGIN:WEB","fund_account":"9237965","entrust_status_dict":"已成","stock_type":"L","stock_account":"A283715360","report_no":"11733","stock_name":"证券A","batch_no":"13669","entrust_time":"100342","entrust_type_dict":"撤单","entrust_date":"20170427","entrust_bs":"1","report_milltime":"100342718","business_amount":"0","orig_order_id":"11733","curr_milltime":"100342714","entrust_price":"1.025","business_balance":"0","entrust_no":"13669","report_time":"100342","cancel_info":" ","withdraw_amount":"0","entrust_prop_dict":"买卖","business_price":"0"},{"exchange_type":"1","entrust_type":"0","stock_code":"502011","entrust_prop":"0","order_id":"13670","position_str":"20170427041003427660184900013670","entrust_status":"8","entrust_amount":"110736.00","meeting_seq":" ","entrust_bs_dict":"卖出","entrust_way":"7","init_date":"20170427","op_station":"WEB|IP:120.77.177.237,MAC:F0-7D-41-DA-4F-75,HDD:1SVEYNFA915146,ORIGIN:WEB","fund_account":"9237965","entrust_status_dict":"已成","stock_type":"L","stock_account":"A283715360","report_no":"13670","stock_name":"证券A","batch_no":"13670","entrust_time":"100342","entrust_type_dict":"委托","entrust_date":"20170427","entrust_bs":"2","report_milltime":"100342770","business_amount":"110736.00","orig_order_id":"13670","curr_milltime":"100342766","entrust_price":"1.029","business_balance":"113947.34","entrust_no":"13670","report_time":"100342","cancel_info":" ","withdraw_amount":"0","entrust_prop_dict":"买卖","business_price":"1.028"},{"exchange_type":"2","entrust_type":"0","stock_code":"150235","entrust_prop":"0","order_id":"13762","position_str":"20170427041004019760184900013762","entrust_status":"6","entrust_amount":"178500.00","meeting_seq":" ","entrust_bs_dict":"买入","entrust_way":"7","init_date":"20170427","op_station":"WEB|IP:120.77.177.237,MAC:F0-7D-41-DA-4F-75,HDD:1SVEYNFA915146,ORIGIN:WEB","fund_account":"9237965","entrust_status_dict":"已撤","stock_type":"L","stock_account":"0184731551","report_no":"13762","stock_name":"券商A级","batch_no":"13762","entrust_time":"100401","entrust_type_dict":"委托","entrust_date":"20170427","entrust_bs":"1","report_milltime":"100401983","business_amount":"0","orig_order_id":"13762","curr_milltime":"100401976","entrust_price":"1.008","business_balance":"0","entrust_no":"13762","report_time":"100401","cancel_info":" ","withdraw_amount":"178500.00","entrust_prop_dict":"买卖","business_price":"0"},{"exchange_type":"2","entrust_type":"0","stock_code":"150273","entrust_prop":"0","order_id":"15834","position_str":"20170427041011308360184900015834","entrust_status":"8","entrust_amount":"178275.00","meeting_seq":" ","entrust_bs_dict":"卖出","entrust_way":"7","init_date":"20170427","op_station":"WEB|IP:120.77.177.237,MAC:F0-7D-41-DA-4F-75,HDD:1SVEYNFA915146,ORIGIN:WEB","fund_account":"9237965","entrust_status_dict":"已成","stock_type":"L","stock_account":"0184731551","report_no":"15834","stock_name":"带路A","batch_no":"15834","entrust_time":"101130","entrust_type_dict":"委托","entrust_date":"20170427","entrust_bs":"2","report_milltime":"101130841","business_amount":"178275.00","orig_order_id":"15834","curr_milltime":"101130836","entrust_price":"1.020","business_balance":"181840.50","entrust_no":"15834","report_time":"101130","cancel_info":" ","withdraw_amount":"0","entrust_prop_dict":"买卖","business_price":"1.020"},{"exchange_type":"2","entrust_type":"0","stock_code":"150277","entrust_prop":"0","order_id":"21324","position_str":"20170427041034232600184900021324","entrust_status":"6","entrust_amount":"188900.00","meeting_seq":" ","entrust_bs_dict":"买入","entrust_way":"7","init_date":"20170427","op_station":"WEB|IP:120.77.177.237,MAC:F0-7D-41-DA-4F-75,HDD:1SVEYNFA915146,ORIGIN:WEB","fund_account":"9237965","entrust_status_dict":"已撤","stock_type":"L","stock_account":"0184731551","report_no":"21324","stock_name":"高铁A","batch_no":"21324","entrust_time":"103423","entrust_type_dict":"委托","entrust_date":"20170427","entrust_bs":"1","report_milltime":"103423264","business_amount":"0","orig_order_id":"21324","curr_milltime":"103423260","entrust_price":"1.017","business_balance":"0","entrust_no":"21324","report_time":"103423","cancel_info":" ","withdraw_amount":"188900.00","entrust_prop_dict":"买卖","business_price":"0"},{"exchange_type":"2","entrust_type":"2","stock_code":"150235","entrust_prop":"0","order_id":"25039","position_str":"20170427041051332980184900025039","entrust_status":"8","entrust_amount":"178500.00","meeting_seq":" ","entrust_bs_dict":"买入","entrust_way":"7","init_date":"20170427","op_station":"WEB|IP:120.77.177.237,MAC:F0-7D-41-DA-4F-75,HDD:1SVEYNFA915146,ORIGIN:WEB","fund_account":"9237965","entrust_status_dict":"已成","stock_type":"L","stock_account":"0184731551","report_no":"13762","stock_name":"券商A级","batch_no":"25039","entrust_time":"105133","entrust_type_dict":"撤单","entrust_date":"20170427","entrust_bs":"1","report_milltime":"105133304","business_amount":"0","orig_order_id":"13762","curr_milltime":"105133298","entrust_price":"1.008","business_balance":"0","entrust_no":"25039","report_time":"105133","cancel_info":" ","withdraw_amount":"0","entrust_prop_dict":"买卖","business_price":"0"},{"exchange_type":"2","entrust_type":"2","stock_code":"150277","entrust_prop":"0","order_id":"25042","position_str":"20170427041051333430184900025042","entrust_status":"8","entrust_amount":"188900.00","meeting_seq":" ","entrust_bs_dict":"买入","entrust_way":"7","init_date":"20170427","op_station":"WEB|IP:120.77.177.237,MAC:F0-7D-41-DA-4F-75,HDD:1SVEYNFA915146,ORIGIN:WEB","fund_account":"9237965","entrust_status_dict":"已成","stock_type":"L","stock_account":"0184731551","report_no":"21324","stock_name":"高铁A","batch_no":"25042","entrust_time":"105133","entrust_type_dict":"撤单","entrust_date":"20170427","entrust_bs":"1","report_milltime":"105133347","business_amount":"0","orig_order_id":"21324","curr_milltime":"105133343","entrust_price":"1.017","business_balance":"0","entrust_no":"25042","report_time":"105133","cancel_info":" ","withdraw_amount":"0","entrust_prop_dict":"买卖","business_price":"0"},{"exchange_type":"2","entrust_type":"0","stock_code":"150307","entrust_prop":"0","order_id":"25043","position_str":"20170427041051334060184900025043","entrust_status":"2","entrust_amount":"178900.00","meeting_seq":" ","entrust_bs_dict":"买入","entrust_way":"7","init_date":"20170427","op_station":"WEB|IP:120.77.177.237,MAC:F0-7D-41-DA-4F-75,HDD:1SVEYNFA915146,ORIGIN:WEB","fund_account":"9237965","entrust_status_dict":"已报","stock_type":"L","stock_account":"0184731551","report_no":"25043","stock_name":"体育A","batch_no":"25043","entrust_time":"105133","entrust_type_dict":"委托","entrust_date":"20170427","entrust_bs":"1","report_milltime":"105133410","business_amount":"0","orig_order_id":"25043","curr_milltime":"105133406","entrust_price":"1.006","business_balance":"0","entrust_no":"25043","report_time":"105133","cancel_info":" ","withdraw_amount":"0","entrust_prop_dict":"买卖","business_price":"0"},{"exchange_type":"2","entrust_type":"0","stock_code":"150273","entrust_prop":"0","order_id":"25106","position_str":"20170427041051514090184900025106","entrust_status":"6","entrust_amount":"188500.00","meeting_seq":" ","entrust_bs_dict":"买入","entrust_way":"7","init_date":"20170427","op_station":"WEB|IP:120.77.177.237,MAC:F0-7D-41-DA-4F-75,HDD:1SVEYNFA915146,ORIGIN:WEB","fund_account":"9237965","entrust_status_dict":"已撤","stock_type":"L","stock_account":"0184731551","report_no":"25106","stock_name":"带路A","batch_no":"25106","entrust_time":"105151","entrust_type_dict":"委托","entrust_date":"20170427","entrust_bs":"1","report_milltime":"105151413","business_amount":"0","orig_order_id":"25106","curr_milltime":"105151409","entrust_price":"1.019","business_balance":"0","entrust_no":"25106","report_time":"105151","cancel_info":" ","withdraw_amount":"188500.00","entrust_prop_dict":"买卖","business_price":"0"},{"exchange_type":"2","entrust_type":"2","stock_code":"150273","entrust_prop":"0","order_id":"25216","position_str":"20170427041052294840184900025216","entrust_status":"8","entrust_amount":"188500.00","meeting_seq":" ","entrust_bs_dict":"买入","entrust_way":"5","init_date":"20170427","op_station":"13802880480,6.0.1.3,iphone,3c058bd7-512a-4787-83fd-52502a377ed2,117.136.31.131:192.168.18.87,sjzq","fund_account":"9237965","entrust_status_dict":"已成","stock_type":"L","stock_account":"0184731551","report_no":"25106","stock_name":"带路A","batch_no":"25216","entrust_time":"105229","entrust_type_dict":"撤单","entrust_date":"20170427","entrust_bs":"1","report_milltime":"105229489","business_amount":"0","orig_order_id":"25106","curr_milltime":"105229484","entrust_price":"1.019","business_balance":"0","entrust_no":"25216","report_time":"105229","cancel_info":" ","withdraw_amount":"0","entrust_prop_dict":"买卖","business_price":"0"}],"success":true}
+2017-04-27 11:01:38,218 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:01:38,233 [INFO] astrategy.py 545: Now macket status: 0.4729411764705883
+2017-04-27 11:01:38,233 [INFO] astrategy.py 416: TOP:  ['150194', '150273', '150307', '150329', '150203', '150200', '150217']
+2017-04-27 11:01:38,233 [INFO] astrategy.py 417: NowPosition:  ['150173', '150255']
+2017-04-27 11:01:38,233 [INFO] astrategy.py 483: buy: 150194  value:  192170.42508000002 price: 1.005 nowprice: 1.005
+2017-04-27 11:02:33,920 [DEBUG] autotrader.py 38: Starting loginning
+2017-04-27 11:02:36,795 [INFO] autotrader.py 43: Now total balance: 1030070.94
+2017-04-27 11:02:36,811 [DEBUG] autotrader.py 110: Running started
+2017-04-27 11:02:55,764 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:02:55,764 [INFO] astrategy.py 545: Now macket status: 0.4761764705882353
+2017-04-27 11:02:55,764 [INFO] astrategy.py 416: TOP:  ['150194', '150273', '150307', '150329', '150200', '150217', '150173']
+2017-04-27 11:02:55,764 [INFO] astrategy.py 417: NowPosition:  ['150173', '150255']
+2017-04-27 11:03:13,717 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:03:13,733 [INFO] astrategy.py 545: Now macket status: 0.4847058823529412
+2017-04-27 11:03:13,733 [INFO] astrategy.py 416: TOP:  ['150194', '150273', '150307', '150329', '150200', '150217', '150173']
+2017-04-27 11:03:13,733 [INFO] astrategy.py 417: NowPosition:  ['150173', '150255']
+2017-04-27 11:03:31,732 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:03:31,748 [INFO] astrategy.py 545: Now macket status: 0.4902941176470589
+2017-04-27 11:03:31,748 [INFO] astrategy.py 416: TOP:  ['150194', '150273', '150307', '150329', '150200', '150217', '150173']
+2017-04-27 11:03:31,748 [INFO] astrategy.py 417: NowPosition:  ['150173', '150255']
+2017-04-27 11:03:49,764 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:03:49,764 [INFO] astrategy.py 545: Now macket status: 0.4873529411764706
+2017-04-27 11:03:49,764 [INFO] astrategy.py 416: TOP:  ['150194', '150273', '150307', '150329', '150200', '150217', '150173']
+2017-04-27 11:03:49,764 [INFO] astrategy.py 417: NowPosition:  ['150173', '150255']
+2017-04-27 11:04:07,748 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:04:07,748 [INFO] astrategy.py 545: Now macket status: 0.49323529411764716
+2017-04-27 11:04:07,748 [INFO] astrategy.py 416: TOP:  ['150194', '150307', '150329', '150200', '150217', '150173', '150186']
+2017-04-27 11:04:07,748 [INFO] astrategy.py 417: NowPosition:  ['150173', '150255']
+2017-04-27 11:04:25,701 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:04:25,701 [INFO] astrategy.py 545: Now macket status: 0.49323529411764716
+2017-04-27 11:04:25,717 [INFO] astrategy.py 416: TOP:  ['150194', '150307', '150329', '150200', '150217', '150173', '150186']
+2017-04-27 11:04:25,717 [INFO] astrategy.py 417: NowPosition:  ['150173', '150255']
+2017-04-27 11:04:43,732 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:04:43,732 [INFO] astrategy.py 545: Now macket status: 0.5132352941176471
+2017-04-27 11:04:43,732 [INFO] astrategy.py 416: TOP:  ['150194', '150307', '150329', '150200', '150217', '150173', '150186']
+2017-04-27 11:04:43,732 [INFO] astrategy.py 417: NowPosition:  ['150173', '150255']
+2017-04-27 11:05:01,748 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:05:01,763 [INFO] astrategy.py 545: Now macket status: 0.5105882352941177
+2017-04-27 11:05:01,763 [INFO] astrategy.py 416: TOP:  ['150194', '150307', '150329', '150205', '150200', '150217', '150173']
+2017-04-27 11:05:01,763 [INFO] astrategy.py 417: NowPosition:  ['150173', '150255']
+2017-04-27 11:05:19,810 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:05:19,810 [INFO] astrategy.py 545: Now macket status: 0.5076470588235295
+2017-04-27 11:05:19,810 [INFO] astrategy.py 416: TOP:  ['150194', '150307', '150329', '150205', '150200', '150217', '150173']
+2017-04-27 11:05:19,810 [INFO] astrategy.py 417: NowPosition:  ['150173', '150255']
+2017-04-27 11:05:37,669 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:05:37,669 [INFO] astrategy.py 545: Now macket status: 0.5161764705882355
+2017-04-27 11:05:37,669 [INFO] astrategy.py 416: TOP:  ['150194', '150307', '150329', '150200', '150217', '150173', '150186']
+2017-04-27 11:05:37,669 [INFO] astrategy.py 417: NowPosition:  ['150173', '150255']
+2017-04-27 11:05:55,763 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:05:55,779 [INFO] astrategy.py 545: Now macket status: 0.5161764705882355
+2017-04-27 11:05:55,779 [INFO] astrategy.py 416: TOP:  ['150194', '150307', '150329', '150200', '150217', '150173', '150186']
+2017-04-27 11:05:55,779 [INFO] astrategy.py 417: NowPosition:  ['150173', '150255']
+2017-04-27 11:06:14,122 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:06:14,122 [INFO] astrategy.py 545: Now macket status: 0.5161764705882355
+2017-04-27 11:06:14,122 [INFO] astrategy.py 416: TOP:  ['150194', '150307', '150329', '150200', '150217', '150173', '150186']
+2017-04-27 11:06:14,122 [INFO] astrategy.py 417: NowPosition:  ['150173', '150255']
+2017-04-27 11:06:31,732 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:06:31,747 [INFO] astrategy.py 545: Now macket status: 0.5044117647058823
+2017-04-27 11:06:31,747 [INFO] astrategy.py 416: TOP:  ['150173', '150194', '150307', '150186', '150329', '150200', '150217']
+2017-04-27 11:06:31,747 [INFO] astrategy.py 417: NowPosition:  ['150173', '150255']
+2017-04-27 11:06:49,794 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:06:49,810 [INFO] astrategy.py 545: Now macket status: 0.5014705882352941
+2017-04-27 11:06:49,810 [INFO] astrategy.py 416: TOP:  ['150173', '150194', '150307', '150186', '150217', '150329', '150200']
+2017-04-27 11:06:49,810 [INFO] astrategy.py 417: NowPosition:  ['150173', '150255']
+2017-04-27 11:07:07,794 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:07:07,810 [INFO] astrategy.py 545: Now macket status: 0.4323529411764706
+2017-04-27 11:07:07,810 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '150307', '150217', '150329', '150200']
+2017-04-27 11:07:07,810 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:07:25,841 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:07:25,841 [INFO] astrategy.py 545: Now macket status: 0.41500000000000004
+2017-04-27 11:07:25,841 [INFO] astrategy.py 416: TOP:  ['150255', '150173', '150273', '150194', '150307', '150217', '150329']
+2017-04-27 11:07:25,841 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:07:43,888 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:07:43,888 [INFO] astrategy.py 545: Now macket status: 0.4297058823529411
+2017-04-27 11:07:43,888 [INFO] astrategy.py 416: TOP:  ['150255', '150173', '150273', '150194', '150307', '150217', '150205']
+2017-04-27 11:07:43,888 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:08:01,747 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:08:01,779 [INFO] astrategy.py 545: Now macket status: 0.43235294117647055
+2017-04-27 11:08:01,779 [INFO] astrategy.py 416: TOP:  ['150255', '150173', '150273', '150194', '150307', '150200', '150217']
+2017-04-27 11:08:01,794 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:08:19,763 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:08:19,779 [INFO] astrategy.py 545: Now macket status: 0.4320588235294118
+2017-04-27 11:08:19,779 [INFO] astrategy.py 416: TOP:  ['150255', '150173', '150273', '150194', '150307', '150217', '150200']
+2017-04-27 11:08:19,779 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:08:37,701 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:08:37,701 [INFO] astrategy.py 545: Now macket status: 0.4320588235294118
+2017-04-27 11:08:37,716 [INFO] astrategy.py 416: TOP:  ['150255', '150173', '150273', '150194', '150307', '150217', '150200']
+2017-04-27 11:08:37,716 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:08:55,716 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:08:55,716 [INFO] astrategy.py 545: Now macket status: 0.4205882352941176
+2017-04-27 11:08:55,716 [INFO] astrategy.py 416: TOP:  ['150255', '150173', '150273', '150194', '150307', '150217', '150200']
+2017-04-27 11:08:55,716 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:09:13,747 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:09:13,747 [INFO] astrategy.py 545: Now macket status: 0.4205882352941176
+2017-04-27 11:09:13,763 [INFO] astrategy.py 416: TOP:  ['150255', '150173', '150273', '150194', '150307', '150217', '150205']
+2017-04-27 11:09:13,763 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:09:31,763 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:09:31,779 [INFO] astrategy.py 545: Now macket status: 0.42647058823529405
+2017-04-27 11:09:31,779 [INFO] astrategy.py 416: TOP:  ['150255', '150173', '150273', '150194', '150307', '150217', '150200']
+2017-04-27 11:09:31,779 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:09:49,810 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:09:49,826 [INFO] astrategy.py 545: Now macket status: 0.4264705882352941
+2017-04-27 11:09:49,826 [INFO] astrategy.py 416: TOP:  ['150255', '150173', '150273', '150194', '150307', '150217', '150200']
+2017-04-27 11:09:49,826 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:10:10,638 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:10:10,654 [INFO] astrategy.py 545: Now macket status: 0.4294117647058823
+2017-04-27 11:10:10,654 [INFO] astrategy.py 416: TOP:  ['150255', '150173', '150273', '150194', '150307', '150217', '150205']
+2017-04-27 11:10:10,654 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:10:25,966 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:10:25,966 [INFO] astrategy.py 545: Now macket status: 0.4326470588235294
+2017-04-27 11:10:25,966 [INFO] astrategy.py 416: TOP:  ['150255', '150173', '150273', '150194', '150307', '150217', '150205']
+2017-04-27 11:10:25,966 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:10:43,763 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:10:43,763 [INFO] astrategy.py 545: Now macket status: 0.43264705882352933
+2017-04-27 11:10:43,779 [INFO] astrategy.py 416: TOP:  ['150255', '150173', '150194', '150307', '150217', '150205', '150200']
+2017-04-27 11:10:43,779 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:11:01,763 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:11:01,779 [INFO] astrategy.py 545: Now macket status: 0.44705882352941173
+2017-04-27 11:11:01,779 [INFO] astrategy.py 416: TOP:  ['150255', '150173', '150194', '150307', '150217', '150205', '150200']
+2017-04-27 11:11:01,779 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:11:19,794 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:11:19,810 [INFO] astrategy.py 545: Now macket status: 0.44705882352941173
+2017-04-27 11:11:19,810 [INFO] astrategy.py 416: TOP:  ['150255', '150173', '150194', '150307', '150217', '150205', '150200']
+2017-04-27 11:11:19,810 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:11:37,747 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:11:37,747 [INFO] astrategy.py 545: Now macket status: 0.44705882352941173
+2017-04-27 11:11:37,763 [INFO] astrategy.py 416: TOP:  ['150255', '150173', '150194', '150307', '150217', '150205', '150200']
+2017-04-27 11:11:37,763 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:11:55,872 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:11:55,888 [INFO] astrategy.py 545: Now macket status: 0.44999999999999996
+2017-04-27 11:11:55,888 [INFO] astrategy.py 416: TOP:  ['150255', '150173', '150194', '150307', '150217', '150200', '150186']
+2017-04-27 11:11:55,888 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:12:13,982 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:12:13,982 [INFO] astrategy.py 545: Now macket status: 0.44999999999999996
+2017-04-27 11:12:13,997 [INFO] astrategy.py 416: TOP:  ['150255', '150173', '150194', '150307', '150217', '150200', '150186']
+2017-04-27 11:12:13,997 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:12:31,810 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:12:31,825 [INFO] astrategy.py 545: Now macket status: 0.44999999999999996
+2017-04-27 11:12:31,825 [INFO] astrategy.py 416: TOP:  ['150255', '150173', '150194', '150307', '150217', '150200', '150186']
+2017-04-27 11:12:31,825 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:12:49,810 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:12:49,810 [INFO] astrategy.py 545: Now macket status: 0.44999999999999996
+2017-04-27 11:12:49,825 [INFO] astrategy.py 416: TOP:  ['150255', '150173', '150194', '150307', '150217', '150200', '150186']
+2017-04-27 11:12:49,825 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:13:07,810 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:13:07,810 [INFO] astrategy.py 545: Now macket status: 0.44705882352941173
+2017-04-27 11:13:07,825 [INFO] astrategy.py 416: TOP:  ['150255', '150173', '150194', '150307', '150217', '150205', '150200']
+2017-04-27 11:13:07,825 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:13:25,794 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:13:25,810 [INFO] astrategy.py 545: Now macket status: 0.4644117647058823
+2017-04-27 11:13:25,810 [INFO] astrategy.py 416: TOP:  ['150255', '150173', '150194', '150307', '150217', '150205', '150200']
+2017-04-27 11:13:25,810 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:13:43,779 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:13:43,794 [INFO] astrategy.py 545: Now macket status: 0.4617647058823529
+2017-04-27 11:13:43,794 [INFO] astrategy.py 416: TOP:  ['150255', '150173', '150194', '150307', '150217', '150200', '150186']
+2017-04-27 11:13:43,794 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:14:01,779 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:14:01,794 [INFO] astrategy.py 545: Now macket status: 0.46470588235294114
+2017-04-27 11:14:01,794 [INFO] astrategy.py 416: TOP:  ['150255', '150173', '150194', '150307', '150217', '150200', '502004']
+2017-04-27 11:14:01,794 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:14:19,841 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:14:19,841 [INFO] astrategy.py 545: Now macket status: 0.4705882352941176
+2017-04-27 11:14:19,841 [INFO] astrategy.py 416: TOP:  ['150255', '150173', '150194', '150307', '150217', '150205', '150200']
+2017-04-27 11:14:19,841 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:14:37,825 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:14:37,841 [INFO] astrategy.py 545: Now macket status: 0.4735294117647058
+2017-04-27 11:14:37,841 [INFO] astrategy.py 416: TOP:  ['150255', '150173', '150194', '150307', '150217', '150205', '150200']
+2017-04-27 11:14:37,841 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:14:56,997 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:14:56,997 [INFO] astrategy.py 545: Now macket status: 0.4761764705882352
+2017-04-27 11:14:57,013 [INFO] astrategy.py 416: TOP:  ['150255', '150173', '150194', '150307', '150217', '150200', '150186']
+2017-04-27 11:14:57,013 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:15:13,982 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:15:13,982 [INFO] astrategy.py 545: Now macket status: 0.4761764705882352
+2017-04-27 11:15:13,982 [INFO] astrategy.py 416: TOP:  ['150255', '150173', '150194', '150307', '150217', '150200', '150186']
+2017-04-27 11:15:13,982 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:15:31,794 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:15:31,810 [INFO] astrategy.py 545: Now macket status: 0.47882352941176476
+2017-04-27 11:15:31,810 [INFO] astrategy.py 416: TOP:  ['150255', '150173', '150194', '150307', '150217', '150200', '150186']
+2017-04-27 11:15:31,810 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:15:49,779 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:15:49,794 [INFO] astrategy.py 545: Now macket status: 0.4670588235294117
+2017-04-27 11:15:49,794 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '150307', '150217', '150205', '150200']
+2017-04-27 11:15:49,794 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:16:10,216 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:16:10,232 [INFO] astrategy.py 545: Now macket status: 0.4726470588235294
+2017-04-27 11:16:10,232 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '150307', '150186', '150217', '150205']
+2017-04-27 11:16:10,232 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:16:25,826 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:16:25,841 [INFO] astrategy.py 545: Now macket status: 0.4726470588235294
+2017-04-27 11:16:25,841 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '150307', '150217', '150205', '150200']
+2017-04-27 11:16:25,841 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:16:43,810 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:16:43,810 [INFO] astrategy.py 545: Now macket status: 0.4755882352941177
+2017-04-27 11:16:43,810 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '150307', '150186', '150217', '150205']
+2017-04-27 11:16:43,810 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:17:01,857 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:17:01,873 [INFO] astrategy.py 545: Now macket status: 0.4697058823529412
+2017-04-27 11:17:01,873 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '150307', '150217', '150205', '150200']
+2017-04-27 11:17:01,873 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:17:19,795 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:17:19,795 [INFO] astrategy.py 545: Now macket status: 0.4667647058823529
+2017-04-27 11:17:19,795 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '150307', '150217', '150205', '150200']
+2017-04-27 11:17:19,795 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:17:37,810 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:17:37,826 [INFO] astrategy.py 545: Now macket status: 0.4755882352941177
+2017-04-27 11:17:37,826 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '150307', '150217', '150200', '150186']
+2017-04-27 11:17:37,826 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:17:55,812 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:17:55,828 [INFO] astrategy.py 545: Now macket status: 0.4755882352941177
+2017-04-27 11:17:55,828 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '150307', '150217', '150200', '150186']
+2017-04-27 11:17:55,828 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:18:13,859 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:18:13,875 [INFO] astrategy.py 545: Now macket status: 0.4755882352941177
+2017-04-27 11:18:13,875 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '150307', '150217', '150200', '150186']
+2017-04-27 11:18:13,875 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:18:31,828 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:18:31,828 [INFO] astrategy.py 545: Now macket status: 0.4755882352941177
+2017-04-27 11:18:31,843 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '150307', '150217', '150205', '150200']
+2017-04-27 11:18:31,843 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:18:49,843 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:18:49,843 [INFO] astrategy.py 545: Now macket status: 0.47000000000000003
+2017-04-27 11:18:49,843 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '150307', '150217', '150205', '150200']
+2017-04-27 11:18:49,859 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:19:07,922 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:19:07,922 [INFO] astrategy.py 545: Now macket status: 0.47000000000000003
+2017-04-27 11:19:07,922 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '150307', '150217', '150205', '150200']
+2017-04-27 11:19:07,922 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:19:25,828 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:19:25,843 [INFO] astrategy.py 545: Now macket status: 0.47000000000000003
+2017-04-27 11:19:25,843 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '150307', '150217', '150205', '150200']
+2017-04-27 11:19:25,843 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:19:45,078 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:19:45,078 [INFO] astrategy.py 545: Now macket status: 0.4670588235294118
+2017-04-27 11:19:45,078 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '150307', '150217', '150205', '150200']
+2017-04-27 11:19:45,078 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:20:05,218 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:20:05,218 [INFO] astrategy.py 545: Now macket status: 0.47000000000000003
+2017-04-27 11:20:05,218 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '150307', '150217', '150205', '150200']
+2017-04-27 11:20:05,218 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:20:19,875 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:20:19,890 [INFO] astrategy.py 545: Now macket status: 0.4670588235294118
+2017-04-27 11:20:19,890 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '502004', '150307', '150217', '150205']
+2017-04-27 11:20:19,890 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:20:39,062 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:20:39,078 [INFO] astrategy.py 545: Now macket status: 0.4670588235294118
+2017-04-27 11:20:39,078 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '502004', '150307', '150217', '150205']
+2017-04-27 11:20:39,078 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:20:56,125 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:20:56,140 [INFO] astrategy.py 545: Now macket status: 0.47000000000000003
+2017-04-27 11:20:56,140 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '150307', '150217', '150205', '150200']
+2017-04-27 11:20:56,140 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:21:13,828 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:21:13,828 [INFO] astrategy.py 545: Now macket status: 0.4641176470588236
+2017-04-27 11:21:13,828 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '150307', '150217', '150205', '150200']
+2017-04-27 11:21:13,844 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:21:31,844 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:21:31,844 [INFO] astrategy.py 545: Now macket status: 0.4641176470588236
+2017-04-27 11:21:31,859 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '150307', '150217', '150205', '150200']
+2017-04-27 11:21:31,859 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:21:49,844 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:21:49,859 [INFO] astrategy.py 545: Now macket status: 0.47235294117647064
+2017-04-27 11:21:49,859 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '502004', '150307', '150217', '150205']
+2017-04-27 11:21:49,859 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:22:07,781 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:22:07,797 [INFO] astrategy.py 545: Now macket status: 0.48382352941176476
+2017-04-27 11:22:07,797 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '502004', '150307', '150217', '150200']
+2017-04-27 11:22:07,797 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:22:26,062 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:22:26,062 [INFO] astrategy.py 545: Now macket status: 0.47794117647058826
+2017-04-27 11:22:26,062 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '502004', '150307', '150217', '150205']
+2017-04-27 11:22:26,062 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:22:43,859 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:22:43,875 [INFO] astrategy.py 545: Now macket status: 0.478235294117647
+2017-04-27 11:22:43,875 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '502004', '150307', '150217', '150205']
+2017-04-27 11:22:43,875 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:23:01,844 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:23:01,844 [INFO] astrategy.py 545: Now macket status: 0.478235294117647
+2017-04-27 11:23:01,844 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '502004', '150307', '150217', '150205']
+2017-04-27 11:23:01,859 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:23:19,859 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:23:19,875 [INFO] astrategy.py 545: Now macket status: 0.48117647058823526
+2017-04-27 11:23:19,875 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '502004', '150307', '150217', '150205']
+2017-04-27 11:23:19,875 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:23:37,890 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:23:37,906 [INFO] astrategy.py 545: Now macket status: 0.4838235294117647
+2017-04-27 11:23:37,906 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '150307', '150217', '150205', '150200']
+2017-04-27 11:23:37,906 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:23:56,062 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:23:56,078 [INFO] astrategy.py 545: Now macket status: 0.4752941176470588
+2017-04-27 11:23:56,078 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '502004', '150307', '150217', '150205']
+2017-04-27 11:23:56,078 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:24:13,828 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:24:13,844 [INFO] astrategy.py 545: Now macket status: 0.478235294117647
+2017-04-27 11:24:13,844 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '502004', '150307', '150217', '150205']
+2017-04-27 11:24:13,844 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:24:31,797 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:24:31,812 [INFO] astrategy.py 545: Now macket status: 0.478235294117647
+2017-04-27 11:24:31,812 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '502004', '150307', '150217', '150205']
+2017-04-27 11:24:31,812 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:24:49,828 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:24:49,828 [INFO] astrategy.py 545: Now macket status: 0.4702941176470588
+2017-04-27 11:24:49,828 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '150307', '150217', '150205', '150200']
+2017-04-27 11:24:49,828 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:25:07,828 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:25:07,844 [INFO] astrategy.py 545: Now macket status: 0.4673529411764706
+2017-04-27 11:25:07,844 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '150307', '150217', '150205', '150200']
+2017-04-27 11:25:07,844 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:25:25,844 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:25:25,844 [INFO] astrategy.py 545: Now macket status: 0.4673529411764706
+2017-04-27 11:25:25,844 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '150307', '150217', '150200', '502004']
+2017-04-27 11:25:25,844 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:25:43,828 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:25:43,844 [INFO] astrategy.py 545: Now macket status: 0.4673529411764706
+2017-04-27 11:25:43,844 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '150307', '150200', '150217', '502004']
+2017-04-27 11:25:43,844 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:26:01,812 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:26:01,812 [INFO] astrategy.py 545: Now macket status: 0.47882352941176476
+2017-04-27 11:26:01,812 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '150307', '150217', '150200', '502004']
+2017-04-27 11:26:01,828 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:26:19,890 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:26:19,890 [INFO] astrategy.py 545: Now macket status: 0.4758823529411765
+2017-04-27 11:26:19,890 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '150307', '150217', '150200', '502004']
+2017-04-27 11:26:19,890 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:26:37,812 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:26:37,828 [INFO] astrategy.py 545: Now macket status: 0.4758823529411765
+2017-04-27 11:26:37,828 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '150307', '150217', '150205', '150200']
+2017-04-27 11:26:37,828 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:26:55,859 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:26:55,875 [INFO] astrategy.py 545: Now macket status: 0.4758823529411765
+2017-04-27 11:26:55,875 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '150307', '150217', '150205', '150200']
+2017-04-27 11:26:55,875 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:27:13,844 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:27:13,859 [INFO] astrategy.py 545: Now macket status: 0.4758823529411765
+2017-04-27 11:27:13,859 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '150307', '150217', '150205', '150200']
+2017-04-27 11:27:13,859 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:27:31,922 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:27:31,922 [INFO] astrategy.py 545: Now macket status: 0.4729411764705882
+2017-04-27 11:27:31,922 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '150273', '150307', '150217', '150200']
+2017-04-27 11:27:31,922 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:27:50,062 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:27:50,062 [INFO] astrategy.py 545: Now macket status: 0.4614705882352941
+2017-04-27 11:27:50,062 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '150273', '150307', '150217', '150205']
+2017-04-27 11:27:50,062 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:28:07,844 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:28:07,844 [INFO] astrategy.py 545: Now macket status: 0.45852941176470585
+2017-04-27 11:28:07,859 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '150273', '150307', '150217', '150200']
+2017-04-27 11:28:07,859 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173']
+2017-04-27 11:28:25,812 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:28:25,812 [INFO] astrategy.py 545: Now macket status: 0.45852941176470585
+2017-04-27 11:28:25,812 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '150273', '150307', '150217', '150200']
+2017-04-27 11:28:25,812 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173', '150307']
+2017-04-27 11:28:43,828 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:28:43,828 [INFO] astrategy.py 545: Now macket status: 0.4526470588235294
+2017-04-27 11:28:43,844 [INFO] astrategy.py 416: TOP:  ['150307', '150255', '150194', '150173', '150273', '150217', '150200']
+2017-04-27 11:28:43,844 [INFO] astrategy.py 417: NowPosition:  ['150307', '150255', '150173']
+2017-04-27 11:29:01,953 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:29:01,969 [INFO] astrategy.py 545: Now macket status: 0.44911764705882357
+2017-04-27 11:29:01,969 [INFO] astrategy.py 416: TOP:  ['150307', '150255', '150194', '150173', '150273', '150217', '150205']
+2017-04-27 11:29:01,969 [INFO] astrategy.py 417: NowPosition:  ['150307', '150255', '150173']
+2017-04-27 11:29:19,875 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 11:29:19,890 [INFO] astrategy.py 545: Now macket status: 0.44911764705882357
+2017-04-27 11:29:19,890 [INFO] astrategy.py 416: TOP:  ['150307', '150255', '150194', '150173', '150273', '150217', '150205']
+2017-04-27 11:29:19,890 [INFO] astrategy.py 417: NowPosition:  ['150307', '150255', '150173']
+2017-04-27 11:29:36,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:29:54,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:30:12,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:30:30,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:30:48,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:31:06,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:31:24,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:31:42,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:32:00,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:32:18,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:32:36,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:32:54,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:33:12,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:33:30,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:33:48,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:34:06,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:34:24,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:34:42,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:35:00,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:35:18,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:35:36,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:35:54,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:36:12,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:36:30,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:36:48,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:37:06,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:37:24,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:37:42,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:38:00,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:38:18,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:38:36,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:38:54,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:39:12,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:39:30,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:39:48,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:40:06,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:40:24,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:40:42,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:41:00,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:41:18,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:41:36,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:41:54,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:42:12,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:42:30,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:42:48,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:43:06,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:43:24,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:43:42,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:44:00,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:44:18,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:44:36,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:44:54,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:45:12,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:45:30,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:45:48,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:46:06,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:46:24,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:46:42,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:47:00,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:47:18,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:47:36,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:47:54,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:48:12,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:48:30,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:48:48,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:49:06,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:49:24,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:49:42,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:50:00,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:50:18,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:50:36,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:50:54,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:51:12,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:51:30,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:51:48,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:52:06,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:52:24,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:52:42,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:53:00,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:53:18,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:53:36,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:53:54,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:54:12,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:54:30,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:54:48,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:55:06,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:55:24,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:55:42,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:56:00,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:56:18,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:56:36,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:56:54,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:57:12,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:57:30,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:57:48,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:58:06,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:58:24,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:58:42,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:59:00,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:59:18,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:59:36,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 11:59:54,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:00:12,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:00:30,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:00:48,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:01:06,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:01:24,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:01:42,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:02:00,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:02:18,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:02:36,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:02:54,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:03:12,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:03:30,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:03:48,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:04:06,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:04:24,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:04:42,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:05:00,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:05:18,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:05:36,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:05:54,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:06:12,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:06:30,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:06:48,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:07:06,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:07:24,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:07:42,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:08:00,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:08:18,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:08:36,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:08:54,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:09:12,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:09:30,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:09:48,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:10:06,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:10:24,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:10:42,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:11:00,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:11:18,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:11:36,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:11:54,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:12:12,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:12:30,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:12:48,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:13:06,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:13:24,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:13:42,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:14:00,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:14:18,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:14:36,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:14:54,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:15:12,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:15:30,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:15:48,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:16:06,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:16:24,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:16:42,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:17:00,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:17:18,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:17:36,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:17:54,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:18:12,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:18:30,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:18:48,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:19:06,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:19:24,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:19:42,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:20:00,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:20:18,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:20:36,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:20:54,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:21:12,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:21:30,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:21:48,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:22:06,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:22:24,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:22:42,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:23:00,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:23:18,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:23:36,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:23:54,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:24:12,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:24:30,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:24:48,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:25:06,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:25:24,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:25:42,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:26:00,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:26:18,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:26:36,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:26:54,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:27:12,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:27:30,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:27:48,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:28:06,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:28:24,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:28:42,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:29:00,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:29:18,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:29:36,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:29:54,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:30:12,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:30:30,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:30:48,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:31:06,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:31:24,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:31:42,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:32:00,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:32:18,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:32:36,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:32:54,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:33:12,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:33:30,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:33:48,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:34:06,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:34:24,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:34:42,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:35:00,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:35:18,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:35:36,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:35:54,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:36:12,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:36:30,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:36:48,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:37:06,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:37:24,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:37:42,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:38:00,922 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:38:18,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:38:36,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:38:54,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:39:12,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:39:30,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:39:48,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:40:06,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:40:24,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:40:42,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:41:00,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:41:18,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:41:36,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:41:54,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:42:12,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:42:30,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:42:48,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:43:06,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:43:24,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:43:42,921 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:44:00,920 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:44:18,920 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:44:36,920 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:44:54,920 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:45:12,920 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:45:30,920 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:45:48,920 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:46:06,920 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:46:24,920 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:46:42,920 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:47:00,920 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:47:18,920 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:47:36,920 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:47:54,920 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:48:12,920 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:48:30,920 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:48:48,920 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:49:06,920 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:49:24,920 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:49:42,920 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:50:00,920 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:50:18,920 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:50:36,920 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:50:54,920 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:51:12,920 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:51:30,920 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:51:48,920 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:52:06,920 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:52:24,920 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:52:42,920 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:53:00,920 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:53:18,920 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:53:36,920 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:53:54,920 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:54:12,920 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:54:30,920 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:54:48,920 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:55:06,920 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:55:24,920 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:55:42,920 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:56:00,920 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:56:18,920 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:56:36,920 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:56:54,919 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:57:12,920 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:57:30,919 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:57:48,919 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:58:06,919 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:58:24,919 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:58:42,919 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:59:00,919 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:59:18,919 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:59:36,919 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 12:59:54,919 [DEBUG] autotrader.py 71: Out of time, pass
+2017-04-27 13:00:16,826 [ERROR] autotrader.py 88: Retry times out
+2017-04-27 13:00:16,826 [DEBUG] autotrader.py 38: Starting loginning
+2017-04-27 13:00:22,435 [INFO] autotrader.py 43: Now total balance: 1029223.34
+2017-04-27 13:00:24,013 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 13:00:24,029 [INFO] astrategy.py 545: Now macket status: 0.46147058823529413
+2017-04-27 13:00:24,029 [INFO] astrategy.py 416: TOP:  ['150307', '150255', '150194', '150173', '502004', '150217', '150273']
+2017-04-27 13:00:24,029 [INFO] astrategy.py 417: NowPosition:  ['150307', '150255', '150173']
+2017-04-27 13:00:32,466 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 13:00:32,466 [INFO] astrategy.py 545: Now macket status: 0.4555882352941177
+2017-04-27 13:00:32,482 [INFO] astrategy.py 416: TOP:  ['150307', '150255', '150173', '502004', '150194', '150186', '150200']
+2017-04-27 13:00:32,482 [INFO] astrategy.py 417: NowPosition:  ['150307', '150255', '150173']
+2017-04-27 13:00:50,482 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 13:00:50,482 [INFO] astrategy.py 545: Now macket status: 0.4579411764705883
+2017-04-27 13:00:50,498 [INFO] astrategy.py 416: TOP:  ['150307', '150255', '150173', '502004', '150194', '150186', '150200']
+2017-04-27 13:00:50,498 [INFO] astrategy.py 417: NowPosition:  ['150307', '150255', '150173']
+2017-04-27 13:01:08,466 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 13:01:08,482 [INFO] astrategy.py 545: Now macket status: 0.48411764705882354
+2017-04-27 13:01:08,482 [INFO] astrategy.py 416: TOP:  ['150307', '150255', '150173', '502004', '150194', '150186', '150200']
+2017-04-27 13:01:08,482 [INFO] astrategy.py 417: NowPosition:  ['150307', '150255', '150173']
+2017-04-27 13:01:26,591 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 13:01:26,607 [INFO] astrategy.py 545: Now macket status: 0.46647058823529414
+2017-04-27 13:01:26,607 [INFO] astrategy.py 416: TOP:  ['150307', '150255', '150173', '502004', '150194', '150186', '150200']
+2017-04-27 13:01:26,607 [INFO] astrategy.py 417: NowPosition:  ['150307', '150255', '150173', '888880']
+2017-04-27 13:01:44,482 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 13:01:44,497 [INFO] astrategy.py 545: Now macket status: 0.4635294117647059
+2017-04-27 13:01:44,497 [INFO] astrategy.py 416: TOP:  ['150307', '150255', '150173', '502004', '150194', '150186', '150200']
+2017-04-27 13:01:44,497 [INFO] astrategy.py 417: NowPosition:  ['150307', '150255', '150173', '888880']
+2017-04-27 13:02:02,451 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 13:02:02,466 [INFO] astrategy.py 545: Now macket status: 0.5100000000000001
+2017-04-27 13:02:02,466 [INFO] astrategy.py 416: TOP:  ['150307', '150255', '150173', '502004', '150194', '150186', '150200']
+2017-04-27 13:02:02,466 [INFO] astrategy.py 417: NowPosition:  ['150307', '150255', '150173', '888880']
+2017-04-27 13:02:20,529 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 13:02:20,529 [INFO] astrategy.py 545: Now macket status: 0.5070588235294118
+2017-04-27 13:02:20,529 [INFO] astrategy.py 416: TOP:  ['150255', '150173', '502004', '150194', '150307', '150186', '150205']
+2017-04-27 13:02:20,544 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173', '150307', '888880']
+2017-04-27 13:02:38,497 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 13:02:38,513 [INFO] astrategy.py 545: Now macket status: 0.5070588235294118
+2017-04-27 13:02:38,513 [INFO] astrategy.py 416: TOP:  ['150255', '150173', '502004', '150194', '150307', '150186', '150205']
+2017-04-27 13:02:38,513 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173', '150307', '888880']
+2017-04-27 13:02:56,513 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 13:02:56,513 [INFO] astrategy.py 545: Now macket status: 0.5041176470588236
+2017-04-27 13:02:56,529 [INFO] astrategy.py 416: TOP:  ['150255', '150173', '150194', '150307', '150205', '150200', '150217']
+2017-04-27 13:02:56,529 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173', '150307', '888880']
+2017-04-27 13:03:14,513 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 13:03:14,513 [INFO] astrategy.py 545: Now macket status: 0.5070588235294118
+2017-04-27 13:03:14,513 [INFO] astrategy.py 416: TOP:  ['150255', '150173', '150194', '150307', '150205', '150200', '150217']
+2017-04-27 13:03:14,513 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173', '150307', '888880']
+2017-04-27 13:03:32,482 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 13:03:32,497 [INFO] astrategy.py 545: Now macket status: 0.5070588235294118
+2017-04-27 13:03:32,497 [INFO] astrategy.py 416: TOP:  ['150255', '150173', '150194', '150307', '150205', '150200', '150217']
+2017-04-27 13:03:32,497 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173', '150307', '888880']
+2017-04-27 13:03:50,497 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 13:03:50,513 [INFO] astrategy.py 545: Now macket status: 0.5014705882352941
+2017-04-27 13:03:50,513 [INFO] astrategy.py 416: TOP:  ['150255', '150173', '150194', '150307', '150205', '150200', '150217']
+2017-04-27 13:03:50,513 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173', '150307', '888880']
+2017-04-27 13:04:08,482 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 13:04:08,482 [INFO] astrategy.py 545: Now macket status: 0.501764705882353
+2017-04-27 13:04:08,482 [INFO] astrategy.py 416: TOP:  ['150255', '150173', '150194', '150307', '150205', '150200', '150217']
+2017-04-27 13:04:08,482 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173', '150307', '888880']
+2017-04-27 13:04:26,497 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 13:04:26,513 [INFO] astrategy.py 545: Now macket status: 0.4988235294117647
+2017-04-27 13:04:26,513 [INFO] astrategy.py 416: TOP:  ['150255', '150173', '150194', '150307', '150205', '150200', '150217']
+2017-04-27 13:04:26,513 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173', '150307', '888880']
+2017-04-27 13:04:44,450 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 13:04:44,466 [INFO] astrategy.py 545: Now macket status: 0.4988235294117647
+2017-04-27 13:04:44,466 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '150307', '150205', '150200', '150217']
+2017-04-27 13:04:44,466 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173', '150307', '888880']
+2017-04-27 13:05:02,466 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 13:05:02,482 [INFO] astrategy.py 545: Now macket status: 0.4988235294117647
+2017-04-27 13:05:02,482 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '150307', '150205', '150200', '150217']
+2017-04-27 13:05:02,482 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173', '150307', '888880']
+2017-04-27 13:05:20,450 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 13:05:20,450 [INFO] astrategy.py 545: Now macket status: 0.49294117647058827
+2017-04-27 13:05:20,450 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '150307', '150205', '150200', '150217']
+2017-04-27 13:05:20,450 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173', '150307', '888880']
+2017-04-27 13:05:38,450 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 13:05:38,466 [INFO] astrategy.py 545: Now macket status: 0.46970588235294125
+2017-04-27 13:05:38,466 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '150307', '150205', '150200', '150217']
+2017-04-27 13:05:38,466 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173', '150307', '888880']
+2017-04-27 13:05:56,482 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 13:05:56,497 [INFO] astrategy.py 545: Now macket status: 0.46970588235294125
+2017-04-27 13:05:56,497 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '150307', '150205', '150200', '150217']
+2017-04-27 13:05:56,497 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173', '150307', '888880']
+2017-04-27 13:06:14,435 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 13:06:14,450 [INFO] astrategy.py 545: Now macket status: 0.466764705882353
+2017-04-27 13:06:14,450 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '150307', '150205', '150200', '150217']
+2017-04-27 13:06:14,450 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173', '150307', '888880']
+2017-04-27 13:06:32,466 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 13:06:32,466 [INFO] astrategy.py 545: Now macket status: 0.46970588235294125
+2017-04-27 13:06:32,482 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '502004', '150307', '150205', '150200']
+2017-04-27 13:06:32,482 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173', '150307', '888880']
+2017-04-27 13:06:50,466 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 13:06:50,466 [INFO] astrategy.py 545: Now macket status: 0.4726470588235294
+2017-04-27 13:06:50,466 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '502004', '150307', '150205', '150200']
+2017-04-27 13:06:50,466 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173', '150307', '888880']
+2017-04-27 13:07:08,466 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 13:07:08,482 [INFO] astrategy.py 545: Now macket status: 0.466764705882353
+2017-04-27 13:07:08,482 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '150307', '150205', '150200', '150217']
+2017-04-27 13:07:08,482 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173', '150307', '888880']
+2017-04-27 13:07:26,513 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 13:07:26,528 [INFO] astrategy.py 545: Now macket status: 0.466764705882353
+2017-04-27 13:07:26,528 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '150307', '150205', '150200', '150217']
+2017-04-27 13:07:26,528 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173', '150307', '888880']
+2017-04-27 13:07:44,513 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 13:07:44,513 [INFO] astrategy.py 545: Now macket status: 0.4726470588235294
+2017-04-27 13:07:44,528 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '150307', '150205', '150200', '150217']
+2017-04-27 13:07:44,528 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173', '150307', '888880']
+2017-04-27 13:08:03,357 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 13:08:03,372 [INFO] astrategy.py 545: Now macket status: 0.4726470588235294
+2017-04-27 13:08:03,372 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '150307', '150205', '150200', '150217']
+2017-04-27 13:08:03,372 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173', '150307', '888880']
+2017-04-27 13:08:20,466 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 13:08:20,482 [INFO] astrategy.py 545: Now macket status: 0.466764705882353
+2017-04-27 13:08:20,482 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '150307', '150205', '150200', '150217']
+2017-04-27 13:08:20,482 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173', '150307', '888880']
+2017-04-27 13:08:38,497 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 13:08:38,497 [INFO] astrategy.py 545: Now macket status: 0.466764705882353
+2017-04-27 13:08:38,497 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '150307', '150205', '150200', '150217']
+2017-04-27 13:08:38,497 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173', '150307', '888880']
+2017-04-27 13:08:56,482 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 13:08:56,497 [INFO] astrategy.py 545: Now macket status: 0.4755882352941177
+2017-04-27 13:08:56,497 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '150307', '150205', '150200', '150217']
+2017-04-27 13:08:56,497 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173', '150307', '888880']
+2017-04-27 13:09:14,513 [INFO] astrategy.py 136: 集思录数据 page:1, rows:139
+2017-04-27 13:09:14,528 [INFO] astrategy.py 545: Now macket status: 0.4697058823529412
+2017-04-27 13:09:14,528 [INFO] astrategy.py 416: TOP:  ['150255', '150194', '150173', '150307', '150205', '150200', '150217']
+2017-04-27 13:09:14,528 [INFO] astrategy.py 417: NowPosition:  ['150255', '150173', '150307', '888880']
+2017-04-27 13:09:31,732 [ERROR] autotrader.py 88: Retry times out
+2017-04-27 13:09:31,732 [DEBUG] autotrader.py 38: Starting loginning

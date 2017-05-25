@@ -1,9 +1,9 @@
 {
-	"max_A" : 5,
+	"max_A" : 4,
 	"max_position" : 0.95,
 	"each_position" : 0.382,
-	"min_position_value" : 170000,
-	"min_point" : 0.8,
+	"min_position_value" : 180000,
+	"min_point" : 0.618,
 	"min_dis" : 0.007,
 	"max_price_dis" : 0.003,
 	"status_dis" : 0.30
